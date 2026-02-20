@@ -1,0 +1,1337 @@
+Chapter 2 - The Origins and Dispersals of Agriculture: Some Operational Considerations
+======================================================================================
+
+First Farmers: The Origins of Agricultural Societies by Peter Bellwood
+    
+    
+    
+    
+    
+  
+
+  
+
+Chapter 2
+
+The Origins and Dispersals of 
+
+Agriculture: Some Operational 
+
+Considerations
+
+The origins of agriculture involve both human intentionality and a set of underlying 
+ecological and evolutionary principles. (Kent Flannery, 1986:4)
+
+The main theme of this book revolves around the large-scale Neolithic/ Formative 
+dispersals of agricultural systems and communities that can be detected in the linguistic 
+and archaeological records. Such dispersals, it is held, would have occurred most positively and coherently if the agricultural communities involved in the process already 
+depended on agriculture (including animal husbandry) for the greater part of their 
+subsistence needs, and if they had the technology and skills to establish such agricultural systems in new environments. Many hunters and gatherers of the ethnographic 
+record have resource management skills that can mimic agriculture, and some have 
+even adopted minor forms of casual cultivation. But such low-energy economies 
+cannot account for the episodes of massive cultural and linguistic punctuation with 
+which we are concerned. So we must first examine several important questions:
+
+1. What is agriculture and what levels of productivity and population density can it 
+support?
+
+2. How did agriculture originate?
+
+3. How does it relate in terms of productivity and scheduling to hunting and 
+gathering?
+
+4. How might hunter-gatherers have reacted when they first came into contact 
+with agriculturalists?
+
+5. How can a hunter-gatherer economic system be transformed into a fully agricultural one through contact and borrowing?
+
+To examine such questions, it is necessary to start with a few definitions.
+
+Resource management, a generalized set of activities that can be carried out by farmers, 
+hunters, and gatherers alike, can be defined as any technique that propagates, tends, 
+or protects a species, reduces competition, prolongs or increases the harvest, insures 
+the appearance of a species at a particular time in a particular place, extends the 
+range of or otherwise modifies the nature, distribution, and density of a species (after 
+Winter and Hogan 1986:120; the authors actually use this definition for what they 
+call plant husbandry). Resource management is not synonymous with agriculture or cultivation and it has obviously been practiced to some degree by all plant and 
+animal exploiters since long before agriculture began.
+
+Cultivation, an essential component of any agricultural system, defines a sequence 
+of human activity whereby crops are planted (as a seed or vegetative part), protected, 
+harvested, then deliberately sown again, usually in a prepared plot of ground, in the 
+following growing season. Cultivation is a conscious activity, and the seasonal cycle 
+of planting played a crucial role in the evolution of the first domesticated plants. 
+Wild plants as well as domesticated ones can be cultivated, although in cases where 
+seed crops are harvested fairly ripe and later replanted one would expect the cultivation activity to select for domesticated features in plant phenotypes fairly quickly. 
+This process is discussed more fully in the following chapter.
+
+Domesticated plants in the archaeological record are those that show recognizable 
+indications of morphological change away from the wild phenotype, attributable to 
+human interference in the genotype through cultivation, via the conscious or unconscious selection of traits. Certain domesticated plants have become dependent on 
+humans for their propagation - the seed heads of many cereals, for instance, have 
+lost their ability to disintegrate when ripe and to disperse their seeds, a characteristic 
+most visible in the modem maize cob. Here, however, the concept of domestication 
+is simply used for any recognizable degree of phenotypic change that can be attributed 
+to human management, and no assumption is made that the plant in question could 
+not have propagated itself under natural conditions.
+
+For animals, the concept of domestication is invoked when there are relatively 
+undisputed signs of human control and breeding of a species. Such signs can normally 
+be claimed in situations where animals were transported out of their homeland 
+regions - for instance, goats and sheep from Southwest Asia into Europe and Africa, 
+pigs and chickens from China and Southeast Asia into the Pacific. In putative homeland areas for such animals, especially where there was exploitation of wild ancestral 
+species in pre-agricultural times, it can often be difficult to distinguish animal husbandry 
+from hunting in early agricultural contexts. Also, the criteria for identifying domestication in many animal species are rather diffuse and based on long-term trends rather 
+than sudden changes in bone metrics and age/ sex ratios. Animal domestication led in 
+certain regions to great increases in productive capacity and hence played a major 
+role, particularly in the Old World, in the kinds of agricultural population growth 
+and geographical dispersal to be described below. Indeed, animal domestication may 
+well be one of the major determinants of the differences in expansionary success 
+between the Old and New World early agricultural situations.
+
+It should be added that the term agriculture will be used to apply in a general sense 
+to all activities involving cultivation and domestication of plants. There has been a 
+tendency in some archaeological literature to distinguish agriculture, as a monocrop- 
+ping field-based activity, from horticulture, as a multicropping garden-based activity, 
+but since the two cannot often be differentiated in the archaeological record the term 
+horticulture is only used here in documented ethnographic instances. The same 
+applies to the term arboriculture, often used to refer to production systems dependent 
+on tree products.
+
+First Farmers: The Origins of Agricultural Societies by Peter Bellwood
+    
+    
+    
+    
+    
+  
+
+  
+
+The Significance of Agriculture: Productivity and 
+
+Population Numbers
+
+The significance of agriculture in history is that it has served as the ultimate economic 
+foundation for the past 10,000 years of population growth amongst the human population, indeed for the phenomenon of civilization as we know it, although there is no 
+intention here to push the chain of causality into the domains of urbanization, statehood, and literacy. We are still reaping the harvest of the several agricultural revolutions in world history in our overcrowded and highly stressed world today.
+
+The demographic potential of agriculture vis-a-vis hunting and gathering is a 
+crucial factor that perhaps needs little emphasis. In general, whereas a family of 
+hunters and gatherers might need several square kilometers of territory for subsistence, an average family of shifting cultivators will be able to get by with a few 
+hectares of crop-producing land. A family of irrigation agriculturalists will normally 
+be able to manage with less than one hectare. Thus, along the scale of increasing 
+intensification of production, less land is needed to feed a standard unit such as a 
+family or individual. Fekri Hassan's ethnographic tabulations indicate that hunters 
+and gatherers generally live at densities below one person per square kilometer, with 
+a maximum approaching ten in the case of the Haida of British Columbia, although 
+there is uncertainty as to how far back in prehistoric time such high Northwest Coast 
+densities can be projected (Hassan 1981; Butler 2000). Non-urbanized shifting cultivators range from three persons per square kilometer to almost one hundred. Irrigation 
+agriculturalists can reach far higher densities. There is thus some overlap between 
+the most affluent foragers, especially those on the American Northwest Coast, and 
+the least intensive cultivators, but only to a very small extent.
+
+Since this book is about the earliest expansions of agriculturalists, in the days when 
+the world was otherwise peopled by hunters and gatherers, any data on the potential 
+maximum rates of agricultural population increase and territorial expansion are 
+obviously of interest. The early centuries of agricultural development were probably 
+fairly healthy, in the sense that the major epidemic diseases of history, many known 
+to have derived from domesticated animals, had probably not yet developed. Neither, 
+perhaps, had many major crop diseases (Dark and Gent 2001). Of course, once they 
+did develop, in crowded and unsanitary living conditions, the impacts of disease on 
+both farmers and hunter-gatherers alike were doubtless often devastating. But we are 
+here concerned with "first-farmer" situations in which relatively healthy farmers 
+moved into territories either previously uninhabited, or inhabited by low density 
+hunter-gatherers.
+
+In comparative situations recorded in recent history, rates of human population 
+growth and territorial expansion have sometimes been quite remarkable. Recent 
+colonial history in Australia, South Africa, and the Americas, together with the Chinese 
+colonization of Taiwan and the progenitive exploits of the descendants of the Bounty 
+mutineers on Pitcairn Island (Figure 2.1), provide very important comparative data.' 
+These examples all suggest that internally fueled population growth among agriculturalist settlers could be quite phenomenal in frontier situations, especially where preexisting populations either did not exist or could offer only limited resistance. 
+Such high growth rates soon came to an end as landscapes filled or as socioeconomic 
+expectations changed, but it is instructive to observe that Australian-born white women 
+bore children during the mid-19th century at more than three times the average rate 
+for the early 20th century (Table 2.1). This was a situation, especially when compared 
+to that in the British homeland, of culturally sanctioned population growth in a 
+situation of rapid colonization, ample resources, and low infant mortality. The archaeological record suggests that similar instances could have occurred following the 
+beginnings of systematic agriculture in many parts of the world when populations 
+were, for a few centuries at least, given the opportunity to increase their numbers at 
+a compound rate of interest. The human capacity for massive fecundity is not in 
+question (Sherman 2002; LeBlanc 2003a), at least not when circumstances are right.
+
+Some archaeological observations also offer food for thought. Fekri Hassan (1981: 
+125) has suggested that the population increase consequent upon early agriculture was 
+very rapid, with a possible increase in world population from 10 million to 50 million 
+across the total of world transitions to agriculture. Philip Smith (1972:9) has suggested 
+that the population of Southwest Asia, the scene of one of the major transitions to 
+agriculture in world prehistory, could have increased from 100,000 to 5 million people 
+between 8000 and 4000 BC. Brian Hayden (1995) estimates a 1,600 percent increase in 
+human population from the Natufian to the PPNB in the Levant (ca. 10,000 to 7500 
+ac). Mark Hudson (2003:312), commenting on research by Shuzo Koyama, notes a 
+possible population increase in Japan from 75,000 in the Final Jomon (300 ac) to 5.4 
+million in the 7th century AD.
+
+Figure 2.1 Two examples of internally fueled population growth in frontier situations, 
+without significant immigration. Left: The population of Pitcairn Island between 1790 and 
+1860. During this time the population increased, without immigration, from 27 to 193 
+people - a seven-fold increase in 66 years. After Terrell 1986. Right: Plot of increasing 
+population size over time estimated for Hawaiian prehistory, based on the distribution of 
+archaeological radiocarbon dates for habitation activities as a proxy indicator for past 
+intensities of human activity. See page 18 for explanation. After Dye and Komori 1992.
+
+Unfortunately, archaeologists can never know exactly how many people occupied 
+an area in prehistoric times, but they can get good relative estimates from changing 
+site locations, site numbers, and surface areas through time. As an example, the two 
+major islands of New Zealand illustrate the demographic importance of agriculture 
+within a single ethnolinguistic population spread across a varied landscape (Figure 2.2). 
+Maori ancestors with a full knowledge of tuber agriculture colonized previously 
+uninhabited New Zealand from tropical Polynesia about 800 years ago. Unfortunately 
+for them, the New Zealand temperate climate straddled the growing-season limit of 
+the only available tuber that was agriculturally viable beyond the northern fringes of 
+their new home - the South American sweet potato. Over much of the country, despite 
+their full knowledge of agriculture, early Maoris were persuaded by the agricultural 
+marginality of their situation (especially in central and southerly regions) to make 
+an initial "reverse" adaptation to a predominantly hunting and collecting economy 
+focused on plentiful marine resources and flightless land birds (moa). For a century or 
+so, until decimated, these resources undoubtedly provided a good living, especially in 
+the South Island. Thus, colonizing agriculturalists became hunters and gatherers 
+with either subsidiary agriculture (in the north) or no agriculture at all (in the south), 
+a salutary observation of potential relevance for considering Mesolithic-Neolithic 
+transitions elsewhere.
+
+Both islands of New Zealand appear to have been settled at similar coastal-focused 
+hunting and gathering population densities for the first few centuries of their prehistory, perhaps with denser populations in the eastern South Island, in terms of site 
+numbers. Subsidiary agriculture was maintained in the northern and central coastal regions of the North Island. However, by the time of Cook's visit in 1769, when the 
+moas were extinct and marine mammal resources highly depleted, dependence on 
+agriculture had become absolutely essential wherever it was climatically possible. By 
+this time, perhaps 80-90 percent of the Maori population (100,000 people?) was living 
+in the most suitable agricultural areas, both coastal and inland, in the northern half of 
+the North Island. The high North Island population densities of this time are revealed 
+by literally thousands of earthwork fortifications (pa), mostly constructed in the post 
+moa-hunting phase after AD 1500. The remainder of the country, including the North 
+Island interior and virtually all of the South Island, climatically marginal or impossible 
+for sweet potato and even fern root propagation, was very thinly populated in comparison, with less than 10 percent of the population occupying perhaps 75 percent of 
+the land area of New Zealand. The environmental availability of agriculture, even if 
+it was a rather marginal kind of agriculture in this instance, was clearly the main 
+contributor to this highly skewed situation of difference between north and south.
+
+Figure 2.2 The significance of agriculture in New Zealand Maori prehistory. Left: The 
+distribution of Archaic (moa hunting) sites around the whole country, ca. AD 1300, soon 
+after initial settlement. Right: The distributions of hill forts and sweet potato agriculture in 
+the north, and of the hunter-gatherer southern culture, ca. AD 1700.
+
+The reason why agriculturalists can live at much higher densities than hunters and 
+collectors is because food is produced, on average, more intensively per unit of 
+exploited area. Food-collecting mothers also tend to space births more widely than 
+sedentary cultivators for reasons believed to relate in part to factors of mobility and 
+diet,' leading in combination to biologically reduced frequencies of conception. This 
+form of birth control maximizes the number of hunter-gatherer children able to survive 
+to adulthood, but keeps the overall population small. Sedentary cultivator mothers are 
+able to wean earlier, partly because cereals allow the cooking of gruel/porridge-type 
+foods that can be used for infant foods (as long as one has utensils such as pottery to 
+cook such foods). Thus, they conceive more frequently and have high fertility levels. 
+Sedentism, whether linked with intensive food collecting or true agriculture, can also 
+promote population increase in many situations. To the general significance of sedentism as a precursor for agriculture we will return.
+
+The health of the earliest agriculturalists was also probably quite good compared 
+to that of their more numerous and crowded descendants. Infant mortality and the 
+incidence of osteological stress markers amongst the earliest cultivators in many 
+regions were not high by later standards,' unless people moved into environments 
+with latent health hazards. An example of this comes from the pioneer agricultural 
+site of Khok Phanom Di in coastal Thailand, where Neolithic people settled at about 
+2000 Be in a swampy and malarial coastal situation. The infant death rate here was 
+alarmingly high due to the combined effects of both anemia and malaria, although 
+the general health of the population was otherwise good.' But, in general, the early 
+agricultural world was far less crowded and presumably far less subjected to highly 
+contagious epidemic diseases (especially outside the tropics) than in the recent past. 
+Early agriculturalists in epidemic-free circumstances could have both increased their 
+birth rates and perhaps also decreased their infant death rates, a package of profound 
+significance for population growth.
+
+The big question, of course, is how rapidly could human populations have increased 
+their numbers and territorial extents in early agricultural situations, at times when 
+competition from other populations and threats from disease and mortality rates were 
+probably at fairly minimal levels compared to what was to come in later millennia? 
+Pitcairn and 19th-century Australia give us clues, but we also have good prehistoric data 
+from Pacific islands first settled in quite recent centuries. An excellent example comes 
+from the Hawaiian Islands, settled about 1,000 years ago by Polynesians. Figure 2.1 
+shows an estimate of changing population size through time for this archipelago, 
+with data at the recent end tied into 19th-century census data, thus allowing very 
+rough estimates of real population sizes. The long tail of rare dates older than 
+AD 1000 is believed to represent dates mainly from wood that was already old 
+when burned, rather than contemporary human activity. The fall-off in dates close 
+to European contact may reflect the introduction of diseases by Europeans. This diagram therefore suggests that the Hawaiian population size reached its ethnographic 
+level (150,000 people?) within 300-400 years of initial settlement. Early Polynesian 
+agriculturalist populations in pristine and disease-free conditions were able to increase 
+population numbers with remarkable speed.
+
+What, finally, of the "affluent forager" viewpoint (Sahlins 1968) that has enlivened 
+much recent ethnographic discussion, which tends to regard hunters and gatherers as 
+happier, healthier, and less overworked than their unfortunate agricultural cousins? 
+It would obviously be quite misguided to suggest that hunter-gatherers who developed agriculture were always embarking on a downhill trajectory into hard labor 
+and disease. Such a view pays no attention to specifics, whether ethnographic or 
+archaeological, it ignores chronology, and it ignores some very basic facts of recent 
+colonial history. Some hunters may indeed have been quite affluent before agriculturalists destroyed their livelihood, but the earliest agriculturalists in healthy food-rich 
+environments probably had even more enviable lives from the viewpoint of many 
+inhabitants, including many hunter-gatherers, of our crowded and starvation-inflicted 
+modem world. True, the rats, diseases, overcrowding, malnutrition, and environmental devastation caught up with the descendants of the first agriculturalists, in 
+some cases very quickly indeed. But the generally low incidence of crowd diseases in 
+hunter-gatherer societies and presumably also in loosely packed earliest agricultural 
+situations, like those on the colonial period temperate-latitude European frontiers in 
+Australasia and the Americas, should make us think instead about "affluent earliest 
+cultivators" rather than their hunter-gatherer counterparts.
+
+First Farmers: The Origins of Agricultural Societies by Peter Bellwood
+    
+    
+    
+    
+    
+  
+
+  
+
+Why Did Agriculture Develop in the First Place?
+
+This is one of the most enduring questions posed by archaeologists and one that 
+probably generates more debates than any other major archaeological question. We 
+still do not really know the full answers for all regions. Most of the theorizing about 
+agricultural origins has obviously been driven by the situation in Southwest Asia, 
+with Mesoamerica and China following, but it is essential to remember that what 
+may work for one region may not necessarily work well for another. Environments, 
+chronologies, and cultural trajectories differed. Yet it may still be asked if there are 
+any cross-regional regularities across the worldwide set of primary transitions. At the 
+outset, there would appear to be two.
+
+Firstly, the primary development of agriculture could not have occurred anywhere 
+in the world without deliberate planting and a regular annual cycle of cultivation. 
+Such would have been necessary for the selection to operate that ultimately produced the domesticated plants, and both of these activities would obviously have 
+begun, in the first instance, with plants that were morphologically wild. Planting 
+away from the areas where the wild forms grew would also have helped immensely 
+in fixing and stabilizing any trends toward domestication, especially in the cases of 
+those plants that were cross- rather than self-fertilizing, and thus subject to constant 
+back-crossing with wild individuals.
+
+Secondly, agriculture seemingly could not have occurred without the postglacial 
+amelioration and ultimate Holocene stabilization of warm and rainy climates in those 
+tropical and temperate zones where food production was ultimately developed. This 
+is a most significant finding of recent paleoclimatic research. Basically, the argument runs that postglacial climates of the period between 20,000 and 11,500 years ago were 
+not only mostly cold and dry, but also extremely variable, such that major swings of 
+temperature and moisture supply could have taken place literally on decadal scales. 
+This is now well established from ice cores, deep sea cores, and continental pollen 
+profiles. Under such conditions, according to an increasing number of authors (van 
+Andel 2000; Chappell 2001; Richerson et al. 2001), any incipient attempts to cultivate 
+and domesticate plants would have been doomed to early failure. Indeed, as we will 
+see in the next chapter, at least one short-lived attempt to domesticate rye does seem 
+to have occurred at Abu Hureyra in northern Syria at about 13,000 years ago.
+
+With the Holocene amelioration of climate to conditions like those of the present, 
+a rapid change that occurred about 11,500 years ago, the world's climates became 
+warmer, wetter, and a good deal more reliable on a short-term basis (Figure 2.3). 
+It was this reliability that gave the early edge to farming, by means of a chain of 
+circumstances leading on from an increasing density of wild food supplies, through 
+increasing settlement sedentism and population size, and so to the "competitive 
+ratchet" between regional populations intent on maximizing their economic and 
+demographic well-being vis-a-vis other groups (Richerson et al. 2001). Once agricultural 
+trends began they almost never turned back (although, as we will see later in this 
+chapter, some farmers did return to being hunters and gatherers).
+
+At first sight, this explanation might seem so obvious as to render all previous 
+attempts to explain early agriculture superfluous. But it does not explain everything, 
+since the whole world population did not suddenly switch to farming, wherever it 
+was climatically possible, in 9500 Bc. Holocene climate was clearly the ultimate enabler 
+of early farming, but it was not the proximate cause behind individual transitions. To 
+understand proximate causes we need to review the history of early agricultural 
+causation theory within archaeology.
+
+Figure 2.3 Synthetic diagram to show the rapid changes in world climate after the peak of 
+the last glaciation. The Holocene with its relatively stable warm conditions is at the top of 
+both diagrams (OIS = oxygen isotope stage, ka = millennia ago). From van Andel 2000.
+
+Those who ask why agriculture developed, as a form of human behavior different 
+from hunting and gathering, adopt many differing theoretical perspectives. Some 
+explanations focus on a background of affluence, others on stress, especially environmental or population stress. Some favor conscious choice, others prefer unconscious 
+Darwinian selection. Some like revolution, others prefer gradualism.
+
+Many early theories were focused on affluence, combined with shots of good luck. 
+William Perry (1937:46), for instance, believed that "year after year the gentle Nile 
+would, by means of its perfect irrigation cycle, be growing millet and barley for the 
+Egyptians. All that would be necessary, therefore, would be for some genius to think 
+of making channels to enable the water to flow over a wider area, and thus to 
+cultivate more food." Carl Sauer (1952) preferred situations of hunter-gatherer affluence and leisure time in riverine and coastal situations in Southeast Asia. Robert 
+Braidwood (1960:134) favored cultural readiness in western Asia: "In my opinion 
+there is no need to complicate the story with extraneous `causes'. The food producing revolution seems to have occurred as the culmination of the ever increasing 
+cultural differentiation and specialization of human communities." Stress received 
+little recognition in these particular theories and none offered coherent chains of 
+causality for the beginnings of cultivation. Indeed, we now know that agriculture did 
+not begin at all in a primary sense in either Egypt or Southeast Asia.
+
+Perhaps the most famous of the early stress-based theories was that of Gordon 
+Childe, who believed that desiccation forced humans and animals together in oasis 
+situations in Southwest Asia at the end of the last glaciation, eventually leading to 
+domestication - hence the famous "propinquity hypothesis" (Childe 1928, 1936). We 
+now know that domestication really took off in earnest in the wetter climatic conditions of the early Holocene. But, as will be indicated in chapter 3, there is a twist to 
+the situation that means that Childe could have been partly right. Periodic spells of 
+drought stress, especially during the Younger Dryas (11,000-9500 BC), are known to 
+have affected Southwest Asia and probably China as the overall postglacial climatic 
+amelioration occurred. Such stresses could have stimulated early, maybe short-lived, 
+attempts at cultivation to maintain food supplies, especially in the millennia before 
+9500 BC. Childe was perhaps not too far off the mark.
+
+Most modem explanations for the origins of agriculture bring in at least one 
+"twist" of this type, in the sense of a factor of stress imposed either periodically or 
+continuously over a situation of generalized affluence. But there are deep debates as 
+to exactly what were the fundamental stress factors that led people to cultivate 
+plants. Were they social, demographic, or environmental in nature, or a combination 
+of all three? Were they continuous or periodic? Were they mild or severe?
+
+One school of thought favors a primacy of social stress (perhaps better termed 
+"social encouragement" in this context), fueled by competition between individuals 
+and groups. Developments toward agriculture in resource-rich environments could 
+have been stimulated by conscious striving for opportunities and rewards, including 
+the reward of increased community population size and strength vis-a-vis other communities (Cowgill 1975). In similar vein, many have suggested that competitive social 
+demands for increased food supplies could have led to food production.' We would expect such developments to occur in societies that valued competitive feasting or an 
+accumulation of exotic valuables, via exchanges involving food, to validate status. 
+Brian Hayden (1990) stresses that such developments would have occurred in relatively rich environments, in which groups would have been allowed to circumvent 
+the strong ethic of inter-family food sharing that characterizes many ethnographic 
+hunter-gatherers. In food-rich environments, families could have stored food for 
+their own use under conditions of relatively high sedentism, thus leading to the 
+individual or family accumulation of wealth that a system of competitive feasting 
+demands. In poor and continually stressful environments such accumulation would 
+have been replaced by more survival-oriented modes of sharing, and these form 
+structural impediments to any shift to food production and consequent private accumulation of surplus.
+
+Other authorities have stressed the significance of demographic stress, rather than 
+social encouragement or competition. The clearest statement of this is by Mark 
+Cohen (1977a), foreshadowed in part by Philip Smith (1972) and Ester Boserup 
+(1965). Cohen's model focuses on continuous population growth during improving 
+environmental conditions in the later Pleistocene, leading to dietary shifts into more 
+productive but less palatable resources (for instance, from large game meat toward 
+marine resources, cereals, and small game). Eventually, people were obliged to shift 
+into plant cultivation, essentially to feed growing populations. Population packing 
+led via necessity to increased sedentism, thus further promoting a higher birth rate 
+and a gradual snowballing of ever-increasing population density. The adoption of 
+agriculture by Cohen's model was a gradual process, but one occurring in varying 
+environments around the world whenever and wherever food production became 
+demographically necessary. Animal domestication followed later as wild meat resources declined.
+
+Related population growth or "packing" models were favored even earlier for 
+Southwest Asia and Mesoamerica. Lewis Binford (1968) and Kent Flannery (1969) 
+both proposed that increasing post-Pleistocene population densities in favorable coastal 
+zones, occupied by relatively sedentary fisher-foragers, led to an outflow of people 
+into marginal zones, resulting in cereal cultivation in order to increase food supplies. 
+This hypothesis also emphasized that initial plant cultivation would be most likely to 
+have taken place on the edges of the wild ranges of the plants concerned, because 
+stresses in supply here would obviously be higher than in core areas of plentiful and 
+reliable supply (Flannery 1969). The evidence that hunter-gatherer populations were 
+indeed growing in various places in the Old World after the last glacial maximum 
+and prior to the beginnings of agriculture is quite strong for some regions, and the 
+significance of such population growth will be highlighted for Southwest Asia later. 
+There is no doubt that this could have been a significant factor.
+
+Another very important factor amongst the last hunter-gatherers involved in 
+transitions to agriculture, and one undoubtedly related to increasing population 
+density, is widely believed to have been settlement sedentism (Harris 1977a; 
+LeBlanc 2003b). Many scholars now believe that agriculture, especially in the Levant, 
+could only have arisen among sedentary rather than seasonally mobile societies. Unfortunately, however, the demonstration of sedentism in prehistory is one of the 
+most difficult tasks that an archaeologist can face. Biological indicators (for instance, 
+presence of bones of migratory bird species, age profiles of mammal species with 
+seasonal reproduction cycles) can sometimes give ambiguous results - the presence of 
+people during a certain season can often be identified, but not the absence. Archaeologists are often forced to fall back on generalized assumptions about the existence of 
+sedentism made in terms of the presence in sites of commensal animal species (mice, 
+rats, sparrows etc. in the Levant) and in terms of the seeming permanence of houses 
+and other structural remains. The whole issue can be extremely uncertain for there 
+are many ethnographic situations, amongst hunter-gatherers and agriculturalists alike, 
+where settlements can have a degree of permanence but the populations that inhabit 
+them can fluctuate from season to season.' The same probably applies to many of 
+the seemingly sedentary settlements of "affluent" hunter-gatherers in prehistory. 
+Perhaps in awareness of this, Susan Kent (1989) has defined sedentism as requiring 
+residence for more than six months of a year in one location. Ofer Bar-Yosef (2002:44) 
+suggests nine months for the pre-Neolithic Levant.
+
+Given that sedentism to some degree was apparently so important in agricultural 
+origins, it becomes necessary to ask where sedentary societies were located in the 
+pre-agricultural world of the terminal Pleistocene and early Holocene. So far, the 
+archaeological record gives few indications of absolute sedentism, and even a high 
+degree of sedentism was perhaps not present in many places apart from the Levant 
+and southeastern Turkey, Jomon Japan (where sedentary hunter-gatherers seemingly 
+resisted the adoption of agriculture), Sudan, perhaps central Mexico, and perhaps the 
+northern Andes.' No doubt, archaeological specialists in various parts of the world 
+will have data to claim that sedentism existed in other areas, but in the context of 
+terminal Pleistocene and early Holocene hunter-gatherers it is my impression that it 
+was rather rare, especially if one demands all-year-round permanence of a total population in a village-like situation.
+
+Despite these conceptual problems, any major increase in the degree of sedentism 
+would have become a stress factor in itself because it would have encouraged a 
+growing population, via shorter birth intervals, and would also have placed a greater 
+strain on food supplies and other resources in the immediate vicinity of a campsite or 
+village.' Fellner (1995) has suggested that the development of plant cultivation in 
+Southwest Asia was a deliberate act to allow small and already sedentary huntergatherer villages to amalgamate into much larger, and better-fed, agriculturalist ones 
+- more food, more political and social power (Cowgill 1975).
+
+These social and demographic stress hypotheses are convincing as a group, but 
+they by no means explain everything. For instance, why did agriculture not develop 
+in all "affluent" hunter-gatherer regions in prehistory, and especially amongst many 
+of the more affluent groups of the ethnographic record who inhabited agriculturally 
+possible regions, such as those in some parts of coastal or riverine Australia, California, 
+or British Columbia? The American groups, in particular, had relatively high degrees 
+of settlement sedentism. Despite such apparent situations of non-fit, however, some 
+form of reduction of continuous sharing behavior must have been an essential ingredient in the early agricultural equation, and affluence and feasting combined 
+with a shift toward a sedentary residence pattern with concomitant storage are good 
+ways to reduce this. The affluence models are not to be dismissed lightly and they 
+certainly reflect substantial common sense.
+
+Nevertheless, somewhere in all of this there has to be another factor. What if the 
+full story was not just affluence tilted by the sedentizing and productive demands of 
+social or demographic pressures, but also affluence overshadowed by the threat of 
+episodes of environmental stress? Severe environmental or food stress alone is probably not the answer - the starving or devastated populations who tragically inhabit 
+our TV screens are the least likely, without massive outside help, to revolutionize 
+their economies. But there are gradations of environmental stress, and stress can vary 
+in intensity and in periodicity. Perhaps the sharp retraction of resources at about 
+11,000 Bc associated with the onset of the Younger Dryas could have led to some 
+early experiments in agriculture in the Levant. Most actual establishments of farming 
+economies apparently followed later, and in this regard it needs to be stressed that 
+early Holocene climates were not absolutely stable, never changing at all from year to 
+year. Climatic variability in the Pleistocene may have been too great to allow agriculture to develop permanently at all, but the opposite - unchanging conditions - could 
+presumably have been just as unrewarding. The old saying, "necessity is the mother 
+of invention," was surely not founded in total vacuity. A combined explanation of 
+affluence alternating with mild environmental stress, especially in "risky" but highly 
+productive early Holocene environments with periodic fluctuations in food supplies, 
+is becoming widely favored by many archaeologists today as one explanation for the 
+shift to early agriculture. Indeed, in an analysis of ethnographic "protoagricultural" 
+activities by hunter-gatherers, Lawrence Keeley (1995) points out that most such 
+activity has been recorded for groups in high risk environments in low to middle 
+latitudes. Risk, and smart circumvention thereof, has been a clue to many successes 
+in life and history.
+
+There is one other general theory to be discussed here, one rather different from 
+the theories related above and one that requires neither affluence nor stress of any 
+kind, nor even conscious awareness or choice on the part of the human populations 
+involved. The view of Eric Higgs and Michael Jarman (1972), that animal domestication had been developing since far back in Pleistocene times as humans gradually 
+refined their hunting and husbandry practices, is an early precursor of this, but it has 
+been most powerfully presented for plants by David Rindos (1980, 1984, 1989). Rindos 
+took a very gradualist and Darwinist view of co-evolutionary selection and change, 
+in which plants were thought to have co-evolved with humans for as long as they 
+have been predated by humans, adapting to the different seed dispersal mechanisms 
+and selective processes set in train by human intervention. From this viewpoint, 
+plants have always been undergoing some degree of phenotypic change as a result of 
+human activity and resource management. However, Rindos did recognize that the 
+actual transition to conscious cultivation ("agricultural domestication") was probably 
+driven by population increase, and that it was the cause of much subsequent human 
+population instability and expansion.
+
+The essence of Rindos' theory was really unconscious Darwinian selection as 
+opposed to conscious choice, and it was not tailored to fit any specific region. In my 
+view, a long process of pre-agricultural co-evolution might fit with what we know of 
+the New Guinea and Amazon situations with their focus on tuber and fruit crops, 
+perhaps better than, for instance, Southwest Asia, China, or Mesoamerica, where 
+cereals seem to have undergone rather explosive episodes of domestication. But 
+it does not tell us anything about the historical reasons why particular groups of 
+prehistoric foragers crossed the Rubicon into systematic agriculture, any more than 
+Darwin himself was able to state how animal species could acquire completely new 
+genetic features through mutation.
+
+It is necessary, therefore, to emphasize that the regional beginnings of agriculture 
+must have involved such a complex range of variables that we would be blind to 
+ignore any of the above factors - prior sedentism, affluence and choice, human-plant 
+co-evolution, environmental change and periodic stress, population pressure, and 
+certainly the availability of suitable candidates for domestication. And this is not all. 
+Charles Heiser (1990) suggested that planting began in order to appease the gods 
+after harvests of wild plants - a hypothesis incapable of being tested, but interesting 
+nevertheless. Jacques Cauvin (2000; Cauvin et al. 2001) suggested that a "revolution 
+of symbols" formed an immediate precedent to the emergence of plant domestication 
+in the Levant, the symbolism in this case involving human female figurines and 
+representations of bulls. Again, this is an intriguing but rather untestable hypothesis, 
+and a little imprecise on causal mechanism.
+
+Indeed, most suggested "causes" overlap so greatly that it is often hard to separate 
+them. Environmental change and increasing stability into the Holocene may be the 
+most significant underlying facilitator, but even this will produce little in the absence 
+of the "right" social and faunal/floral background combinations. Thus, there can be 
+no one-line explanation for the origins of agriculture. Neither can we ignore the 
+possibility of human choice and conscious inventiveness. Any overall explanation 
+for a trend as complex as a transition to agriculture must be "layered in time," 
+meaning that different causative factors will have occurred in sequential and reinforcing ways.
+
+First Farmers: The Origins of Agricultural Societies by Peter Bellwood
+    
+    
+    
+    
+    
+  
+
+  
+
+The Significance of Agriculture vis-a-vis Hunting and Gathering
+
+There is a point of view, quite commonly held by anthropologists and archaeologists, 
+that hunting-gathering and agriculture are merely extremes of a continuum, along 
+which ancient societies were able to move with relative ease (Schrire 1984; Layton 
+et al. 1991; Armit and Finlayson 1992). Such a point of view obviously minimizes the 
+significance of agricultural origins and in extreme form would render the concept 
+valueless. It is true that hunter-gatherers often engage in resource management 
+activities. But chameleon-like societies that switch from hunter-gatherer dependence 
+to agricultural or pastoral dependence and then back again are remarkably hard to 
+document, whether in the archaeological or ethnographic records. One really wonders if they have ever existed, outside those well-known cases in which former agriculturalists made short-term adaptations to the presence of naive faunas in previously 
+uninhabited islands, especially in Oceania (the example of New Zealand was discussed 
+above).
+
+Certainly, many recent hunter-gatherers have been observed to modify their 
+environments to some degree to encourage food yields, whether by burning, replanting, water diversion, or keeping of decoy animals or domesticated dogs; that is, 
+by resource management techniques which might mimic proto-agriculture in the 
+archaeological record. Most agriculturalists also hunt if the opportunity is presented 
+and always have done so throughout the archaeological record. Indeed, in the Americas, hunted meat was a major source of supply for all agriculturalists because of the 
+absence of any major domesticated meat animals. This is probably one essential 
+reason why the American record of agricultural and language family expansion was 
+quite low key compared to that in the Old World.
+
+All of this means that there is good evidence in recent societies for some degree of 
+overlap between food collection and food production. But the whole issue here 
+revolves around just what level of "food production" is implied. Any competent food 
+gatherer can also be a resource manager, maybe plant an occasional garden or even 
+keep a few tame animals. Yet any idea that mobile hunters and gatherers can just 
+shift in and out of an agricultural (or pastoral) dependent lifestyle at will seems 
+unrealistic in terms of the major scheduling shifts required by the annual calendars of 
+resource availability, movement, and activity associated with the two basic modes of 
+production. There are very few hints of such circumstances ever occurring in the 
+ethnographic record, and certainly none that are unchallengeable in historical veracity. Mobile foragers must give an increasing commitment to sedentism if agriculture 
+is to become a successful mainstay of their economy - fields of growing crops can of 
+course be abandoned for several months while people go hunting, but under such 
+circumstances yields will be expectably low. If the foragers were sedentary prior to 
+adopting agriculture then the transition may be less traumatic, but the difficulties 
+that archaeologists face in tracing sedentism in pre-agricultural contexts have already 
+been alluded to.
+
+There is another way to approach this question of the "hardness" of the transition 
+between hunting-gathering and agriculture. If casual shifts between agriculture and 
+foraging had been occurring with high frequency in recent centuries, we might expect 
+to find lots of societies still passing between the two states when they were first 
+captured in the ethnographic record. We might also expect to see a gradual progression 
+in the relative importance of produced versus gathered food from one extreme of 
+dependence to the other. Is this the case?
+
+The answer to this question is not particularly obvious since so many traditional 
+economies were transformed by contact with the Western world before the ethnographic record began to be compiled. But we have hints in the entries in the Ethnographic 
+Atlas (Murdock 1967; Hunn and Williams 1982) for the proportional contributions of 
+five subsistence modes (gathering, hunting, fishing, animal husbandry, and cultivation) 
+in the diets of a total of 870 societies distributed throughout the world. In Figure 2.4 the percentages for agriculture and animal husbandry (i.e., "produced" food) are 
+summed as one combined percentage of the total food supply for all the societies 
+listed in the Atlas. We see some very interesting patterns.
+
+In the Old World (Figure 2.4 top), virtually all societies which practice agriculture 
+and/or stockbreeding derive more than 50 percent of their food supply from these 
+two sources. Very few combine them with any major reliance on hunting and gathering. Most exceptions to this generalization, where agricultural dependence drops in a 
+few cases to below 50 percent, occur in Pacific Island communities where the high 
+importance of fishing and absence of major herd animals clearly push the figures for 
+food production downwards. In general for the Old World, we see that hunters and 
+gatherers may practice a small amount of agriculture, and agriculturalists may practice 
+a small amount of hunting and gathering, but the two modes of production most 
+decisively do not merge or reveal a gentle cline. Almost no societies occupy "transitional" situations, deriving for instance 30 percent of their food from agriculture and 
+70 percent from hunting and gathering. In terms of Old World cultural history, such 
+a combination has clearly not been stable since ethnographic records began to be 
+compiled.'
+
+Figure 2.4 Top: The percentages of produced food in the diets of a sample of 561 Old 
+World societies. Bottom: The percentages of produced food in the diets of a sample of 309 
+New World societies. Data from Murdock 1967.
+
+This suggests, in terms of the Old World cultural trajectory, that hunting-gathering 
+and agricultural modes of production cannot be indiscriminately mixed. Being good 
+at one alone is a better option for most societies than balancing both. Mobile hunters 
+cannot stay near crops to protect them from predators, farmers cannot always abandon their crops to hunt, and often do not need to do so if there are hunters and 
+gatherers living nearby. Trade-and-exchange forms of mutualism between the two 
+modes of production tend to keep them apart in many ethnographic situations, and 
+hunters often benefit from the presence of wild animals attracted by agricultural 
+activities. This Old World observation, of a sharp ethnographic separation between 
+dependence on hunting-gathering and farming, is contrary to the views of those who 
+believe that hunting-gathering and agriculture are simply alternative strategies which 
+societies can choose at will.
+
+The graph for the 309 American societies listed in the Atlas (Figure 2.4 bottom) is 
+by no means as striking as that for the Old World in terms of the degree of dependence on food production. Of course, the Americas (especially North America) had, at 
+European contact, an immensely greater number of hunter-gatherer societies than 
+the Old World (excluding Australia). But it is clear that the graph is still a muchmuted version of its bimodal Old World counterpart, with a lesser degree of dependence on food production in the majority of American societies. As in the Old World, 
+there is an obvious nadir at 16-25 percent, but in the New World we also find very 
+few societies more than 60 percent dependent on agriculture and herding. This reflects some fundamental differences between the Old and New Worlds in terms of 
+environments and history.
+
+The New World, from the perspective of early agriculturalists, had a much greater 
+extent of landscapes marginal or prohibitive to agriculture than the Old. It also had 
+virtually no major stockbreeding economies and its agricultural trajectory has occupied 
+much less time than in much of the Old World. Without stockbreeding, food production was necessarily reduced in proportional importance because most societies 
+needed to obtain meat from wild sources, whether by fishing or hunting, and both 
+these modes tended to be more important in combination than gathering amongst 
+those American societies listed as having agriculture. In the New World, agriculture 
+was in general not the basis of such powerful subsistence economies as in the Old 
+World. Even so, and despite these differences, the fact remains that both Old and 
+New World populations evidently found it problematic to shift in and out of agricultural dependence on a regular basis.
+
+First Farmers: The Origins of Agricultural Societies by Peter Bellwood
+    
+    
+    
+    
+    
+  
+
+  
+
+Under What Circumstances Might Hunters and Gatherers Have 
+
+Adopted Agriculture in Prehistory?
+
+The agricultural dispersals described in this book involved populations who appear, 
+according to archaeological evidence and linguistic reconstructions, to have depended 
+quite highly on agriculture for their subsistence. If ancient hunter-gatherers did 
+adopt agriculture through cultural diffusion, then we must consider under what circumstances they would have shifted into fully agricultural economies. This is 
+not a trivial question, at least not for those who wish to understand the spread of 
+agriculture in more depth than that offered by the botanical and archaeological 
+databases alone.
+
+We can attack this issue comparatively, to some extent, from the ethnographic 
+and historical records pertaining to hunter-gatherer behavior in agricultural latitudes 
+in the recent past. But the issue becomes complex when the precise nature of those 
+hunter-gatherer groups who survived to enter the ethnographic record is taken 
+into consideration. Ethnographic hunters survive because they have never adopted 
+agriculture, but most are also oppressed by current political and social conditions 
+that discourage them from doing so. They can, for the most part, only offer negative 
+information, about why people did not adopt or invent agriculture. We simply have 
+no detailed historical records of hunter-gatherers actually adopting agriculture in a 
+successful and long-term manner, even though many practice minimal cultivation on 
+a casual basis.
+
+There are historical provisos, however. On the one hand, the ethnographic record 
+is essentially a creation of Western colonial societies and belongs to a period of history 
+when conditions for successful agricultural adoption have been extremely discouraging. One could perhaps reject it as irrelevant to issues of agricultural adoption in the 
+Neolithic. On the other hand, we have records from northern Australia and California 
+of people who were technically in a position to adopt agriculture from neighboring 
+cultivators for several centuries prior to major European domination of their lives, 
+but who never did so. We also have circumstantial evidence for many groups of former 
+hunter-gatherers who probably did adopt agriculture or pastoralism in relatively recent 
+times, although these adoptions predate direct ethnographic records and so are rather 
+uncertain in historical trajectory. From these behavioral perspectives ethnography is 
+surely relevant as a comparative database, even if the comparisons cannot be extended 
+to the interpretation of trajectories of long-term human history.
+
+In order to approach the ethnographic record systematically and to extract useful 
+comparative information, it is essential not to treat all recorded ethnographic huntergatherer societies as being one simple category, or as having had the same basic 
+historical trajectories stretching back far into the Pleistocene past (Kent 1996). None 
+of these societies are fossils. Hunter-gatherers have had histories just as tumultuous 
+in many cases as have agriculturalists (Lee and Daly 1999). This chapter favors a 
+separation of the world's surviving hunter-gatherers into three groups based on historical understanding, albeit often rather faint, of their origins and relationships with 
+cultivators in the past. Not all hunter-gatherer groups can be placed unequivocally in 
+one of the three groups, but there are sufficient that can to allow a number of fairly 
+convincing observations.
+
+Of the three groups, the first two can be distinguished as "original" huntergatherers in the sense that they are presumed, at least by most authorities, to have 
+unbroken ancestries within the hunter-gatherer economy extending back into the 
+Pleistocene. Group 1 hunter-gatherers are enclosed within farming and pastoralist 
+landscapes, whereas those of group 2 are (or were) free of such constraints. Group 3 hunter-gatherers have a range of apparently derived hunter-gatherer economies, created by specialization out of former lifestyles that in many cases included agriculture.
+
+ 
+
+Hunter-gatherers who live completely (or mostly) beyond the range of agriculture 
+in the cold latitudes are excluded for obvious reasons from the following discussion. 
+Such groups include the Ainu (who did have a marginal foray into agriculture in 
+recent centuries), plus of course the many cold temperate, Arctic, and southern South 
+American hunter-gatherer populations. The members of the three groups to be discussed below all live in, or just beyond, those tropical and temperate latitudes within 
+which agriculture was or is generally possible (Figure 2.5).
+
+First Farmers: The Origins of Agricultural Societies by Peter Bellwood
+    
+    
+    
+    
+    
+  
+
+  
+
+Group 1: The "niche" hunter-gatherers of Africa and Asia
+
+These populations are classified together because all have survived to the present in 
+agriculturally poor environments in the interstices between much larger agriculturalist and pastoralist populations. All have fairly non-ranked "band" forms of social 
+organization and all have apparently been essentially hunter-gatherer in economic 
+orientation throughout their known or reconstructable histories. Classic populations 
+of this type include the San (Bushmen) of the Kalahari and Namib regions, the Hadza 
+of northern Tanzania, the Aka and Mbuti (Pygmies) of the African rain forest, and 
+the Semang and Agta (Negritos) of Peninsular Malaysia and the Philippines. It is 
+possible that some Amazonian interfluvial hunter-gatherers, located between the 
+major riverine farming populations, also belong in this group, but this is a contested 
+issue. Most examples in this section will be drawn from the Kalahari and Southeast 
+Asian rain-forest populations.
+
+Group 1 hunter-gatherer societies live in areas decidedly marginal for cultivation, 
+particularly semi-deserts and equatorial rain forests, and today are surrounded by or 
+live adjacent to more fertile agricultural or pastoralist landscapes. In James Woodburn's 
+(1982, 1991) terms they are "encapsulated" by their more powerful neighbors. Some 
+groups, such as the Malaysian Semang and Philippine Agta, have entered states of 
+severe encapsulation very recently with the march of logging, cash cropping, and 
+other activities completely antithetical to hunter-gatherer survival (Dentan et al. 1997; 
+Headland and Reid 1989; Headland 1997). With all these populations, however, varying 
+degrees of less threatening long-term contact, intermarriage, and sometimes hostility 
+with agriculturalist populations, often over millennia, mean that many have surely 
+undergone substantial change away from any "Paleolithic" behavioral norms that 
+might have existed before agriculture appeared.
+
+The impact of encapsulation is highlighted by Woodburn's categorization of them 
+as having immediate return systems characterized by sharing, together with an absence 
+of storage and accumulation of food and property. Such groups often occupy lowstatus economic positions in partial dependence on nearby agriculturalist or pastoral 
+populations, rapidly losing ethnic identity in the process. The stresses that result 
+from such subordination, described in some detail for the Philippine Batak by James 
+Eder (1987), ensure that such groups lack any form of social hierarchy. In social 
+terms, they can be described as living in mobile multi-family bands, usually bilateral in kinship terms and egalitarian in terms of authority. Such groups, in Woodburn's 
+view, are most unlikely ever to become agriculturalists. None have ever seemed very 
+determined in this regard as far as the ethnographic record is concerned, and their 
+general lack of concern with accumulation and/or inheritance of wealth is so far 
+from the mind-set of many farmers and herders that any successful shift would 
+require some very fundamental reorganization of their societies and ideologies.1°
+
+Indeed, detailed studies of the Philippine Agta and Batak reveal that they find it 
+extremely difficult to adopt agriculture successfully, even when all their hunting land 
+has been taken by agriculturalists (Headland 1986; Eder 1987). According to Rai (1990), 
+immigrant tobacco farmers in northeastern Luzon nowadays drive out native agriculturalists, who in turn impinge on Agra hunter-gatherers and take their hunting land. 
+Not only do the Agta and Batak lack the necessary skills for a firm commitment to 
+agriculture, but even when they wish to learn them the surrounding cultivators and 
+cash-croppers normally do not allow the hunters to farm successfully. It suits the 
+farmers better to keep them in a semi-dependent relationship, hunting and collecting 
+for trade and laboring in fields from time to time. Eder (1987:93) states with respect 
+to the Batak of Palawan: "The proximate causes of the desultory state of Barak 
+agriculture are found in an array of poor management practices, scheduling conflicts, 
+social pressures, and cultural values."
+
+Andrew Smith (1990:65, 1998) makes the same point for San populations living 
+adjacent to Bantu herders in southern Africa: "even if a hunter would aspire to be a 
+herder, the social conditions are against it." He also notes that the current low status 
+of hunter-gatherers who live in association with African pastoralists probably goes back 
+deeply into the prehistoric record. Vierich points out that "rather than undergoing a 
+contemporary `Neolithic Revolution' ... the hunter-gatherers of the southeastern 
+Kalahari are becoming increasingly dependent on the encroaching Bantu economy." 
+She also states that amongst Basarwa (Botswana Bushman) populations, "the more 
+dependent a [Basarwa] family is on livestock and agricultural products, the less likely 
+they are to actually own livestock or plant their own fields" (Vierich 1982:217, 219). 
+This reinforces the fairly obvious conclusion that as encapsulation increases in intensity, 
+so the opportunities for successful and stable long-term adoption of food production 
+rapidly fade.
+
+Sedentism also has its problems for these populations. Kent (1996) notes in the 
+African context how adoption of a sedentary lifestyle can lead to a profound increase 
+in social disorder and homicide amongst egalitarian societies without authoritarian 
+leadership. Hitchcock (1982) states, again in an African (Basarwa) context: "Considering 
+all the problems incurred by sedentism, it comes as no surprise that hunter-gatherer 
+groups would attempt to keep moving if at all possible."
+
+The recent histories of all these circumscribed populations suggest that remaining 
+a hunter-gatherer was actually an attractive prospect in the past, when pressure from 
+farmers or herders was not so high as recently. In such circumstances, people had 
+sufficient hunting land and could establish exchange partnerships with farmers in order 
+to acquire cereals and other domesticated foods. In return, the hunter-gatherers 
+exchanged meat and other wild products, especially important for farmers who lacked large herds (Spielman and Eder 1994). Many examples exist of such exchange systems 
+in all hunter-gatherer situations in the Old World, particularly in West Africa, Malaysia, 
+and the Philippines." Geoffrey Benjamin's (1985) linguistic and anthropological 
+observations suggest that the Semang hunter-gatherers and the Senoi farmers of the 
+Malay Peninsula have differentiated their lifestyles in situations of continuing interaction over about 4,000 years, toward hunting-gathering and farming specializations 
+respectively. The Semang have adopted aspects of social organization, such as local 
+group exogamy and bilateral descent, that encourage wide-ranging movement and 
+social ties, free of any of the links between lineages and specific territories that 
+characterize many sedentary agriculturalists. Thomas Headland (1986) observes 
+similar features amongst the Casiguran Agta.
+
+Such interactive networks between farmers and hunter-gatherers, in situations of 
+non-severe circumscription, are presumably stable until the farmers increase their 
+numbers (hardly a rare circumstance in many modem developing countries) and 
+thus require more land. Then, the hunter-gatherers either join the farmers as an 
+underclass of field workers, or, if they are lucky, they can adopt agriculture. The 
+catch-22 situation here is that by the time the farmer pressure is sufficient to make 
+agricultural adoption worthwhile, it can be already too late, as some of the Philippine 
+Negrito populations have discovered so tragically, and as have some marginalized 
+San with respect to pastoralism. The process in the 21st century would appear to be 
+similar to trying to jump aboard a fast-moving train.
+
+For those who miss the train through choice or circumstance, the future can be 
+grim indeed. Colonial period attempts to persuade the Malaysian Semang to settle 
+and farm have not been very successful owing to problems with seasonal food 
+scarcity and reduced dietary diversity (Kuchikura 1988; Polunin 1953). The same has 
+been the case for the Philippine groups, although here the enormous population 
+density in the Philippines compared to Malaysia renders the future of Agta foragers 
+as independent groups even more tenuous. Headland (1986, 1997; Early and Headland 1998) gives average life expectancy for the Casiguran Agta as 22 years, with 
+50 percent of children dying before puberty, one woman in seven dying in childbirth, 
+and one man in five dying as a result of homicide. Malnutrition is severe, and Agta 
+gardening is on such a small scale that it adds little to the diet. Headland suggests that 
+nutritional deficiencies in the past may be a major reason for the short stature of the 
+Agta, indeed for all the Southeast Asian Negrito populations. Eder paints a similar 
+picture for the Batak of Palawan.
+
+However, when some of these groups are looked at from a historical perspective, 
+it is clear that their world has not always been as pressured as now. Some of the Agra 
+in the Philippines adopted agriculture and even changed their languages to those of 
+the Austronesian agriculturalists deep in prehistoric time (Fox 1953; Reid 1994a, 1994b), 
+although today the Ayta of Zambales, now full-time agriculturalists, rather paradoxically derive 90 percent of their diet from introduced American rather than native 
+Southeast Asian crops (maize, manioc, sweet potato, Xanthosoma taro) (Brosius 1990). 
+This is surely a reflection of the fact that these people are obliged to live in a relatively 
+marginal agricultural location where only these non-irrigated and hardy crops will grow.
+
+The San, in particular, have been the center of a broad and rather vituperative 
+debate in anthropology and archaeology as to how "genuine or spurious" they are as 
+hunters.12 The San live mostly now in an area beyond the range of agriculture, but 
+not of pastoralism, and their relations with Bantu mixed farmers and Khoikhoi herders 
+have been very intense at times in the past, particularly for those groups who live 
+around the edge of the Kalahari. The Khoikhoi are one group of Khoisan peoples 
+who actually adopted sheep pastoralism on a permanent basis about 1,500-2,000 
+years ago (pages 109-10). Some San have also adopted agriculture from Bantu farmers, 
+planting tobacco and sorghum on a casual basis, but rarely tending the crop according to Richard Lee (1979:409-411). Others, however, such as the Dobe San of the dry 
+Kalahari interior, remained relatively uninfluenced hunter-gatherers until early in the 
+20th century. As Solway and Lee (1990:119) state: "Thus ... the complete incorporation, as dependants, of the San into the agro-pastoralist system was delayed as long as 
+the bush held the possibility of an alternative livelihood."
+
+Despite the existence of occasional cases of agricultural adoption amongst societies 
+within group 1, it is apparent that all such cases of adoption for which we have records, 
+or which can be surmised from proxy data, have been small in scale and certainly not 
+of the strength likely to set off a process of agricultural dispersal. Indeed, they probably 
+represent lucky escapes from situations of developing encapsulation. It is very hard 
+to see in the records of these "niche" hunter-gatherer societies anywhere in Africa or 
+Asia any potential for agricultural adoption on a large scale, similar for instance to the 
+major spreads of agriculture we witness in the world's Neolithic and Formative periods.
+
+First Farmers: The Origins of Agricultural Societies by Peter Bellwood
+    
+    
+    
+    
+    
+  
+
+  
+
+Group 2: The "unenclosed" hunter-gatherers of Australia, the Andamans, 
+
+and the Americas
+
+This group comprises those hunter-gatherers who inhabited agricultural latitudes in 
+Australia, the Andaman Islands, and many regions of North America, especially the 
+West Coast and Florida, but who (unlike the members of group 1) lived lives generally apart from farmers prior to European colonization. Many of these societies in 
+North America lived in coastal regions with prolific maritime resources and were thus 
+able to attain chiefdom modes of social organization, often with ranked lineages. 
+Some were also in periodic but non-threatening contact with farmers in adjacent 
+regions in prehistory and thus had opportunities, never taken, to adopt agriculture 
+(e.g., the northern Australians, the Andamanese, and the southern Californians). The 
+Calusa of Florida could also be included in this group, but Keegan (1987) suggests 
+that they ate domesticated maize on bone isotope evidence, so perhaps care is needed 
+in interpretation. Others had limited or no contact with farmers at all, partly through 
+remoteness and by virtue of being "protected" from agricultural contact by extensive 
+intervening hunter-gatherer landscapes. The tribes of British Columbia and the southern half of Australia belonged in this category.
+
+In James Woodburn's terminology, some of these hunter-gatherer populations, 
+especially the maritime chiefdoms of western North America and Florida, had delayedreturn systems for reciprocal repayment of obligation and debt. They were as a result less egalitarian than the encapsulated African and Asian hunter-gatherers. Such groups 
+often recognized formal rights over territories and resources at many levels ranging 
+from the individual to the community (Richardson 1982; Widmer 1988). They had 
+lineage rather than bilateral social organization for marriage and ritual purposes, 
+they stored food (a necessary development for delayed-return systems - Testart 1988), 
+were often less mobile, more sedentary than the immediate return groups, and in 
+general had the kind of social characteristics which in theory could render a shift to 
+the accumulating and storing lifestyle of the successful farmer a little easier. Socially, 
+therefore, such groups overlapped greatly with agriculturalists, indicating that social 
+complexity of the chiefdom type can relate in terms of origin more to the intensity 
+and reliability of resources and population density than to any simple presence of 
+food production as opposed to hunting and gathering. This is not a new observation, 
+but it is one worth reiterating nevertheless.
+
+Complex hunter-gatherer chiefdoms of the North American type seem not to have 
+existed in Australia at European contact, although Harry Lourandos (1991, 1997) 
+and Colin Pardoe (1988) provide archaeological and burial evidence to suggest that 
+complex societies in Woodburn's "delayed-return" mold could have existed in the 
+prehistoric past, especially in some of the more fertile southern parts of the continent. Ethnographically, Australia is too complex for easy categorization, with some 
+societies now being strongly "immediate-return" and focused on sharing. Nevertheless, 
+intensely maritime-oriented societies with complex technology and lineage ranking 
+did not occur in Australia and neither was food storage highly developed, except in 
+drier regions (Peterson 1993; Cane 1989:104).
+
+What do we know about opportunities for agricultural adoption amongst these 
+group 2 hunters and gatherers, before the incorporation of most into modern nations? 
+Australia, uniquely, formed a vast continent of hunter-gatherers who survived into 
+ethnographic times with no traces of pre-contact agricultural adoption, yet who lived 
+sometimes in regions of high potential agricultural productivity. Cape York Aborigines 
+were in contact with Tones Strait and southern New Guinea gardeners, all living 
+within a zone of similar ecology, climate, and floral resources (Harris 1977b). Indeed, 
+the crops that supported New Guinea cultivators - yams, aroids (particularly taro), 
+arrowroot, palms, pandanus, and occasional coconuts - grew wild in the Cape York 
+landscape without evincing any agricultural interest.
+
+Arnhem Land and Kimberley Aborigines also had contact with male Indonesian 
+maritime collectors and traders ("Macassans"), but here we perhaps must accept that 
+seamen and farming knowledge do not easily travel together. Macassan visits to 
+northern Australia for beche-de-mer collection since perhaps the 16th century (Macknight 
+1976) seem to have been frequent enough for Macassan-Aboriginal trade pidgins 
+to form (Urry and Walsh 1981), and some Aborigines were even taken by ship to 
+Macassar (Ujung Pandang). But in this case, the Indonesians did not settle permanently or farm in Australia. Similar contacts occurred with the Andamanese, who 
+were visited by trading ships sailing between India and Southeast Asia from at least 
+2,000 years ago, such that they were able to acquire pigs and to adopt pottery-making 
+(Cooper 1996). But they also did not become farmers.
+
+According to some authorities, Australian Aboriginal societies also enshrined 
+behavioral characteristics that would have made adoption of settled agriculture a 
+difficult process. Nicolas Peterson refers to the lack of materialism, need for portability, 
+and ethic of generosity in Aboriginal society, regarding these as removing any motivation for the development of labor-intensive subsistence patterns such as agriculture. 
+He gives the example of an Arnhem Land group who made a garden in 1971 for the 
+specific purpose of convincing officials that their land was in use, thus not available 
+for expropriation. When the group moved camp it uprooted the plants and replanted 
+them beside the new camp, thus giving a new meaning to the concept of shifting 
+cultivation. Not surprisingly, the plants died. A. K. Chase also suggests, with respect 
+to northern Aboriginal societies, that agriculture "implies a radically different perception of the environment and its legitimate human occupants, and it authorizes a 
+radically different manipulation of plants and their habits"."
+
+Some of the drier inland riverine regions of Australia supported populations who 
+harvested wild grasses in prehistory, and still do today (Allen 1974; Cane 1989). But, 
+unlike the situation in the Levant or China, we witness no trajectory here toward 
+domestication. The reasons for this are probably that the hand-stripping harvesting 
+method recorded ethnographically never selected for grains with a non-shattering 
+habit. Even if such selection were to occur, no planting was practiced for the next 
+season. In addition, processing of these small grass seeds was so laborious (six hours' 
+work to feed one person for one day according to Cane) that the bread-like "dampers" 
+produced from the husked and ground grain never provided more than a supplement 
+to the diet. Whether agriculture would eventually have developed here if the harvesters had been left alone by the outside world for another few millennia we will never 
+know, but with existing processing methods it would certainly be unlikely. The regions 
+concerned are also marginal for agriculture, with recurrent problems of drought.
+
+But what of agricultural adoption by ethnographic group 2 hunter-gatherer societies 
+in other parts of the world? The Yanomama of Venezuela possibly adopted banana 
+cultivation into a basically hunter-gatherer economy in post-Columbian times, after 
+this plant was introduced from Southeast Asia into the Americas (Rival 1999:81). 
+Another example of agricultural adoption has occurred in recent centuries in the 
+Southwest USA. The ancestors of the Athabaskan-speaking Apache and Navajo 
+migrated from Canada into northern Arizona and northwestern New Mexico, apparently after the collapse around AD 1400 of many of the former Anasazi and Mogollon 
+(pueblo-building) agricultural societies made famous by such evocative ruins as Cliff 
+Palace in Mesa Verde and Pueblo Bonito in Chaco Canyon (Matson 2003). The 
+Athabaskans migrated, probably down the western Plains, as bison hunters, but some 
+Navajo in close contact with surviving Pueblo societies had adopted sheep-herding 
+and some casual cultivation of maize by 1705. Ethnographically, the Apache and 
+Navajo habitats were relatively and and the degree of agricultural investment prior 
+to the 19th century was apparently only slight; attempts to force the Navajo to adopt 
+agriculture more intensively prior to 1863 failed. Some Apache living at high altitudes 
+(e.g., the Mescalero) planted maize in spring but harvested it while still green (unripe) 
+to avoid frost. They then needed to roast and sun-dry the grains in order to make them edible, which meant that they lacked any viable planting stock for the next season. 
+This, they probably had to trade for. So agricultural adoption here was evidently 
+both encouraged and yet at the same time limited in intensity by environmental 
+marginality (Hester 1962; Snow 1991).
+
+So far, it seems that the ethnographic record with respect to both group 1 and 
+group 2 hunter-gatherer societies offers few hints of eager and successful agricultural 
+adoption. This seems to be the case regardless of whether societies were immediate or 
+delayed return, encapsulated or unenclosed, ranked or egalitarian, sedentary or mobile, 
+"collectors" or "foragers"." The ranked and populous hunter-gatherer societies of 
+northern California were no more interested in adopting agriculture than were the 
+Cape York Aborigines or the Semang, and perhaps even the majority of huntergatherers in prehistory. It does not follow that hunter-gatherers who have "complex" 
+social institutions will necessarily become farmers whenever they are introduced to 
+the farming concept. Indeed, the Apache and Navajo were probably small and mobile 
+egalitarian bands at the time of their adoption of agriculture and herding.
+
+Thus, whatever the social and environmental conditions conducive to agricultural 
+adoption, the "bottom line" observation still holds. Nowhere in the ethnographic 
+record do we observe any adoption of agriculture that has imparted expansionary 
+success to the adopting population. However, it is not my intention here to claim 
+that this could never have happened in the prehistoric past, and of course we will 
+return to this issue on many occasions in later chapters.
+
+First Farmers: The Origins of Agricultural Societies by Peter Bellwood
+    
+    
+    
+    
+    
+  
+
+  
+
+Group 3: Hunter-gatherers who descend from former agriculturalists
+
+This group has deliberately been left until last because of the uniqueness of its historical 
+trajectory. Some hunter-gatherers appear to have descended from original farming or 
+pastoralist societies, via specializations into environments where agriculture was not 
+possible or decidedly marginal. Some also exist in direct contact with agriculturalist 
+groups closely related in terms of cultural and biological ancestry. The so-called "Manus 
+True" fishing communities of the southern coast of Manus Island in the Admiralty 
+Islands of Melanesia are a good example here,15 existing as they do side by side with 
+a land-based agricultural population from whom they are not sharply separated in an 
+ethnic sense. In terms of history, such trajectories obviously necessitate that these 
+societies be considered separately from the "original/pristine" hunter-gatherers of 
+groups 1 and 2.
+
+But this is a difficult group to deal with in terms of authentication. Often the 
+suggestions of a partial agricultural ancestry are based on linguistic and biological 
+relationships rather than concrete eye-witness evidence. Examples of this group are 
+claimed (and sometimes counterclaimed) to occur in East Africa, southern India, 
+interior Borneo, southern New Zealand, the Sepik Basin of New Guinea, the Great 
+Basin and western Great Plains of the USA, and in relatively infertile interfluvial 
+regions of the Amazon Basin. Indeed, it is a very large group, amongst whom the 
+southern Maoris and some of the northern Uto-Aztecan peoples were the only ones 
+actually obliged by environmental factors to abandon true agriculture. The existence of this group renders "hunting and gathering" rather an uncertain concept from a 
+historical point of view, but our concern in this section is more with behavior than 
+with history per se. As far as behavior is concerned these people are, of course, 
+genuine hunter-gatherers.
+
+Some of the rain-forest hunters and gatherers of Island Southeast Asia, particularly 
+the Punan of Borneo, the Kubu of Sumatra, and the much-debated Tasaday of 
+Mindanao (fake or genuine!), descend from original agricultural populations, if the 
+linguistic and biological data are any guide.16 In this view, the ancestral Punan and 
+Kubu became hunter-gatherers, especially wild sago collectors in the case of the 
+Punan, via conscious decisions to move into interfluvial rain-forest hunting and 
+gathering in regions that riverine agriculturalists found hard to penetrate.
+
+Other hunter-gatherers descended from cultivators include some Bantu speakers 
+in southern Africa, possibly the honey-collecting Dorobo or Okiek of the Kenyan 
+Highlands of East Africa, probably some marginal sago-collecting groups (most of 
+whom practice minor horticulture) in the Sepik Basin of New Guinea, and some 
+Indian groups such as the Chenchu and Birhor." In South America there are other 
+such potential group 3 hunter-gatherer populations in the poorer interfluvial regions 
+of the Amazon Basin, such as the Ache of Paraguay and the Siriono and Bororo of 
+Brazil." Perhaps the most interesting are the Numic-speaking Uto-Aztecan peoples of 
+the Great Basin and adjacent areas, who appear to have abandoned a former agricultural lifestyle around 1,000 years ago. These people, linguistic descendants of original 
+maize-cultivators in Mexico and the Southwest, eventually found themselves in a dry 
+region where maize agriculture had become marginal or no longer possible (see 
+chapter 8). Some groups still have give-away characteristics of their remote agricultural ancestry, such as pottery-making, irrigation of stands of wild plants, and farmerlike attitudes to resource ownership (Kirchhoff 1954; Madsen and Rhode 1994; Hill 
+2001, 2003).
+
+Group 3 hunter-gatherer societies are of especial interest because it is far easier for 
+a relatively marginal food-producing community to turn to hunting and gathering 
+than it is for hunters and gatherers to move in the opposite direction. Thus, it is a fair 
+expectation that members of this third group of hunter-gatherers will always have 
+been quite numerous, particularly around the ecological margins of expanding agricultural societies. As to the value of these groups with respect to debates concerning 
+hunter-gatherer adoptions of agriculture, one might protest that having given up 
+agriculture they are quite likely to adopt it again. This is perhaps true, particularly if 
+some technological or economic habits survive from the former agricultural phase. 
+Yet those who lived ethnographically in regions of agricultural possibility (i.e., 
+excluding southern New Zealand and the Great Basin) still behaved essentially as 
+other living hunter-gatherer groups with respect to general lack of interest in agricultural adoption. For instance, Bernard Sellato (1994) notes how resistant the Punan of 
+parts of Borneo are to taking up farming, although Punan women often marry men 
+from Kayan farming communities.
+
+Indeed, the marriage of hunter-gatherer women to food-producer men is so 
+commonly recorded in ethnography that it is clearly a major avenue of cultural and genetic interchange. Hunter-gatherer men can rarely afford to acquire farmer wives, 
+especially if bride-price payments are involved. Despite the intermarriage, however, 
+Kayan communities still like to keep the Punan in a subservient collector relationship, just as Philippine farming communities do the Agta and as some Bantu farmers 
+do their Pygmy and San neighbors.
+
+Thus, the group 3 hunter-gatherers overlap with those of groups 1 and 2 in terms 
+of behavior and social situation, and only appear to differ in terms of origin. The 
+factor of origin in this respect, however, is very significant, for the group 3 societies 
+offer one trajectory of cultural evolution that can terminate for ever the idea that 
+evolution from foraging to farming is a one-way street.
+
+First Farmers: The Origins of Agricultural Societies by Peter Bellwood
+    
+    
+    
+    
+    
+  
+
+  
+
+Why Do Ethnographic Hunter-Gatherers Have Problems with 
+
+Agricultural Adoption? A Comparative View
+
+They live in a Tranquillity which is not disturb'd by the Inequality of Condition: The 
+Earth and sea of their own accord furnishes them with all things necessary for life, they 
+covet not Magnificent Houses, Household-stuff &c°, ... In short they seem'd to set no 
+value upon any thing we gave them, nor would they ever part with any thing of their 
+own for any one article we could offer them; this in my opinion argues that they think 
+themselves provided with all the necessarys of Life and that they have no superfluities. 
+(Captain James Cook, describing the Natives of New-Holland [New South Wales, 
+Australia] in 1770; Beaglehole 1968:399)
+
+The absence of farming in areas susceptible of it, like California, is thus not due to 
+natural limitations but to cultural limitations of a historical character - the feebleness 
+of agricultural stimuli. (Kirchhoff 1954:533)
+
+The above descriptions of the three groups of ethnographic hunter-gatherer societies 
+indicate that some have shifted into fairly marginal economies of agricultural production in recent centuries. But very few, it seems, have actually been observed in 
+ethnographic times adopting a full-time farming livelihood supported by only minimal hunting and gathering. Why not? Is it because there are special factors that have 
+made such adoptions almost impossible in the face of a torrential outpouring of 
+European colonization and conquest during the past 500 years? Did hunter-gatherers 
+adopt agriculture much more frequently before this? Perhaps, but the fact still remains 
+that there are obviously many aspects of mobile hunter-gatherer society that are 
+antithetical to adoption of the sedentary lifestyle of the cultivator. On top of this, we 
+have the attitudes of the farming and pastoralist societies themselves, often ranked 
+and status-conscious, with whom some of the ethnographic hunter-gatherers have 
+come into contact and by whom many have eventually been encapsulated. We have, 
+therefore, two pincer-like reasons why hunter-gatherers face a catch-22 situation and 
+find it hard to adopt agriculture - unsuitable social relations on the inside, combined 
+with adverse relationships with other populations on the outside.
+
+What about those societies for whom encapsulation has not been an issue? Here, 
+we still have to explain why Cape York Aborigines did not adopt yam and taro 
+gardening across Torres Strait, given all the other material borrowings, including 
+outrigger canoes, that are known to have crossed the same route. We also have to 
+ask why southern Californians did not adopt maize cultivation from the peoples of 
+the lower Colorado valley long before Spanish arrival. In a detailed review of this 
+question for California, Bean and Lawton (1976:47) seem to hit the nail right on the 
+head when they state: "The abundance of California's food resources and highly 
+developed techniques of energy extraction, however, made it unnecessary to adapt 
+an agricultural mode, except in some of the marginally productive desert areas."
+
+This suggests, so far, that we have two basic sets of reasons for agricultural nonadoption - the social reasons, and the economic lack-of-necessity reasons. There is 
+a third reason, presented by the Californians and northern Australians. Although 
+relatively affluent in food supplies, the people of both southern California and Cape 
+York were also separated from their nearest agricultural neighbors by small but 
+significant geographical transitions. In the case of northern Australia it was a sea gap 
+and increasing dry-season length toward the south, moving away from agriculturalist 
+New Guinea. In the case of California it was desert and the shift from a semi-arid 
+Arizona environment to a Mediterranean-type climate with very marked winter 
+rainfall seasonality. Bean and Lawton tend to dismiss the latter problem on the 
+grounds that maize was grown widely by Indians in California in the colonial conditions of the 18th and 19th centuries, but this development merely demonstrates 
+that "where there is a will there is a way." Prior to the mid-18th century it seems 
+there was no will.
+
+In addition to this, the low-density Yuman and Uto-Aztecan agricultural populations 
+in Arizona probably saw no reason to attempt to expand their ranges across the 
+Mojave Desert into California, except for hunting and gathering purposes. These 
+populations had low levels of production tied to localized irrigation systems and it is 
+unlikely they would have seen any necessity to cross forbidding desert terrain to 
+enter a quite different climatic zone. Elsewhere in the world where bio-geographical 
+transitions needed to be crossed, as from Pakistan into India and from temperate 
+China into tropical Southeast Asia, agriculture also spread very slowly. Into Australia 
+and California agriculture never spread at all and the indigenous hunter-gatherers 
+simply continued, prior to the European period, in the lifestyle they knew best.
+
+Having reviewed the varied reasons why hunters and gatherers should not adopt 
+agriculture, it is now necessary to ask what kind of hunter-gatherers could have 
+dodged the overall catch-22 situation with success and aplomb, avoiding encapsulation in the process, back in the Neolithic or Formative? Under what circumstances 
+would hunters and gatherers have positively and successfully adopted agriculture, 
+such that they were able to "take over" the economy, technology, and maybe even language of 
+a neighboring farming group and convert their takeover into a powerful force for expansion? 
+This, after all, is what any claim for local hunter-gatherer adoption of agriculture as 
+a major driving force for both language and material culture expansion in prehistory 
+must imply. Mere adoption of low-energy sporadic cultivation by a hunter-gatherer population, or incorporation of a hunter-gatherer group and its genes into a dominant 
+agriculturalist society, is not a relevant issue in this regard.
+
+The answer to the above question is not an easy one, for it is of course possible 
+that hunter-gatherer societies existed 10,000 years ago quite unlike any of the recent 
+past with respect to their attitudes toward adopting an agricultural lifestyle. But 
+again, one must express some doubt on this. There is nothing in the archaeological 
+record to indicate that ancient hunter-gatherers were structured beyond the range, 
+from band to chiefdom, that we witness in hunter-gatherer ethnography. If we wish 
+to ask what would have happened when agriculturalists and hunter-gatherers came 
+face to face in regions of very high agricultural potential, such as the fertile alluvial 
+plains of temperate Europe, central China, or northern India, then comparative 
+ethnography and history suggest the following possibilities:
+
+a) Hunter-gatherers would have been unlikely to adopt agriculture if they were not 
+in direct and continuous contact with agriculturalists. They would also not have 
+adopted agriculture by remote action across bio-geographical transition zones or 
+uninhabited terrain.
+
+b) When the contacts were direct, that is, when the agriculturalists were actually 
+living within the territories used by hunter-gatherers, then the initial trends 
+would have been for mutualism and exchange.19
+
+c) The hunter-gatherers would have begun to adopt agriculture as the agriculturalist 
+pressures on land increased. But here we have that catch-22 situation again - as 
+the pressures increased, so would the encapsulation and domination, thus reducing the social likelihood of successful agricultural adoption. There would always 
+have been a window of opportunity for hunters and gatherers to adopt agriculture. But if it was an ephemeral one, as it would have been in situations of rapid 
+farmer demographic increase, then most hunter-gatherers would have been less 
+likely to pass through it.
+
+So far, therefore, there appear to be no compelling reasons why any ancient hunters 
+and gatherers would have commonly adopted agriculture on a permanent basis, or 
+would have tried to do so unless pushed, or even why the many Neolithic farmer 
+populations would simply have sat by quietly and watched hunter-gatherers adopting 
+the livelihood from which they derived their social and symbolic power. But, of 
+course, there is a very important loophole here for those disposed to vote for huntergatherer adoption of agriculture as the main means of agricultural spread in Neolithic 
+times. This concerns environmental specifics and issues of farmer-hunter comparative 
+demography. In regions that were marginal for agriculture, or in coastal regions where 
+maritime food-collecting populations were quite dense, it is obvious that the chances 
+of the native hunter-gatherer populations "taking over" a tentatively introduced agricultural system could have been higher, at least according to pure logic. Much would 
+depend on how rigidly the farmers wished to protect their ethnic identity, on how 
+much they would have been willing to recruit new members through intermarriage 
+with hunter-gatherers, and on how much their economy was coming under stress with the move into less favorable environmental conditions. These are complex 
+issues that cannot be dispatched with one-line answers, and many examples of such 
+situations are discussed later. But let us not forget again that high productivity in a 
+rich coastal hunter-gatherer economic system, even with sedentism and storage, 
+does not necessarily make agricultural adoption any more likely.
+
+Despite these fairly negative views on the possibility of agricultural adoption 
+by hunter-gatherers, it is certainly not being suggested here that ancient huntergatherers could never have adopted agriculture from outside sources. But they would 
+only have been likely to do so in situations where they had some demographic or 
+environmental advantage over any farmers in the vicinity, and where there would 
+have been significant reasons why the normal hunter-gatherer disinterest in agricultural 
+adoption should be overturned. We cannot assume that hunter-gatherers would automatically adopt agriculture just because it was sitting under their noses. We also 
+need to remember that many populations of hunters and gatherers survived alongside agriculturalists in many parts of the world for millennia, without adopting 
+agriculture, just as we witness in the ethnographic record.
+
+The following chapters will demonstrate that the spread of agriculture in the past 
+could not simply have occurred only because hunter-gatherers everywhere adopted 
+it. Agriculture spread in Neolithic/ Formative circumstances mainly because the cultural and linguistic descendants of the early cultivators increased their demographic 
+profiles and pushed their cultural and linguistic boundaries outwards. Occasionally, 
+existing hunter-gatherers were offered short-lived windows to do the same. But such 
+windows were probably rare, at least in terms of unilateral adoption of farming by 
+hunter-gatherers without a substantial presence of farmers in the vicinity.
+
+First Farmers: The Origins of Agricultural Societies by Peter Bellwood
+    
+    
+    
+    
+    
+  
+
+  
+
+To the Archaeological Record
+
+According to the archaeological record, agriculture emerged as the predominant 
+form of food production directly from a hunter-gatherer background, without any 
+major significance attributable to external diffusion,20 in at least five major regions of 
+the world (Figure 1.3):
+
+1. the Fertile Crescent of Southwest Asia (wheat, barley, pea, lentil, sheep, goat, 
+pig, cattle);
+
+2. the middle and lower courses of the Yangzi and Yellow river basins of China 
+(rice, foxtail millet, many tubers and fruits, pig, poultry);
+
+3. New Guinea, probably in the interior highlands (taro, sugar cane, pandanus, 
+banana, no domestic animals);
+
+4. the tropical regions of the Americas, perhaps with one or more foci in central 
+Mexico and northern South America (maize, beans, squashes, manioc, many 
+fruits and tubers, minor domestic animals);
+
+5. the Eastern Woodlands of the USA (squashes and various seed-bearing plants, no 
+domestic animals).
+
+It is possible that central (Sub-Saharan) Africa also witnessed early agricultural developments, particularly in the Sahel zone for millets and north of the rain forest in 
+West Africa for yams and African rice. There are also claims of a similar nature for 
+southern India.
+
+In understanding the origins of agriculture in these regions we need to consider for 
+each of them, wherever data exist, a number of botanical/zoological, environmental, 
+and archaeological questions:
+
+a) Where did the progenitors of the major domesticated plants and animals live when 
+domestication first occurred (bearing in mind that modem environments and 
+species distributions can be very different from those of several millennia ago)?
+
+b) How did climatic conditions and environments change during the time spans in 
+which agriculture emerged in the various regions? What were the results of 
+these changes on faunas, floras, and human economies?
+
+c) What kinds of hunting and gathering cultures made the transition to agriculture 
+in the various regions? How important were preexisting patterns of sedentism, 
+food storage, and opportunities for asymmetrical accumulations of wealth as 
+opposed to egalitarian sharing?
+
+d) How rapidly did particular transitions occur, and over what extents of territory 
+initially?
+
+e) What patterning in archaeological/ cultural terms is associated with the transition?
+
+These questions will be addressed in more detail as we proceed through the evidence 
+from each region. Coverage for different areas is very uneven and our understanding, 
+in terms of sheer quantity of archaeological data, is dominated very much by the 
+transition in the Levant. But we have enough information to know that the Levant 
+model is unlikely to be valid for any other regions, apart perhaps from China, and even 
+here only with modification. The routes to agricultural dependence were multiple.

@@ -1,0 +1,1917 @@
+Chapter 10 - The Spread of Farming: Comparing the Archaeology and the Linguistics
+=================================================================================
+
+First Farmers: The Origins of Agricultural Societies by Peter Bellwood
+    
+    
+    
+    
+    
+  
+
+  
+
+Chapter 10
+
+The Spread of Farming: Comparing 
+
+the Archaeology and the 
+
+Linguistics
+
+This chapter examines the patterns of origin and dispersal for the major agriculturalist 
+language families, as visible from the viewpoint of comparative linguistics. The question at this point is whether the foundation "layers" of language families/subgroups, 
+and Neolithic/ Formative farming economies and material cultures, could have spread 
+together.
+
+First of all, Figure 1.3 encapsulates current understanding of the archaeological 
+record pertaining to the origins and spreads of the major agricultural systems and the 
+cultures associated with them, as dealt with in chapters 3 to 8. It is not necessary to 
+justify these conclusions further at this point, although I would not be so unwise as 
+to claim that they are fixed and immutable. New data might impose changes, yet my 
+feeling is that we have enough of a world archaeological record to make it unlikely 
+that any complete upheaval will occur.
+
+The distributions of the major agriculturalist languages at AD 1500 are delineated 
+in Figures 1.1 and 1.2, together with those of the major hunter-gatherer families. If 
+the homelands and directions of spread of agricultural systems and technologies, as 
+modeled in Figure 1.3, were indeed concurrent with the homelands and directions of 
+spread of the major agriculturalist language families, then we should expect a number 
+of correlations. Relevant language families should have their putative homelands 
+located within or close to agricultural homelands; they should overlap or intersect 
+geographically within or close to agricultural homelands; and they should have dispersal histories that commence chronologically within agricultural homeland areas 
+and then become progressively younger with distance away from such homelands.
+
+To see if there are such correlations, we turn to the history of the major agriculturalist language families themselves, those that cover large extents of terrain in 
+agricultural latitudes and that have reconstructed agricultural terminology, including 
+names for crops and domesticated animals, in their proto-languages. As far as these target language families are concerned, there are three essential arenas of linguistic 
+reconstruction that are of immediate interest, these being the identification of homelands, the identification of early cultural vocabularies (especially those pertaining to 
+agriculture), and the histories of expansion and dispersal of their major subgroups. 
+Questions of macrofamily affiliation for individual language families also arise.
+
+First Farmers: The Origins of Agricultural Societies by Peter Bellwood
+    
+    
+    
+    
+    
+  
+
+  
+
+Western and Central Eurasia, and Northern Africa
+
+The major language families to be considered in this region are Indo-European, 
+Afroasiatic, and (Elamo-)Dravidian. The Indo-European and Afroasiatic families 
+today occupy much of the area covered in prehistory by the Southwest Asian 
+agropastoral combination of crops and animals, and it is possible that Dravidian 
+originated also within this region. Indo-European and Afroasiatic are flanked to the 
+south and east respectively by the African and East Asian monsoonal zones, with 
+their quite different rainfall regimes and domesticated plant species, and to the north 
+by regions beyond the range of Neolithic farmers. There are disputed linguistic claims 
+that these three families belong in one macrofamily, termed Nostratic, and we return 
+to this concept later.
+
+First Farmers: The Origins of Agricultural Societies by Peter Bellwood
+    
+    
+    
+    
+    
+  
+
+  
+
+Indo-European
+
+We begin with Indo-European (IE - Figure 10.1), since this is by far the most studied 
+language family in the world, and also the one that has driven much of the debate 
+over how one determines deep language history. No discussion of Indo-European 
+can begin without a reference to Sir William Jones, who in 1786 commented on 
+similarities between Sanskrit, Greek, Latin, Gothic, Celtic, and Persian, and added 
+the famous phrase that they must have been "sprung from some common source, 
+which, perhaps, no longer exists" (Pachori 1993:175; Johann Reinhold Forster anticipated Jones by about a decade with his comments on Austronesian!). In 1890, von 
+Bradtke divided the IE languages into two groups in terms of a sound change in the 
+word for "one hundred," thus defining Greek, Italic, Germanic, and Celtic (and later, 
+Tocharian and Anatolian) as a centum group, and Baltic, Slavic, Albanian, Armenian, 
+and Indo-Iranian as a satem group. At first sight, the geography of all this looks rather 
+odd, but explanations are offered below.
+
+Indo-European from the Pontic steppes?
+
+The first, and long dominant, "world view" of IE origins developed through the 
+middle and later years of the 20th century, with contributions from both archaeologists and linguists. This is the Pontic steppes theory, with a homeland located in 
+Ukraine and southern Russia, north of the Black and Caspian Seas, and a dispersal 
+associated with conquests by late Neolithic and Chalcolithic / Early Bronze Age pastoralists who had knowledge of horse-riding and use of the wheel for transport. 
+No proposed family trees for IE actually demand a Pontic homeland, and we return 
+to subgrouping matters below. The Pontic steppes theory has basically been driven 
+by a congregation of assumptions, unrelated to linguistic subgrouping per se, that can 
+be listed as follows:
+
+1. Linguistic reconstructions of terms for wheeled vehicles to a relatively early stage 
+of IE support a homeland in the Pontic steppes, where carts are known to date back 
+to about 3000 BC in the archaeological record (Anthony 1995; Bakker et al. 1999).
+
+2. Certain aspects of reconstructed Proto-IE society could be taken to imply 
+patrilineality and pastoralism, the latter again pointing to the rather dry Pontic 
+steppe region, albeit not in any specific way.
+
+3. Some linguists have an intuition, backed by glottochronology, that the IE languages cannot be more than 5,000 or 6,000 years old, and thus late Neolithic or 
+Early Bronze Age, but not early Neolithic or Mesolithic, in archaeological terms.
+
+4. The Anatolian languages (discussed further below) are stated by many historians 
+and linguists to be non-native to Anatolia, and thus of no relevance for IE homeland questions.
+
+Within the archaeological literature, for this is where it has been most strongly 
+propounded, the Pontic steppes hypothesis was clearly stated by Gordon Childe in 
+1926, and then taken up in many publications by Marija Gimbutas (e.g., 1985, 1991). 
+In Gimbutas' formulations, the early IE populations spread by migration of patriarchal horse-riding pastoralists from the Pontic steppes between 4500 and 2500 BC, in 
+up to four successive waves. These people constructed burial mounds (kurgans), and 
+formed an elite who imposed their IE languages upon a matriarchal (and non-IE) 
+Neolithic population with goddess-centered rather than patrilineal ideologies. As 
+Gimbutas (1985:185) once stated of Neolithic Anatolia: "the great neolithic civilization of this region is the antithesis of all the characteristics understood as Proto-IndoEuropean."
+
+The Pontic steppes origin has been supported (with variations on some of the 
+Gimbutas details) by scholars too numerous to discuss individually. Currently, one of 
+its strongest proponents is archaeologist David Anthony (1991, 1995; Anthony and 
+Brown 2000), who has examined both the archaeological and the linguistic records 
+for evidence of early horse riding and wheeled vehicles on the Eurasian steppes. In 
+Anthony's most recent formulations, horse riding could have been practiced north of 
+the Black Sea as early as 3500 BC, and the Proto-Indo-Europeans might thus have 
+spread together with horses, wheeled vehicles, and a full agropastoral economy from 
+the steppes, entering Europe by about 3000 BC.
+
+All these reconstructions, of course, require processes of "elite dominance" for the 
+Proto-Indo-European (PIE) populations to impose their languages on the much larger 
+Neolithic populations already spread across Europe, processes in my view based 
+more in guesswork than sociolinguistic reality. Indeed, all four assumptions listed 
+above as being at the base of the hypothesis are now under attack from many sides.
+
+For instance, Jim Mallory (1997), one of the staunchest supporters of a Pontic 
+homeland, is clearly no longer convinced that domesticated horses and wheeled 
+vehicles must be reconstructed to PIE (although wild horses could be another matter). Neither are linguists James Clackson (2000), Robert Coleman (1988:450), Calvert 
+Watkins (1985), and historian Igor Diakonov (1985). The reconstructed PIE vocabulary' was not exclusively pastoralist, and neither is the archaeological record entirely 
+pastoralist from the relevant period on the steppes (Mallory 1997; Anthony and Brown 
+2000). Recent research on horse domestication by archaeologist Marsha Levine (et al. 
+1999) suggests much later dates for horse riding, only late second millennium Be and 
+thus irrelevant for PIE dispersal. Many linguists are now willing to entertain suggestions that PIE could be older than 5,000 years (see below), and the idea that the 
+Anatolian languages were not native to Anatolia (and thus not relevant for IE homeland questions) has no strong factual basis. But the fundamental nail in the coffin of 
+the Pontic steppes hypothesis was hammered by Colin Renfrew (1987), when he 
+asked how a kurgan-based expansion of late Neolithic and Bronze Age conquering 
+pastoralists across most of Europe could have left absolutely no corresponding 
+continent-wide horizon in the archaeological record.
+
+First Farmers: The Origins of Agricultural Societies by Peter Bellwood
+    
+    
+    
+    
+    
+  
+
+  
+
+Where did PIE really originate and what can we know about it?
+
+In order to determine the true homeland of PIE, we must understand the phylogeny 
+of the IE major subgroups. However, many linguists have pointed out that there is 
+no well-stratified family tree for IE with consecutive bifurcations and a clear root. 
+With the possible exception of Anatolian, all the IE families form a rake-like pattern 
+of descent, running in parallel from a very widespread basal linguistic forebear. The 
+fact that some subgroups, such as Romance, Slavic, Germanic, and Indo-Iranian, 
+spread very extensively long after PIE times does not affect this basic rake formation, 
+but merely adds "bushes" on the ends of the tines. The existing subgroups of IE 
+separated from one another very early in the history of IE diversification, and no 
+obvious homeland therefore springs forth from the shape of the tree itself.
+
+This rake-like phylogeny of IE suggests a very wide dispersal of early IE languages, 
+followed by maintenance of contacts in different directions (as indicated by overlapping isoglosses) for perhaps a millennium, according to Johanna Nichols (1998a, 
+1998b) and Calvert Watkins (1998), prior to the development of mutual unintelligibility 
+and the separation of distinct subgroups. However, there is one subgroup, discovered with the translation early last century of second-millennium ae Hittite and the 
+discovery of several other ancient Anatolian languages (Lydian, Lycian, Palaic, and 
+Luwian), that renders a completely rake-like foundation for IE increasingly untenable.
+
+Today, increasing numbers of linguists regard the Anatolian languages as a single 
+branch of IE, coordinate with a second branch containing all the other subgroups. If 
+this view is correct, then the Anatolian languages must be relevant for the IE homeland question. In addition, several Russian linguists claim that PIE shares loan words 
+with Proto-Semitic, presumably located in the northern Levant, and also with ProtoKartvelian, one of the three language families in the Caucasus (Gamkrelidze and Ivanov 1985, 1995; Gamkrelidze 1989; Dolgopolsky 1987; Klimov 1991). The geography 
+of these borrowings has led some of these scholars to place the IE homeland in 
+Anatolia, particularly in its eastern portion. These observations are not yet accepted 
+by all linguists - Johanna Nichols (1997a) uses the Kartvelian loans to place the IE 
+homeland close to the Ural Mountains, although this viewpoint seems not to have 
+attracted any further supporters.
+
+Gamkrelidze and Ivanov (1995) strongly favor an eastern Anatolian homeland for 
+PIE, but still accept the viewpoint of the Pontic school, that wheeled vehicles, and 
+also a non-specific knowledge of metal, are reliable PIE reconstructions. This forces 
+them to favor a Chalcolithic or Bronze Age date for PIE dispersal, with movements 
+out of Anatolia west into Greece and the Balkans, and northeast via the Caucasus and 
+then westward into Europe around the north of the Black Sea. In their major 1995 
+work they suggest the Chalcolithic Halafian culture of northern Mesopotamia and 
+southeastern Turkey (ca. 5500-5000 Bc), characterized by highly competent production 
+of kiln-fired painted pottery, as a possible identification for PIE. But archaeological 
+support for this view is so far unconvincing.
+
+Anatolia is therefore coming into focus as the most likely homeland region for 
+PIE, at least according to a sound but not absolute consensus amongst modern 
+linguists. There is increasing agreement that languages ancestral to subgroups including Greek, Tocharian of the Tarim Basin, Italic, and Celtic began to spread first (or 
+stay at home in the case of Anatolian), these all forming a major segment of the 
+centum group referred to above, which also includes Germanic (Ringe et al. 1998; 
+Drews ed. 2001; Gray and Atkinson 2003). Suggestions are also being made that 
+certain poorly understood languages of ancient Europe, such as Minoan and Etruscan, once considered non-IE in the absence of any detailed understanding, could be 
+witnesses for subgroups that moved extremely early from the IE (or Indo-Hittite) 
+homeland (Renfrew 1998, 1999).
+
+The reconstructed PIE vocabulary certainly does not rule out an Anatolian homeland, and indeed supports it to a degree, especially if we accept the claim of 
+Gamkrelidze and Ivanov that there was a term for "mountain," which in turn tends 
+to rule out the flat Pontic steppes. Other items of a more cultural nature that can be 
+reconstructed back to PIE include the Southwest Asian domesticated animals and 
+horses, the latter perhaps wild, an unspecified term for grain (perhaps wheat and/or 
+barley), the plough (the simple and rather than the mold-board plough that actually 
+turns a sod), and weaving and the use of wool. This listing is sufficient to demonstrate the possibility that PIE could have been an early farming society - it evidently 
+was not a hunter-gatherer one. However, the nature of the PIE vocabulary will 
+always be a little uncertain if the phylogeny of the language family is not fully agreed 
+upon. For instance, if the Anatolian subgroup really does link to all the others at the 
+base of the IE family tree, then only items that have Anatolian witnesses can truly be 
+reconstructed within the PIE vocabulary.
+
+As for the date of PIE, most linguists have recently opted for dates sometime 
+between 3500 and 7000 sc. Russell Gray and Quentin Atkinson (2003) have used 
+computational methods derived from evolutionary biology in order to find the tree with the smallest number of evolutionary changes required to generate recorded IE 
+vocabularies. Using chronological calibrations derived from changes in historically 
+recorded languages, they offer a date for PIE close to 7000 ac, followed by initial 
+divergence of Anatolian, Tocharian, and Greek/Armenian (in that order), with the 
+other subgroups differentiating later and being more rake-like in their relationships. 
+In a similar analysis, Peter Forster and Alfred Toth (2003) use phylogenetic network 
+methods derived from evolutionary biology to offer a similar time depth for PIE of 
+8100±1900 Be for PIE. These are important contributions, which give very strong 
+support to an Anatolian homeland and a Neolithic initial dispersal.
+
+First Farmers: The Origins of Agricultural Societies by Peter Bellwood
+    
+    
+    
+    
+    
+  
+
+  
+
+Colin Renfrew's contribution to the Indo-European debate
+
+In 1987, a book entitled Archaeology and Language pushed the debate over the IndoEuropean homeland and date of dispersal to a new level of intensity. In it, British 
+archaeologist Colin Renfrew set out in detail his hypothesis that PIE had spread from 
+Anatolia into Europe with the first Neolithic farmers. The publication was followed 
+by considerable discussion, some percipient, as in the case of Andrew and Susan 
+Sherratt's 1988 suggestion that other language families could have followed a similar 
+trajectory to Indo-European, thus leading to radial outflows of language from agricultural heartland areas. Sixteen years after the publication of Archaeology and Language, Renfrew (2003) still maintains his basic stance on the correlations between 
+farming dispersal and the spread of language families. His most recent expositions on 
+IE favor a homeland in south-central Anatolia during the period when farmers first 
+spread into Greece, at about 7000-6500 Be (Renfrew 1999, 2001a). This initial spread 
+continued into Europe to give rise to the italic and Celtic subgroups, with Tocharian 
+splitting off quite early (5000 BC?) to the north of the Black Sea to move across the 
+steppes into central Asia. This early movement seems generally to have given rise to 
+the centum languages, whereas the satem subgroups in eastern Europe (Baltic, Slavic, 
+and Albanian) maintained a situation of "advergence" characterized by shared innovations in a Balkan sprachbunde, this latter reflecting many of the social characteristics 
+that Marija Gimbutas originally associated with the basal layer of IE. Interestingly, the 
+Indo-Iranian languages also relate most closely to eastern European satem languages, 
+thus giving hints for the ultimate origins of the IE languages of the Indian subcontinent.
+
+Renfrew's basic reconstruction clearly favors a "stratified" phylogeny for IE, a little 
+different from the rake-like pattern normally favored by linguists, but one recently 
+promulgated by a variety of mathematical approaches (Warnow 1997; Ringe et al. 
+1998; Gray and Atkinson 2003). The reconstruction of the earliest period of IE dispersal 
+into Europe favored by Renfrew is shown in Figure 10.2. Archaeologically, the overall spread occurred between about 7000 Be (Greece) and 4000 se (Britain). During 
+this 3,000-year period there was undoubtedly very great genetic interchange between 
+incoming farmers and Mesolithic natives, especially in northern Europe, although 
+there is little evidence for anything approaching "creolization" in the linguistic record. 
+There are claims for substrata involving plant names, river names, and other geographical terms, perhaps of non-IE origin (Markey 1989; Polome 1990; Schmidt 1990; Vennemann 1994; Kitson 1996; Dolgopolsky 1993). Norbert Strade (1998) also suggests that the Germanic languages spread over a Uralic substratum by a process 
+involving considerable language shift. Besides Uralic, the coastal fringes of Europe 
+certainly harbored a number of other languages in Roman times that might have 
+been non-IE, with Basque of the Pyrenees being perhaps the best-known (Zvelebil 
+and Zvelebil 1988; Sverdrup and Guardans 1999 term these languages "Paleoeuro- 
+pean"). But many of the ancient languages are only poorly understood, if understood 
+at all, and opinions on IE versus non-IE status for them seem to swing widely, 
+especially in cases like Pictish and Etruscan. We can only note that the spread of IE 
+through most of Europe south of the Baltic does not seem to have been associated 
+with massive levels of contact-induced language change, of the type we see, for 
+instance, amongst some of the Austronesian languages of Melanesia. This suggests 
+that the IE spread occurred through coherent processes of population expansion!
+
+First Farmers: The Origins of Agricultural Societies by Peter Bellwood
+    
+    
+    
+    
+    
+  
+
+  
+
+Afroasiatic
+
+The Afroasiatic (AA) language family (Figure 10.3) contains six subgroups, of which 
+Ancient Egyptian (or Coptic in historical times), Semitic, and Berber are agreed by 
+most linguists to form a single node (Boreafrasian of Christopher Ehret 1995, with 
+several phonological innovations). Chadic and Cushitic form separate subgroups, 
+as does a poorly known and small language subgroup in southwestern Ethiopia, 
+termed Omotic.3 The present-day widespread distribution of Semitic languages in 
+North Africa does not reflect in situ descent directly from the earliest history of this family, since Arabic spread very widely after the seventh-century Arab conquests, 
+and the ancestors of the more diverse Ethiopic languages (including Amharic), also 
+in the Semitic subgroup, spread from Arabia during the second millennium BC 
+(Ehret 2000).
+
+Figure 10.2 Colin Renfrew's reconstruction of the Indo-European homeland in central Anatolia and the first expansions of Indo-European languages into Europe. From 
+Renfrew 1999.
+
+There are two quite separate bodies of opinion concerning AA prehistory. One 
+school, for which linguists Christopher Ehret (1979, 1995, 2003), Lionel Bender (1982), 
+and Roger Blench (1993, 1999) are perhaps the main proponents, favors a homeland 
+in northeastern Africa on the grounds that five of the six AA subgroups (excluding 
+Semitic) occur only in Africa, including those perceived to be the most ancient in 
+phylogenetic terms. The precise location of the homeland varies a little according to 
+author, oscillating through Ethiopia and Sudan toward the Red Sea coast, where live 
+the Beja, apparently representing a very early linguistic split within the Cushitic 
+subgroup. These linguists tend to regard early AA expansion as pre-agricultural, 
+although not pre-herding in Ehret's view, thus perhaps to be equated with population spread into the eastern Sahara consequent upon the postglacial wetter climatic 
+conditions after about 10,000 years ago. Ehret (2003), for instance, states that Cushitic, 
+Chadic, Berber, and Semitic all have independently derived agricultural protovocabularies, but that Proto-Cushitic already had some cattle vocabulary at the time 
+of its break-up, and thus may have had an incipient herding economy.
+
+The other major school, composed mainly of Russian linguists, strongly favors a 
+Southwest Asian and specifically Levant homeland. This opinion is based entirely on 
+vocabulary reconstruction rather than the "center-of-gravity " assumptions of the 
+Northeast Africa school. Apart from one rather isolated claim for an AA expansion 
+out of the Levant during the Aurignacian over 30,000 years ago (McCall 1998), the 
+core case for the Levant school is based on the following observations:
+
+1. Glottochronological considerations, calibrated against data on ancient Egyptian 
+and Semitic languages (Greenberg 1990:12), suggest that PAA is perhaps a little 
+older than PIE (between 10,000 and 7000 BC).
+
+2. The reconstructed vocabulary of PAA does not contain any specifically agricultural cognates, but it does include names for a number of plants and animals 
+that are of Asian, not North African origin (sheep, goat, barley, chickpea, for 
+instance: Blazek 1999; Militarev 2000, 2003). Militarev favors early agricultural 
+correlations.
+
+3. Proto-Semitic is of undoubted Levant origin and has a full agropastoral vocabulary (Dolgopolsky 1993; Diakonoff 1998).
+
+These observations do not form conclusive proof of a Levant origin for the whole 
+AA family, and we seem to be sitting on a slightly unyielding fence. My suspicions, 
+with Colin Renfrew (1991), are that PAA does indeed have a Levant rather than a 
+Northeast African origin, but I have to admit that this view is based more on an 
+understanding of the record of early Holocene population movement than of any 
+absolute markers of linguistic phylogeny. The spread of Neolithic cultures from the 
+Levant into Egypt at about 5500 BC, or perhaps before, combined with the possibility of a PPNB movement of caprovine herders down the western side of the Arabian 
+Peninsula in the wetter conditions of the early Holocene, are suggestive of a bifurcatory 
+movement of early farmers and pastoralists, with sheep, goats, wheat, and barley, 
+into Africa by two routes:
+
+1. Southern Levant into Egypt, leading eventually to further movement of early 
+Berber languages and goat herding into the northern Sahara.
+
+2. A separate movement, mainly pastoralist with sheep and goat herding rather 
+than agriculture, through western Arabia and across to East Africa, leading to 
+Cushitic, Chadic, and presumably Omotic.
+
+Taking linguistic and archaeological evidence into consideration, it is also possible 
+that the movement through Arabia occurred first, perhaps a millennium or more 
+before that into Egypt. Linguistically, this would explain why Cushitic, Omotic, and 
+Chadic are believed by many linguists to be deeper in a phylogenetic sense than the 
+other families (unless there has been a great deal of contact-induced change, as in the 
+case of the western Melanesian languages within Austronesian). It would also explain 
+why the Egyptian Neolithic as known at present started after the PPNB, during the 
+Pottery Neolithic.
+
+This view of a Levant origin takes into account details of the archaeological record, 
+of proto-vocabulary reconstruction, and of existing evidence for population movement during the early Holocene. The opposing view of an African origin is based on 
+linguistic subgrouping data and has no archaeology in support, unless one guess-links 
+AA dispersal to the warmer and wetter climate of the Sahara in the early Holocene. 
+But this, of course, cannot explain Semitic, which reveals no direct traces at all of an 
+African origin, and it also runs up against the view, widely held, that the early NiloSaharan languages would be better candidates for a linkage with the early Holocene 
+Saharan cattle herders. A Levant origin for AA fits the general picture better, as it is 
+currently understood, than does an African origin. The testing of this hypothesis lies 
+in the future - for instance in the archaeology of Ethiopia and the linguistics of the 
+little-known Omotic subgroup.
+
+First Farmers: The Origins of Agricultural Societies by Peter Bellwood
+    
+    
+    
+    
+    
+  
+
+  
+
+Elamite and Dravidian, and the Inds-Aryans
+
+South Asia contains languages that belong to four quite separate families - IndoEuropean (Indo-Aryan subgroup, in turn a subgroup of Indo-Iranian), Dravidian, 
+Munda (part of the larger Austroasiatic family of Southeast Asia), and Tibeto-Burman 
+(Figures 10.1, 10.4, 10.7, 10.8A). Today, Indo-Aryan (IA) languages are dominant in 
+the north, and it is often assumed that they have achieved this dominance at the 
+expense of the other language families. As I will explain below, this may not be quite 
+so transparent as it might appear. That IA languages have replaced others in northern 
+India and Pakistan is clear, but that these others were necessarily all Dravidian or 
+Munda is not so clear at all.
+
+One of the historical documents that is often brought forward as a witness for IA 
+invasion from the northwest is the compilation of hymns and supplicatory chants 
+known as the Rigveda, an oral creation of the middle or late second millennium BC, 
+committed to writing in the late first millennium BC. Parts of the Rigveda describe 
+battles and attacks on cities in the region of Punjab, and many earlier authorities 
+regarded this compilation as a record of the conquest, by incoming Indo-Aryanspeaking pastoralists, of a Dravidian-speaking Harappan civilization already in decline. 
+The discovery of apparent massacres at Mohenjo-Daro once appeared to support the 
+idea, but current radiocarbon dates indicate that the Mature Indus Phase had ended 
+by 1900 se, long before the events described in the Rigveda took place. Instead, 
+modem scholars regard the Rigveda as recording events in a Punjab that was already 
+Indo-Aryan and had long been so (Erdosy 1989, 1995; Witzel 1995). We can no 
+longer blame the followers of Indra for the Mature Harappan decline.
+
+In order to put South Asia in a "Post-Rigveda" linguistic perspective we need first 
+to review what modern linguists state about language history, in the first instance of 
+Dravidian. In 1974, linguist David McAlpin (1974, 1981) proposed the existence of a 
+language macrofamily that he termed "Elamo-Dravidian," based on a comparison 
+between the Dravidian languages of South Asia and Elamite texts found in the 
+Achaemenid palaces at Persepolis in southwestern Iran (late sixth to fifth centuries 
+sc) (see also Blazek 1999). The ancient Elamite language was used from the late 
+third millennium BC into Achaemenid times, and its early history is best documented 
+from cuneiform documents found in the huge city mound of Susa in Khusistan 
+(Potts 1999). Even older pictographic and numerical texts, dating from about 2800 BC 
+and known as "Proto-Elamite," have been found in several sites from Susa across the 
+Iranian Plateau to Shahr-i-Sokhta in eastern Iran, but these tablets remain undeciphered 
+and no definite link with the true Elamite language of a millennium later can yet be 
+demonstrated. Elamite civilization was urban, closely related to that of the Sumerians 
+and Akkadians, and occupied large areas of Iran prior to the dominance of the IndoEuropean Medes and Persians in the first millennium sc.
+
+The Dravidian languages themselves, except for the outlier of Brahui in the Indus 
+valley, are today confined to central and southern India (Figure 10.1). Internal reconstruction of proto-vocabularies and subgrouping structure has proceeded quite far in 
+terms of the Indian members of the family, such that we can guess at a northerly 
+South Asian homeland in a general sense. But McAlpin's Elamo-Dravidian lies too far 
+back in time to be amenable to linguistic proof, even though many Dravidianists, 
+including Kamil Zvelebil (1985), have commented on it favorably. The issue is also 
+confused by the massive overlay of IA languages in the northwest, erasing the linguistic footprints of deeper time levels. Brahui could be a remnant of a once more 
+widespread layer of Dravidian that existed in the Indus Valley, but in reality it seems 
+to be a very poorly recorded language, of uncertain historical significance (Coningham 
+2002:86 quotes Elfenbein's view that it could even represent a Medieval migration 
+from the south).
+
+At present, most linguists seem to agree that the Dravidian languages of southern 
+and central India (with Brahui remaining uncertain) shared a common ancestor around 2500 Bc, with a reconstructed agricultural vocabulary that contained terms at least 
+for cattle, date, and plough (Southworth 1975, 1990, 1992, 1995; Gardner 1980). 
+Dorian Fuller (2003) suggests that terms for some native South Indian crops such as 
+mung bean and horsegram reconstruct back to very early stages within Dravidian, 
+and he also regards the whole family as being of southern Indian pre-agricultural 
+origin. If he is correct, then McAlpin's claims for links with Elamite become less 
+credible. Unfortunately, the linguistic data do not seem to be firm enough to clinch 
+the matter. If McAlpin is correct, and if the Dravidian glottochronological estimates 
+are worth anything (they fit well with the dated archaeological record for the spread 
+of agriculture in South India), then any genetic linkages between Elamite and Dravidian 
+must have predated 2500 Bc by a long period.
+
+Before moving further into the Elamo-Dravidian conundrum, it is necessary to 
+return to the Indo-Aryan languages. The separation of the Indo-Iranian languages 
+from the remainder of Indo-European was a relatively late process in the totality of 
+IE history, according to majority linguistic opinion. Many scholars place the IndoIranian homeland in the steppe lands to the north of the Black Sea, running eastward 
+toward the Caspian, favoring a movement toward Iran and India at about 2000 Bc 
+or soon afterward (Anthony 1991; Parpola 1988, 1999; Mallory 1989; Masica 1991; 
+Kuzmina 2001). The Indo-Iranian languages belong to the satem group, so in this 
+regard their closest subgroup relatives are Armenian, Slavic, Albanian, and Baltic. The 
+Bronze Age Andronovo steppe culture with its emphasis on herding was distributed 
+from north of the Caspian toward the Hindu Kush during the second millennium Be, 
+and this is believed by many to be the most likely source for the migrating IndoAryans, who split into their Iranian and Indic branches as they moved through what 
+are now Turkmenistan and Uzbekistan. From this viewpoint, the IA arrival in the 
+Indus region occurred at about the time of Mature Harappan decline, or later. Needless to say, this reconstruction depends in part upon a view of the early Indo-Aryans 
+as essentially a pastoralist people, a view that has no clear archaeological justification 
+within the South Asian subcontinent itself, or within the Rigveda, or within the 
+family tree of the Indo-European languages.'
+
+Against this mainstream reconstruction we have a number of statements of disagreement. Colin Renfrew (1987:208) tentatively raised the possibility that the IndoIranian languages could have originated from the Mehrgarh Neolithic, representing a 
+spread from the Indo-European homeland in Anatolia. However, the linguistic position within IE of the Indo-Aryan languages would seem not to support an antiquity 
+as far back as 6000 BC, even allowing for a fair degree of linguistic diversity in the 
+form of the Nuristani (Kafiri or Dardic) languages of the Hindu Kush region of 
+Afghanistan. Another argument against an equation of the early Indo-Iranians with 
+the Andronovo culture, or with its contemporary in the Amu Darya and Syr Darya 
+basins (the mellifluously tagged Bactrian Margiana Archaeological Complex), has 
+recently been put forward by C. C. Lamberg-Karlovsky (2002). This is that one 
+cannot equate archaeological cultures with languages at all. Such a statement represents a great challenge.
+
+First Farmers: The Origins of Agricultural Societies by Peter Bellwood
+    
+    
+    
+    
+    
+  
+
+  
+
+A multidisciplinary scenario for South Asian prehistory
+
+I would first like to point to an important observation that I do not believe has been 
+made before. The distribution of the Indo-Aryan languages, even today (but excluding Sri Lanka), corresponds remarkably with that of the Chalcolithic cultures of the 
+northwestern Deccan and the Ganges-Yamuna Basin. These are all characterized by 
+a use of copper and painted pottery, usually in black on a red background, and 
+include the Ahar, Malwa, and Jorwe cultures of Rajasthan and Maharashtra, and the 
+Ochre Coloured Pottery and Black and Red Ware cultures of the Ganges Basin. They 
+also, of course, include the Mature and post-Harappan. In the Ganges Basin, as 
+discussed in chapter 4, a strong argument can be made for cultural continuity in 
+archaeological terms from perhaps 3000 Bc into historical (Buddhist and Hindu) times 
+(Liversage 1992). Because of this, a hypothesis of Indo-Aryan continuity through the 
+same time-span should be taken seriously.
+
+The Dravidian languages as spoken today cover the region of the Southern 
+Neolithic, with its villages of circular houses and cattle pastoralism, and domestication of a number of south Indian cereals and legumes. These southern sites have a 
+distinct character, despite some obvious signs of connection with the northwestern 
+Deccan. Again, continuity in southern India seems likely from Neolithic through to 
+Early Historical times, with the marked exception of the Early Historical spread of an 
+Indo-Aryan language in the form of Sinhalese to Sri Lanka.
+
+Taking into account the above details, and bearing in mind the many points of 
+view currently in circulation, I would offer the following scenario for South Asia as a 
+whole (Figure 10.4).
+
+1. During the Neolithic of Iran and Baluchistan, from 7000 BC onward into Early 
+Harappan times, an Elamo-Dravidian linguistic continuum (following McAlpin) 
+was spread from Khusistan to the Indus and perhaps beyond. Early Indo-Iranian 
+speakers moved into Iran from the steppe lands to the north during Neolithic 
+times, exactly when being uncertain.
+
+2. The Harappan civilization itself, like that of Mesopotamia, was surely polyglot. 
+My hunch here is that the language of the pictographic Harappan script was 
+a relative of Elamite, rather than a close relative of the Dravidian languages 
+currently spoken in southern India. The common people of the civilization would 
+have spoken both ancestral Indo-Aryan and Elamo-Dravidian languages, just as 
+their Mesopotamian contemporaries spoke Sumerian, Akkadian, Elamite, and 
+even Eblaite if one traveled up the Euphrates far enough. But since we cannot 
+decipher the Indus script we will never know the finer details.
+
+3. During the time span of the Early Harappan, starting perhaps 3500 Bc, farming 
+settlements spread into Gujarat and Rajasthan. By 3000 BC they were spreading 
+into the Ganges Basin. Even earlier, perhaps as early as 5000 BC, hunter-gatherers 
+in camps such as Bagor in Rajasthan were acquiring cattle and caprovines from 
+Indus-region farming villages, and commencing a pastoralist/herding specialization 
+(Lukacs 2002). Following the distributional argument adumbrated above, did the village settlements mainly house Indo-Aryan-speaking agricultural populations, 
+and were the herders of cattle and caprovines Dravidian speakers of native South 
+Asian origin, both populations existing in a mutualistic relationship on the borderlands of the burgeoning Indus city-scape?
+
+4. A number of sites in the northwestern region of India are noted as having unusual basal features, for instance the circular houses at Navdatoli and Balathal, 
+and even perhaps the cow dung fill of the stone-walled enclosure (ca. 2800 Bc) at 
+the latter site. Could these represent an early Dravidian presence? We will never 
+know, but my suspicion is that a linked farming and herding population, with 
+both Indo-Aryan and Dravidian components, continued to move southward 
+through Maharashtra toward Karnataka after 3000 BC. Specializations continued 
+toward village farming on the one hand, and cattle herding on the other, but 
+with much overlap between the two economic modes. If the village farmers 
+were indeed Indo-Aryans, they seemingly limited themselves to Maharashtra and northward, where their Southwest Asian winter cereals would still grow 
+well, albeit with irrigation when necessary. In this scenario, the pastoralist 
+Dravidians pushed onward into the Deccan, Karnataka, and southern India, there 
+to develop their own style of millet agriculture and cattle corralling.
+
+Figure 10.4 Suggested language family movements in South Asia.
+
+5. It is likely that no Dravidians moved into the Ganges Valley, and that the 
+Chalcolithic farmers of the OCP phase, presumably Indo-Aryans, were the first 
+agriculturalists here (at least until they met the ancestral Mundas, but more on 
+these later).
+
+This reconstruction has the Indo-Aryans and Dravidians together undertaking the 
+agricultural and pastoralist colonization of a formerly hunter-gatherer India, with the 
+latter adopting a more mobile herding lifestyle and continuing southward into 
+Karnataka and the southern Deccan, but not the Ganges plains. Modem Hindi, spoken 
+widely on the latter, has derived about 30 percent of its agricultural terms from 
+linguistic sources that were neither IA, nor Dravidian, nor Munda (Masica 1979). 
+Walter Fairservis and Franklin Southworth (1989) refer to this source as "language 
+X." The Gangetic location of Hindi thus counter-indicates a Dravidian substratum in 
+this region. Did "language X" belong to some pre-IA farming population of the 
+Ganges Basin? I find this hard to accept in the absence of any clear linguistic survivals, 
+but further speculation seems unwarranted.
+
+The IA languages Gujerati and Marathi of northwestern India do carry a number 
+of Dravidian loans, so a former presence of Dravidian speech here is not in question. 
+Were the early Dravidians confined mainly to the southern part of the Indus realm, 
+extending into Gujarat, Maharashtra, and perhaps Rajasthan? Were the early IndoAryans initially confined to the northern part of the Indus realm, later moving south 
+(and east) to mingle with and eventually replace Dravidian languages in Gujarat and 
+Masharashtra, but not Karnataka or southern India (Figure 10.4)? The basal structures at Navdatoli and Balathal offer some faint support for this view.
+
+There remains one other group that interacted eventually with both IAs and 
+Dravidians in the northeastern peninsular regions of India. These are the Mundas, an 
+Austroasiatic-speaking population whose ultimate linguistic origin was in Mainland 
+Southeast Asia (Figure 10.7). Reconstructions of Proto-Munda indicate cognates for 
+rice, millets, and legumes, so there is little doubt that this population introduced rice 
+cultivation into northeastern India, perhaps at about 3000 BC (Zide and Zide 1976; 
+Southworth 1988; Higham 2003). Interestingly, according to the linguistic analyses of 
+F. B. J. Kuiper (1948), Dravidian and Munda languages were in contact prior to any 
+IA presence in eastern India, presumably somewhere in the current overlap zone 
+between these two families in Andhra Pradesh, Orissa, and southern Bihar. This 
+suggests that the Dravidian settlement of the Deccan was a fairly rapid affair after it 
+got under way at about 3000 BC. However, it is not clear how far Munda languages 
+originally spread up the Ganges river system, and Franklin Southworth (1988) has 
+suggested that their greatest extent was never very much larger than now, perhaps 
+due to competition from IA and Dravidian. This suggests that the three language 
+families concerned all spread into the subcontinent at roughly the same time - a considerable historical coincidence, the results of which are still visible in the Indian 
+ethnolinguistic landscape today.
+
+First Farmers: The Origins of Agricultural Societies by Peter Bellwood
+    
+    
+    
+    
+    
+  
+
+  
+
+Indo-European, Afroasiatic, Elamo-Dravidian, and the 
+
+Issue of Nostratic
+
+We have already raised the question of whether or not language families can be 
+subgrouped into macrofamilies. Some linguists reject the idea without question, 
+on the grounds of imperfections in methodology and the possibility that observed 
+similarities can be due to chance (Dixon 1997). 1 do not wish to become embroiled in 
+a debate about research methodology amongst linguists, but for a decade or more 
+I have been intrigued, as has Colin Renfrew (1991), by the possibility that some 
+macrofamily hypotheses could be reflecting important developments in archaeological prehistory, especially in terms of the linked origins and radial dispersals of 
+agricultural peoples out of homeland regions.'
+
+One of the most significant language macrofamilies, promoted especially by 
+Russian comparative linguists since the 1960s, is Nostratic. In its basic form, Nostratic 
+is stated to include Indo-European, Afroasiatic, Kartvelian of the southern Caucasus, 
+Uralic, Altaic, and Dravidian, all of which are claimed to share either some degree 
+of common origin, or at least to have shared early histories with a fair degree of 
+inter-family contact.' More recently, Joseph Greenberg (2000) has put forward 
+a competing hypothesis, involving a Eurasiatic macrofamily that includes IndoEuropean, Uralic, Yukaghir of Siberia, Altaic (including Korean and Japanese), Ainu 
+of Hokkaido, Gilyak, Chukotian, and Eskimo-Aleut.
+
+With lists of language families as long as these, it is perhaps not surprising that 
+some linguists express exasperation. Archaeologists also find them a little hard to 
+handle. Obviously, in the case of Greenberg's Eurasiatic, all these diverse populations 
+cannot be connected with any agricultural radiation and the concept, if real, presumably reflects the initial colonizations of northern latitudes by modern humans, who 
+after all did not reach the Americas until after 15,000 years ago. The survival of some 
+degree of archaic linguistic residue is perhaps not surprising.
+
+But Nostratic could be a different matter, since many of its constituent language 
+families were potentially very deeply involved in agricultural radiations out of the 
+Middle East into Europe, North Africa, and Asia. This is so for Indo-European, 
+Afroasiatic, and Elamo-Dravidian. Kartvelian, as a stay-at-home family in the mountainous and remote Caucasus, also fits this model geographically, although the 
+Caucasus does have two other language families that are not part of the Nostratic 
+grouping. One of the latter (Nakh-Dagestanian) apparently had an agriculturalist 
+proto-language with a glotto-chronological age of about 6,000 years according to 
+Johanna Nichols (in Wuethrich 2000), but little appears to be known about the history 
+of Kartvelian in this regard.
+
+The other two members of the Nostratic macrofamily, Uralic and Altaic, pose 
+different problems. The Uralic language family includes the Finnish and Hungarian, both of course languages of farming peoples today. But the basic consensus appears 
+to be that Uralic derived originally from a hunter-gatherer spread across postglacial 
+northern Europe and Asia. Kalevi Wiik (2000) has recently published a reconstruction of Uralic linguistic history which has many of the speakers descending from 
+the original hunter-gatherer populations of postglacial northern Europe, later to be 
+influenced by incoming Indo-European-speaking agriculturalists. Other linguists note 
+that Proto-Uralic reveals close connections with Indo-European languages, especially 
+Iranian, but there is no consensus as to whether these links reflect shared ancestry or 
+more recent borrowing during the period of Iranian linguistic domination of the 
+steppes, prior to the spread of Turkic languages after about 500 BC. I cannot claim 
+to know the answers for Uralic, but it is clear that the language family cannot be 
+regarded as connected with any agricultural population radiation out of Southwest 
+Asia.
+
+Altaic poses a different problem, this being that the most likely homelands for its 
+chief subgroups (Turkic, Mongolian, and Tungusic) are agreed by almost all linguists 
+to be in Mongolia and Manchuria, far to the east of any close connection with the 
+other members of Nostratic. We return to Altaic matters later, allowing that a southwestern origin for the family close to Southwest Asia is most unlikely.
+
+We are thus left with the three language families with which we began - IndoEuropean, Afroasiatic, and Elamo-Dravidian - as representing agriculturalist dispersal 
+out of Southwestern Asia. One might argue that, unless one accepts the Nostratic 
+idea in its entirely, one should not adopt it at all, and such a conclusion would 
+doubtless please a number of linguists. I am not sure what I would reply to such a 
+doubtful linguist in this regard, but to an archaeologist I would state that the reconstructed history of agriculturalist dispersal from Southwest Asia makes an associated 
+and radial dispersal model for these three language families very appealing. ProtoNostratic need not be such a wild idea after all.
+
+Indeed, some linguists have tried to identify the cultural vocabulary, location, and 
+possible date for Proto-Nostratic. Alan Bomhard (1996) locates a homeland loosely 
+south of the Caucasus at the end of the Pleistocene. Aharon Dolgopolsky (1998) 
+suggests that Proto-Nostratic had no clear agricultural reconstructions, but did have 
+terms for barley, bovids, sheep, and goat, again favoring a pre-agricultural homeland 
+within Southwest Asia (although Dolgopolsky does not attempt to locate one). Perhaps 
+the Natufian and its contemporaries occupied a position quite centrally within the 
+Nostratic equation, although it is clear that precise cultural affiliations for ProtoNostratic will always remain elusive.
+
+First Farmers: The Origins of Agricultural Societies by Peter Bellwood
+    
+    
+    
+    
+    
+  
+
+  
+
+Saharan and Sub-Saharan Africa: Nilo-Saharan and Niger-Congo
+
+Nilo-Saharan
+
+We now move south toward sub-Saharan Africa to examine, in the case of the 
+Nilo-Saharan family, one of the likely predecessors to the remarkable domination of Northern Africa by Afroasiatic and especially Semitic languages in the past few 
+millennia. The Nilo-Saharan language family is very diverse, so much so that some 
+linguists refuse to accord it true family status. It has a rather spotty and stretched-out 
+distribution that seems to show clear evidence of overlay by the recent spreads of 
+Semitic and Niger-Congo languages (Figure 10.3).
+
+In a paper written over two decades ago, Nicholas David (1982) equated the spread 
+of the Sudanic branches of Nilo-Saharan with the development of sorghum cultivation 
+and cattle and goat herding. Modern archaeology would deny a truly domesticated 
+status to sorghum at such an early date, but cultivation of wild forms is not at all 
+unlikely. The most detailed scheme for Nilo-Saharan unfolding has since been developed by Christopher Ehret (1993, 1997, 2000, 2003). This favors an ultimate origin for 
+Proto-Nilo-Saharan during the terminal Pleistocene along the Middle Nile, amongst 
+hunter-gatherer populations who possibly began their first phase of expansion with the 
+improving postglacial climate. According to Ehret, the Northern Sudanic branch of 
+Nilo-Saharan then acquired cattle herding by about 9000 BC, together with potterymaking. Plant cultivation and sheep/goat herding appeared slightly later, by about 
+7000 BC, when cultivation was first adopted by the Central Sudanic populations. After 
+5000 ac this Saharan agropastoral complex, associated by this time with both 
+Nilo-Saharan and Cushitic (Afroasiatic) populations, began to spread south with 
+increasing Saharan desiccation, eventually to reach Lake Turkana in Kenya by about 
+3000 BC. Further expansion within East Africa by Nilotic speakers within the NiloSaharan family, fueled in Ehret's view by a successful warlike ideology, has continued into recent centuries (Ehret 2003:171).
+
+Ehret's chronologies correlate with the archaeological record (see chapter 5) for 
+early Holocene cattle management and pottery-making in the Sahara, even if there 
+are no archaeological indications that any of the early Holocene sorghums or millets 
+were actually domesticated. The most interesting question concerns the ancient extent 
+of Nilo-Saharan, prior to the incursions of Afroasiatic and Niger-Congo languages. 
+Did Nilo-Saharan languages once cover the whole Sahara? Or just the eastern portions 
+where they are found today? And if the latter, what languages were once spoken in 
+the western Sahara? Niger-Congo? We do not have answers to these questions. But it 
+is important to reflect on the suggestion that Nilo-Saharan, or at least its Sudanic 
+subgroup, could in the first instance have been another, albeit very shadowy, example 
+of a farming (or herding)/language dispersal.
+
+First Farmers: The Origins of Agricultural Societies by Peter Bellwood
+    
+    
+    
+    
+    
+  
+
+  
+
+Niger-Congo, with Bantu
+
+The Niger-Congo language family is largest in the world in terms of number of 
+languages - 1,436 according to one source, with possibly 300 million speakers 
+(Williamson and Blench 2000). The whole family, and especially its Bantu subgroup, 
+covers a vast area of sub-Saharan Africa with almost no survivals of substratum 
+languages and isolates, except for the Khoisan languages in the far southwest of the 
+continent, and the Hadza, Sandawe, and South Cushitic languages in Tanzania. The Bantu languages in particular can be clearly subgrouped owing to the recency and 
+phenomenal extent of their spread.
+
+The area of greatest subgroup diversity of the Niger-Congo languages is in West 
+Africa (Figure 10.5), and this is clearly where the whole family first developed. In 
+this section we will be mainly concerned with the Bantu subgroup owing to the 
+enormous extent of its spread - the remaining subgroups to the west are greater in 
+time depth. Roger Blench (1993, 1999) suggests that the original Proto-Niger-Congo 
+vocabulary was probably pre-agricultural, thus the initial existence of the family might have been somewhere amongst a sprachbunde of early Holocene hunting and 
+gathering populations spread quite widely throughout West Africa. In terms of rough 
+estimates from glottochronology, this phase should predate 5000 BC, long before any 
+signs of agriculture appear in the archaeological record. Niger-Congo at base, therefore, is not an agriculturalist language family, even though its enormous expansion 
+east of the Niger River was without doubt agriculturally driven.
+
+Figure 10.5 The major subgroups of the Niger-Congo family. Courtesy Roger Blench.
+
+The major spreads of the agriculturalist Niger-Congo subgroups, according to the 
+majority of linguists, have occurred within the past 5,000 years. The most significant 
+involved the Bantu-related subgroups. Proto-Benue-Congo, for instance, has a reconstructed agricultural vocabulary. The slightly younger Proto-Bantu, with a timedepth close to 3,000-4,000 years in terms of the archaeological record, had terms for 
+oil palm, yams, beans, groundnuts, dog, goat, pottery, and pigs (or perhaps wild 
+warthogs according to Vansina 1990). At this stage there were no iron tools, cattle, 
+cereals, or Southeast Asian crops such as bananas and taro in the Bantu homeland 
+region. But it is clear that the eventual Bantu expansion was later to be assisted 
+greatly by these highly significant technological and economic introductions, all of 
+which became available in eastern Africa just before the most rapid phase of Eastern 
+Bantu expansion during the first millennium AD.
+
+The Bantu speakers originated in Cameroon, perhaps initially in grassland areas 
+north of the rain forest (see page 107 for pertinent archaeological data). There appears to have been an early separation- into Western and Eastern subgroups, prior to 
+1000 Bc, and this is visible in Clare Holden's (2002) family tree for the Bantoid and 
+Bantu languages shown in Figure 10.6. The Eastern Bantu groups began to spread 
+eastward along the northern fringes of the rainforest, to reach Lake Victoria by about 
+1000 BC. The Western Bantu, with pottery, oil palms, and yams, were perhaps moving southward into the West African rain forest at about the same time, eventually 
+emerging into the savannas of Angola. The arrival of Asian bananas during the first 
+millennium BC probably stimulated this movement, such that the rain-forest region 
+was quite densely settled by Western Bantu farmers by AD 500-1000. Jan Vansina 
+(1990:257) offers a mechanism for the Western Bantu spread close to my own model 
+of "founder rank enhancement" for Austronesians (Bellwood 1996d), suggesting that 
+"emigration became preferable to a continued life as a perpetual junior in an overcrowded homeland."
+
+Christopher Ehret (1997, 1998, 2000) has recently offered a very detailed linguistically based appraisal of Eastern Bantu dispersal. The Eastern Bantu who entered the 
+Great Rift Valley of East Africa about 3,000 years ago came into contact with cattle 
+herders and millet cultivators speaking Cushitic and Nilo-Saharan languages, and also 
+with Khoisan-speaking hunters and gatherers whose Hadza and Sandawe descendants 
+still occupy small areas southeast of Lake Victoria. From the former groups they 
+adopted sorghum and pearl millet to add to their predominantly tuberous domesticated plant roster. They also acquired iron metallurgy, and a little later, by the 
+beginning of the first millennium AD, they added cattle, sheep, and donkeys, together 
+with Southeast Asian crops and domesticated Asian chickens. The result was to be 
+one of the most rapid episodes of farming spread in world history.
+
+Questions arise as to how many separate directional "streams" of population movement occurred within the Bantu dispersal as a whole, and this issue was raised from 
+the archaeological perspective in chapter 5. Of the linguists, Christopher Ehret favors 
+two separate dialect continua spreading side by side in the southern expansion of 
+Eastern Bantu, down the Great Rift Valley and through East Africa. He calls these 
+the Kaskazi and Kusi dialect continua, and plots their spreads southward toward the 
+Zambesi between 700 and 200 BC. Eventually, speakers of these dialects and their 
+descendants traveled over 3,000 kilometers in under a millennium, from Kenya into 
+Mozambique. Jan Vansina (1995) appears to favor a more complex pattern of spread, 
+more like a continuously expanding backward-and-forward mesh of related communities, rather than a stream-like process.
+
+This debate may reflect little more than differences of scale. Vansina's reconstruction is acceptable on the local village scale, since over a decade or so any distances 
+moved might not have been very great. But an early computer demographic simulation by Collett (1982), based on the huge distances of spread and the relatively short 
+time depths available, suggested that quite large groups might on occasion have moved 
+or leapfrogged over large distances. Clare Holden's (2002) maximum parsimony (tree 
+building) computational study, using 95 basic vocabulary items from 75 Bantoid and 
+Bantu languages, indicates that the Eastern Bantu languages have a unique common 
+ancestor (Western Bantu ones apparently do not), and that this common ancestor 
+spread consistently through adjacent geographical regions with little borrowing 
+between languages once they were in place. In other words, the Eastern Bantu family 
+tree represents differentiation in situ since initial settlement, with little subsequent 
+interference through areal processes.
+
+Overall, the Bantu dispersal was one of the most dramatic examples of language/ 
+farming dispersal in world history, and there is quite remarkable agreement between 
+the archaeological and linguistic records on its reality.
+
+First Farmers: The Origins of Agricultural Societies by Peter Bellwood
+    
+    
+    
+    
+    
+  
+
+  
+
+East and Southeast Asia, and the Pacific
+
+The Chinese and Mainland Southeast Asian language families
+
+The earliest Neolithic cultures of the Yellow and Yangzi basins enshrine the ancestry 
+of not just the Sinitic peoples. Neolithic China contains the common roots of many 
+other populations in East and Southeast Asia, plus Oceania. Thus, while the Yangshao 
+culture could conceivably be ancestral to the Han Chinese, so likewise the contemporary Neolithic cultures of Fujian and Taiwan could be ancestral to the Austronesians, 
+and those of southern China to the Austroasiatic- and Tai-speaking peoples. However, these oldest Neolithic cultures long predate the precipitation of any sharply 
+defined modem ethnolinguistic identities. This is sometimes a very hard concept to 
+get across to modern lecture audiences, who react with puzzlement when told that 
+many Southeast Asian cultures appear to have ultimate origins in southern China at 
+about 7,000 years ago. People find it hard to think of "China" as ever having been anything other than just like modem China - full of people speaking Chinese languages, looking like Chinese, and presumably identifying in some way as "Han."
+
+This concept of an unchanging ethnic landscape is utterly wrong. A voluminous 
+historical record tells us that Han Chinese populations have spread within the past 
+2,500 years, following the Eastern Zhou and Qin military conquests, over much of 
+what is now China south of the Yangzi. This type of situation, whereby the languages of dominant populations have erased earlier linguistic landscapes, even within 
+the same family, is of course very common across the world and can render the true 
+course of ethnolinguistic history sometimes hard to discern (Diamond and Bellwood 
+2003). The replacement of the Anatolian languages by first Greek and later Turkish 
+creates similar problems for reconstructing the Indo-European homeland, just as the 
+replacement of many indigenous languages by English and Spanish creates similar 
+problems in the Western Hemisphere.
+
+Within China and Southeast Asia there are three language families which appear 
+to represent primary dispersals of agricultural populations through landscapes that 
+were mostly occupied previously by hunting and gathering groups. These are the 
+Sino-Tibetan, Austroasiatic, and Austronesian families. In addition, Japanese evidently 
+spread to Japan around 300 BC with Yayoi rice farmers from Korea, replacing the 
+languages of Jomon "hunter-gatherers" (Hudson 1999, 2003). A similar case for 
+Neolithic spread could perhaps be made for the remote antecedents of Korean itself, 
+and we return to Japanese and Korean later in connection with the "Altaic" language 
+family. The present-day distributions of Austroasiatic and Sino-Tibetan are shown in 
+Figures 10.7 and 10.8 (for Austronesian see Figure 7.4).
+
+The Austroasiatic language family, the most widespread and also the most geographically fragmented language family in Mainland Southeast Asia and eastern 
+India, includes approximately 150 languages in two major subgroups; Mon-Khmer of 
+Southeast Asia, and Munda of northeastern India. The Mon-Khmer subgroup is the 
+largest and contains Mon, Khmer, and Vietnamese, as well as Khasi in Assam, the 
+Aslian languages of Peninsular Malaysia, and Nicobarese (Parkin 1991). We have 
+already met the Munda languages of Bihar, Orissa, and West Bengal in the discussion 
+of South Asia. The very disjointed distribution of the Austroasiastic family today 
+suggests that it represents the oldest major language dispersal recognizable in Southeast Asia, one overlain by many expansive languages of later civilizations such as 
+Burmese and Karen (both Tibeto-Burman), Thai, Malay, Khmer, and Vietnamese 
+(the last two being Austroasiatic).
+
+One observation of great interest is that the reconstructed vocabulary of ProtoAustroasiatic contained terms for rice cultivation (Pejros and Schnirelman 1998; 
+Mahdi 1998; Higham 2003). The possibility that Austroasiatic languages were 
+once spoken very widely in southern China, with place-name traces even as far 
+north as the Yangzi River, is also worthy of note (Norman and Mei 1976). The 
+homeland of Austroasiatic is not clear owing to massive overlying expansion of other 
+language families, but most linguists suggest southern China or northern mainland 
+Southeast Asia. Pejros and Schnirelman (1998) suggest a homeland near the middle 
+Yangzi.
+
+Figure 10.8 A) The distributions of the major subgroups of the Sino-Tibetan language 
+family, after Ruhlen 1987. B) Suggested homelands for the major language families of China 
+and Southeast Asia.
+
+We turn now to the great modern population juggernaut represented by SinoTibetan (Figure 10.8). In recent years, linguists have given some remarkably divergent 
+opinions on the homeland for this family. Ilya Peiros (1998) suggests northern South 
+Asia, George van Driem (1999, 2003) favors Sichuan, James Matisoff (1991, 2000) points 
+to the Himalayan Plateau. Juha Janhunen (1996:222) presents in my view the most 
+likely homeland hypothesis by associating the early Sino-Tibetan languages with the 
+Yellow River Neolithic (Yangshao culture), but this is partly based on archaeological 
+reasoning. Jerry Norman (1988:17) merely states that the homeland is unknown, but 
+notes that, on the way to the Yellow River, the early Sino-Tibetan languages borrowed 
+from early Hmong-Mien and early Austroasiatic languages, thus implying a slightly 
+southerly origin. This is quite likely, given that Proto-Sino-Tibetan also has strong 
+reconstructions for rice cultivation (Pejros and Schnirelman 1998; Sagart 2003).
+
+Clearly, the range of views here is extremely varied. Sino-Tibetan subgrouping is 
+rake-like rather than tree-like in structure, a possible indicator of a fast and widespread early radiation, similar to that reconstructed for the Malayo-Polynesian languages within Austronesian. As already noted, such fast radiations do not lend 
+themselves to homeland identification, and van Driem (2003) uses the metaphor of 
+"fallen leaves" to describe the Sino-Tibetan subgrouping situation. Given this, and 
+the erasure of much early patterning caused by Sinitic expansion, my own preference 
+would be to move straight into the reasoning behind the farming/ language dispersal 
+hypothesis. This would place the homeland of Sino-Tibetan in the agricultural heartland area of central China, as preferred by Janhunen, and to a lesser extent by van 
+Driem (Sichuan is a little west of the core region of Neolithic development, but it 
+does border on the middle Yangzi). Such reasoning might be deemed unacceptably 
+dependent upon the archaeology, but central China has unbroken and impressive 
+cultural continuity from Neolithic into Chinese historical times. No other region 
+within the Sino-Tibetan distribution can compete in this regard.
+
+Of the other Mainland Southeast Asian language families, Hmong-Mien is most 
+likely to have originated closest to the central Yangzi early rice zone, although the 
+actual dispersal of this group as hill tribes into Southeast Asia has been relatively recent 
+and due in part to pressure from the Chinese state. Peiros (1998:160) suggests that a 
+combined Austroasiatic/Hmong-Mien grouping could have a glottochronological age 
+of about 8,000 years, but whether Austroasiatic and Hmong-Mien languages are 
+indeed related genetically is a matter for linguists to decide - the prospect is at least 
+interesting since such genetic relationship would automatically imply propinquity of 
+homeland. The Hmong-Mien family may also have provided a substratum for the 
+Sinitic language of the kingdom of Chu in the middle Yangzi basin, during the later 
+first millennium Bc (Ballard 1985).
+
+The Tai languages are, as a group, not of great antiquity, with a diversification 
+history dating within the past 4,000 years according to Peiros (1998; see also Ostapirat 
+in press). Their homeland probably lay in the southern Chinese provinces of Guizhou, 
+Guangxi, and Guangdong, the latter occupied today by Sinitic languages. The ultimate 
+spread of the Tai family into Thailand and Laos probably reflected Chinese demographic and military pressure, and has occurred mainly within the past 1,000 years. According to Laurent Sagart (in press), the initial break-up of the Tai languages 
+occurred during a period of contact with Malayo-Polynesian languages within the 
+Austronesian family. This is an interesting observation, and one which probably 
+places the initial genesis of Tai within Neolithic times in coastal southern China and 
+Northern Vietnam.
+
+As far as these four language families are concerned, we can perhaps hypothesize 
+on linguistic grounds that, around 6000 BC, ancestral Hmong-Mien languages were 
+located to the immediate south of the middle Yangzi, with early Austroasiatic languages further to the southwest and early Tai languages to the southeast (Figure 10.8B). 
+In the first instance, only the Austroasiatic and Sino-Tibetan groups underwent expansion, with Hmong-Mien and Tai presumably remaining relatively circumscribed 
+by these expansions until later.
+
+First Farmers: The Origins of Agricultural Societies by Peter Bellwood
+    
+    
+    
+    
+    
+  
+
+  
+
+Austronesian
+
+The Austronesian family is the most widespread in the world, representing one of 
+the most phenomenal records of colonization and dispersal in the history of mankind 
+(Blurt 1995a; Bellwood 1991, 1997a; Pawley 2003). Austronesian languages are now 
+spoken in Madagascar, Taiwan, parts of southern Vietnam, Malaysia, the Philippines, 
+and all of Indonesia except for the Papuan-speaking regions in and around New 
+Guinea (Figure 7.4). They are also spoken right across the Pacific, to as far east as 
+Easter Island, encompassing about 210 degrees of longitude, or more than halfway 
+around the earth's circumference at the equator. Because of the wealth of comparative research carried out on the Austronesian languages it is possible to draw some 
+very sound conclusions, using purely linguistic evidence, concerning the region of 
+origin of the family, the directions of its subsequent spread, and also the vocabularies 
+of important early proto-languages, particularly Proto-Austronesian and its most 
+significant daughter, Proto-Malayo-Polynesian. The Malayo-Polynesian languages do 
+not include those of Taiwan, but incorporate the vast remaining distribution of the 
+family from Madagascar to Easter Island.
+
+The reconstruction of overall Austronesian linguistic prehistory which is most 
+acceptable today, and which fits best with all independent sources of evidence, is that 
+favored by the linguist Robert Blust (1995a, 1999). Reduced to its essentials, this 
+reconstruction favors a geographical expansion beginning in Taiwan, the location of 
+Proto-Austronesian and of the majority of the primary subgroups of Austronesian (at 
+least nine out of ten, according to Blust). Subsequent Malayo-Polynesian dispersal 
+then encompassed the Philippines, Borneo, and Sulawesi, finally spreading in two 
+branches, one west to Java, Sumatra, and the Malay Peninsula (the Western MalayoPolynesian languages), the other east into Oceania (Figure 10.9 inset).
+
+The Proto-Austronesian vocabulary, sourced to Taiwan, indicates an economy 
+well suited to marginal tropical latitudes with cultivated rice, millet, and sugarcane, 
+domesticated dogs, pigs, and possibly water buffalo, weaving, and the use of canoes 
+(sails are less certain at this stage). The vocabulary of Proto,Malayo-Polynesian, perhaps of northern Philippine genesis, adds a number of tropical economic indicators which are not well attested in the earlier Proto-Austronesian stage, since Taiwan lies 
+partly outside the tropics. These include taro, breadfruit, banana, yam, sago, and 
+coconut, and their presences reflect the shift away from rice toward a greater dependence on tubers and fruits in equatorial latitudes (Zorc 1994; Pawley and Pawley 1994; 
+Dewar 2003).
+
+Figure 10.9 This phylogenetic tree of 77 Austronesian languages is derived from a 
+parsimony analysis by Russell Gray and Fiona Jordan (2000). The tree shows considerable 
+agreement with the linguistic subgroups of Robert Blust (inset) and reflects historical 
+relationships, not just geographical ones (e.g., Malagasy and Ngaju Dayak are subgrouped, 
+in accord with the comparative linguistic evidence for their very close relationship, even 
+through they are located 8,000 kilometers apart). WMP = Western Malayo-Polynesian, 
+SH-WNG = South Halmahera-West New Guinea.
+
+As indicated by Blust (1993) and Pawley (1999, 2003), the early Malayo-Polynesian 
+languages spread very far very quickly, before linguistic differentiation was able to 
+develop. As an example, the oldest Malayo-Polynesian language in western Oceania 
+(Proto-Oceanic, probably located in the Bismarck Archipelago) shared almost 90 
+percent of its basic vocabulary with Proto-Malayo-Polynesian, located perhaps in 
+the northern Philippines almost 5,000 kilometers away. Such rake-like relationships 
+between subgroups are a very strong indicator of a rapid foundation spread, at least 
+from the northern Philippines to the central Pacific. A fairly rapid "express train" 
+model of Austronesian linguistic expansion from Taiwan is also supported by a maximum parsimony analysis of Austronesian vocabularies by Russell Gray and Fiona 
+Jordan (2000). Their tree of subgrouping relationships is shown in Figure 10.9.
+
+Of course, much Austronesian dispersal occurred long after the Neolithic - to 
+southern Vietnam and Madagascar, for instance, both probably Iron Age movements. 
+But the foundation spread into Remote Oceania was fundamentally based on agricultural subsistence and Neolithic voyaging technology. Other factors such as presences 
+of naive faunas and desires for founder status were certainly significant too, but these 
+are a little peripheral for the broad scale of this discussion. Essentially, in the hierarchy of "causes" of Austronesian dispersal, the development of agriculture in Neolithic 
+China and Taiwan played the most significant foundation role.
+
+First Farmers: The Origins of Agricultural Societies by Peter Bellwood
+    
+    
+    
+    
+    
+  
+
+  
+
+Piecing it together for East Asia
+
+The data reviewed so far for eastern Asia suggest the following inferences based on 
+the comparative linguistic and archaeological data sets:
+
+1. Linguistically, a series of language families founded with agricultural and domestic animal vocabularies evolved in central and southern China, with extensions 
+into the northern fringes of Southeast Asia and Taiwan (Figure 10.8B). Three of 
+these language families - Austroasiatic, Sino-Tibetan, and Austronesian - underwent major expansions long before history began, in the latter case with very 
+firm phylogenetic reconstructions indicating spread southward from Taiwan 
+into Indonesia and Oceania. Linguistic dating estimates for the foundation protolanguages in these families, albeit rather impressionistic, indicate ages generally 
+between 7,000 and 4,000 years ago - post-hunter-gatherer and pre-Iron Age in 
+cultural terms.
+
+Numerous linguistic hypotheses suggest that these families share basal relationships, implying their derivations from regions quite close together in space.' 
+However, I would not be so unwise as to claim that all relationships are ones of 
+common descent; arguments for early borrowing also are numerous. The suggestion here is that early forms of the major families - Sino-Tibetan, Austroasiatic, Hmong-Mien, Austronesian, and Tai - were at one time located sufficiently 
+close together for some degree of sharing of common heritage. Laurent Sagart's 
+claims for links between Austronesian and Sino-Tibetan, via the intermediacy of 
+the Dawenkou culture of the Shandong Neolithic (ca. 4000 Bc), are of particular 
+interest here, in the light of recent discoveries of foxtail millet and the ritual
+
+extraction of upper lateral incisor teeth in both Neolithic Shandong and Taiwan.' 
+2. Archaeologically, rice and millet cultivation in central China precede any evidence for agriculture in Southeast Asia by about 3,000 years. After 3000 Be there 
+was a spread of Neolithic cultures through the mainland and islands of Southeast 
+Asia, in radiocarbon terms decreasing in age southward toward Malaysia and 
+into Island Southeast Asia and the Pacific. The northerly cultures grew rice, 
+whereas those along the equator in Island Southeast Asia depended on fruits and 
+tubers. Related pottery and other artifact forms suggest ultimate origins for these 
+complexes in the southern China-Taiwan region, with accretions of other native 
+crops in Indonesia and the western Pacific. As far as Austronesian is concerned, a 
+standstill of about 1,000 years in Taiwan, before Neolithic cultures spread further 
+into the Philippines, is documented by both the archaeological and the linguistic 
+records.
+
+At this point, it would take a very determined skeptic indeed to suggest that these 
+patterns are totally unrelated and coincidental. The suggestion that early agricultural 
+economies, and foundation layers of language families, spread hand in hand is a very 
+powerful one in the Asia-Pacific situations discussed (Bellwood 1991, 1996b, 2001a, 
+2001b, 2003).
+
+First Farmers: The Origins of Agricultural Societies by Peter Bellwood
+    
+    
+    
+    
+    
+  
+
+  
+
+"Altaic, " and some difficult issues
+
+Outside the East Asian Neolithic heartland, with its extensions into Southeast Asia 
+and Oceania, we have two regions with quite different cultural and linguistic trajectories, in both cases a little difficult to interpret. The first comprises Mongolia and 
+Manchuria. The main language family of northeast Asia is termed Altaic, which has 
+three major subgroups - Turkic, Mongolian (including Mongol, the language of the 
+Great Khans - rulers of Yuan dynasty China), and Tungusic (including Manchu, the 
+language of the Qing dynasty rulers of China from 1644 to 1911). Some linguists also 
+regard Korean, Japanese (both now single languages), and the Ainu language of 
+Hokkaido as being affiliated with Altaic (Ruhlen 1987:127).
+
+Altaic poses two immediate problems. One is the belief of some linguists that it 
+belongs in the Nostratic macrofamily. But in terms of the internal structure of the 
+family, with the deepest subgroups in Mongolia and Manchuria, a Southwest Asian 
+homeland would seem to be impossible. Another problem is that some linguists 
+dispute the veracity of Altaic as a true family, regarding it as several separate families 
+and isolates linked by areal and borrowing factors.' Furthermore, Altaic dispersal 
+cannot at present be equated with the Neolithic. But it can be related, especially in 
+the cases of Japanese and Turkic, to more recent expansions of agricultural and 
+pastoralist populations.
+
+Juha Janhunen (1996) regards the Altaic languages as developing initially in 
+Manchuria and Inner Mongolia, with clear separation into the Turkic, Mongolic, 
+Tungusic, and Japonic subgroups by 2,500 years ago. Prior to this time, linguistic 
+relationships are hard to reconstruct, but the ultimate roots of the whole family 
+probably are to be found amongst the rich Neolithic cultures of Manchuria. Millet 
+farmers with pottery and large villages, different in cultural tradition from the early 
+farmers of the Yellow River, were well established on the fertile southern Manchurian 
+plains by 6000 BC. Early agricultural dispersal for these pioneers, except into Korea, 
+was probably circumscribed by decreasing rainfall in the west (Mongolia), decreasing 
+temperature to the north (Siberia), and other farmers to the south (the early Sino- 
+Tibetans). During the first millennium BC, however, the Turkic languages began to 
+spread westward with horse riding and pastoralism from Mongolia toward central 
+Asia, replacing Indo-Iranian languages on the Asian steppes and ultimately arriving 
+in Turkey with the Seljuk invasions of the 11th century AD (Parpola 1999; Nichols 
+2000:643).
+
+For Japanese, both Janhunen and Hudson (1999, 2003) favor linguistic origins in 
+Early Bronze Age Korea, the language being taken by Yayoi rice farmers across to 
+northern Kyushu during the later part of the first millennium BC. The Yayoi immigrants 
+mixed with the Final Jomon, partly hunter-gatherer inhabitants of the Japanese islands, 
+to form the roots of the Japanese people and language of today. Modern Japanese is 
+not so transparently related to modem Korean that such a history is clear and obvious - Hudson suggests with linguistic backing that Japanese descends from the former 
+Koguryo language of Korea, eclipsed in historical times by the Silla language that 
+forms the basis of modern Korean. Seen from this perspective, however, the spread 
+of the Japanese language with Yayoi rice farmers into Japan about 2,500 years ago 
+can be regarded as an instance of agriculturalist movement into a former huntergatherer territory, albeit not of course a Neolithic movement (Yayoi had bronze and 
+iron). In this regard, the Yayoi dispersal to Japan equates best with the iron-using 
+dispersal of the Bantu speakers in Africa.
+
+First Farmers: The Origins of Agricultural Societies by Peter Bellwood
+    
+    
+    
+    
+    
+  
+
+  
+
+The Trans New Guinea Phylum
+
+New Guinea is often reputed to contain some of the highest linguistic diversity in the 
+world, and this may be true in terms of the overall time depth of internal development, without major language replacement from external sources. Apart from coastal 
+pockets of Austronesian speakers whose ancestors arrived after 3,000 years ago, the 
+New Guinea languages belong in several Papuan "phyla," to use the lexicostatistical 
+term applied to them by linguists in the 1970s. In that decade, linguists realized that 
+many of the Highlands languages were remotely related, especially in terms of pronoun sets, and grouped them into a Trans New Guinea Phylum (TNGP).
+
+In his culture-historical surveys, linguist Stephen Wurm (1982, 1983) reconstructed 
+a hypothetical spread of the TNGP languages, firstly from west to east through 
+Highland New Guinea more than 6,000 years ago, then back in an east to west 
+direction from the vicinity of the Markham Valley, this later movement occurring for the most part within the past 3,500 years. Wurm chose this second date owing 
+to the presence of numerous Austronesian loans, especially terms for pigs and 
+dogs, in eastern TNGP languages. Eventually, TNGP languages came to occupy 
+most of the New Guinea mainland, with the marked exception of the Sepik (north 
+center) and Bird's Head (western tip) regions. Five hundred of the 740 Papuan languages recognized by Wurm were stated to belong to TNGP, which also extends 
+to parts of interior Timor, and to the small islands of Alor and Pantar in eastern 
+Nusa Tenggara.
+
+After the early 1980s, the TNGP concept languished almost forgotten for many 
+years. William Foley (1986) did not recognize its existence in his major survey of 
+Papuan languages, noting in general that they had undergone too much borrowing 
+for a family tree model to be applied successfully. Recently, however, linguists Andrew 
+Pawley (in press) and Malcolm Ross have noted that the TNGP is well defined on 
+pronoun sets, but it is very hard to subgroup internally, with about 50 small groups 
+each having only short time depths, suggesting much recent population movement. 
+The phylum seems to be of New Guinea Highlands origin, perhaps eastern rather 
+than western, and it is likely to be deeper in time depth than Austronesian. Pawley 
+also raises, but does not elaborate, the possibility that the early spread of the TNGP 
+could have been connected with an early spread of agriculture in the Highlands, a 
+spread that commenced archaeologically by at least 6,000 years ago (pages 142-5). 
+It is surely not coincidental that Highland New Guinea witnessed both a very 
+early internal development of agriculture, plus maintenance of a set of indigenous 
+language phyla that successfully resisted encroachment by Austronesian languages. 
+One cannot state the same for the major islands of Indonesia, where Austronesian 
+languages are universal. For TNGP, early Holocene dispersal with swamp and swidden 
+farming techniques seems an option well worthy of consideration.
+
+First Farmers: The Origins of Agricultural Societies by Peter Bellwood
+    
+    
+    
+    
+    
+  
+
+  
+
+The Americas - South and Central
+
+In the Americas, agriculturalist expansion was subject to much more geographical 
+circumscription than in the Old World, especially in the apparent absence of oceangoing sailing vessels. Mesoamerica is a relatively narrow isthmus, and the Americas 
+as a whole are oriented north-south (Diamond 1994). Because of the great extent of 
+land at high latitudes and altitudes, very large areas of North America and southern 
+South America never saw prehistoric agriculture at all. American agriculturalist language families, on average, covered quite small areas compared to their Old World 
+counterparts. Many had very fragmented geographical distributions owing to the 
+spread of European languages in the past few centuries, erasing indigenous languages 
+in many areas with almost no traces. However, this is no cause to give up - American early farmers have many fascinating archaeolinguistic secrets to reveal.
+
+The language families of the Americas that are recognized by the majority of 
+linguists are shown in Figure 1.2. Linguistic estimates of time depth place most of the 
+agriculturalist ones between 6,000 and 3,500 years old. Thus, they have clearly not occupied their present ranges since the Americas were first colonized, but have all 
+spread roughly within the time range for the development of agriculturalist societies. 
+Recently, I surveyed some of the time-depth estimates by linguists for the larger of 
+these American families, and came up with the following average age for each one 
+(Bellwood 2000c):10
+
+As in the Old World, the New World language families have been grouped together 
+into macrofamilies in a bewildering variety of ways. The most celebrated classification 
+is that by Joseph Greenberg (1987), who regarded all American families as belonging 
+to one Amerind macrofamily, apart from the Na-Dene (including Athabaskan) and 
+Eskimo-Aleut languages brought in by Holocene hunter-gatherer immigrants from 
+Siberia. The linguistic literature still waxes hot over Amerind, and in my view it 
+simply reflects widely shared linguistic residues from the initial settlement of the 
+Americas at about 11,500 BC.
+
+First Farmers: The Origins of Agricultural Societies by Peter Bellwood
+    
+    
+    
+    
+    
+  
+
+  
+
+South America
+
+In 1915, Herbert Spinden (1915:275) suggested that "The lines of agricultural migration 
+over the greater part of South America may be indicated in the grouping of the 
+various language stocks." This would be a very useful observation, if only we could 
+know how the groupings had come about. Unfortunately, many linguists and ethnographers are clearly of the opinion that present-day language distributions, especially 
+in Amazonia, reflect colonial period disruptions rather than any "pristine" pre-contact 
+situation (Wi.ist 1998; Dixon and Aikhenvald 1999). Terence Kaufman estimates that 
+50 percent of the South American languages existing at Spanish contact in the 16th 
+century are now extinct, hindering any attempts to identify homelands and dispersal 
+histories from the present extremely fragmented and scattered language family 
+distributions.
+
+Amazonian ethnography and ethnohistory indicate clearly how extensive has been 
+much recent population movement. Napoleon Chagnon (1992), writing of the Yanomama in the Orinoco headwaters of Amazonia, describes an agricultural population living in large villages that fission very frequently owing to a range of social 
+disputes and occasions for violence. Until recently the Yanomama were able to 
+expand freely into virgin lowland rainforest, and Chagnon explicitly compares this 
+situation with that which might have occurred in the early centuries of the spread of 
+agriculture. Social reasons for Yanomama movement include problems with wifeexchange in situations of male polygyny, and also rapid population growth. Yanomama 
+villages have between 40 and 250 inhabitants and are relocated every 3-5 years, 
+with women who survive to age 50 averaging 8.2 births (Merriwether et al. 2000). 
+Gardens tend to be used for only three years before reverting to long-term fallow, a 
+factor which obviously leads to a continual demand for new land, especially amongst 
+peripheral groups. Yanomama population is now growing fast, despite high infant 
+and adult male mortality (the latter due to warfare), perhaps a reflection in part of 
+the acquisition of steel axes and Asian bananas since Spanish contact.
+
+It is unknown how far the Yanomama pattern of expansion can be read back 
+into prehistory, when their ancestors presumably were either hunter-gatherers or 
+depended on some form of cultivation. What is most interesting here, however, 
+is the situation of continuous "bursting out" into new lands under conditions of 
+very powerful social circumscription. Ernest Migliazza (1985) notes that Yanomama 
+expansion could have been assisted by a retreat of Arawak and Carib-speaking populations, who occupied much of the Yanomama region until about 1800." Exactly 
+how this retreat was encouraged is not clear, but warfare and headhunting could 
+have played major roles.
+
+The broader significance of the high Yanomama rates of fissioning and migration 
+becomes clear when one examines an ethnolinguistic map of the whole of northern 
+South America, east of the Andes. Such a map was prepared by Curt Nimuendaju in 
+1944, and the version reissued by Brazilian authorities in 1980 (too large and complex 
+to reproduce here) reveals the full nature of the incredible mosaic in and around 
+Amazonia (Mapa 1980). For instance, Tupian languages have moved right around 
+the southeastern highlands of Brazil, to encapsulate the formerly hunter-gatherer Je 
+language family. The Amazon basin incorporates widespread patches of Arawak, 
+Carib, Tupian, Panoan, and Tucanoan languages. Isolates and very small language 
+groupings abound. According to linguist Alexandra Aikhenvald (2002:2), referring to 
+the Amazonian families:
+
+All the major language families are highly discontinuous. For instance, Arawak languages 
+are spoken in over ten locations north of the Amazon, and in over ten south of the 
+Amazon. The language map of Amazonia thus resembles a patchwork quilt where over 
+a dozen colours appear to be interspersed at random. Frequent migrations and language 
+contact bring about extensive borrowing and grammatical change ... This produces a 
+linguistic situation unlike those found in most other parts of the world, creating difficulties for distinguishing between similarities due to genetic retention and those due to 
+areal diffusion.
+
+Obviously, this is not fertile linguistic territory for the farming/ language dispersal 
+hypothesis, not because of historical impossibility but because of the enormous 
+difficulties of tracking the past. How one is to interpret the history behind these 
+Amazonian language distributions is not clear, but there are, scattered through the 
+linguistic literature, observations that allow us at least to make a try.
+
+The first observation is that a number of major language families have agricultural 
+terms in their proto-vocabularies, especially for maize, and often manioc. According 
+to Esther Matteson and colleagues (1972), such families include Chibchan, Tucanoan, 
+and Arawakan. They reconstruct a widely shared term for corn, derived from a form 
+like *iSi-ki/`im, for Proto-Arawak, Proto-Mayan, Proto-Otomanguean, and Proto- 
+Panoan. Payne (1991) also presents widespread Arawak cognates for maize, sweet 
+potato, manioc, and pottery. These observations, if verified (and they have been 
+challenged on methodological grounds), suggest that some of the major Amazonian 
+families could have spread after an acquisition of agriculture.
+
+In terms of actual homelands, the situation is rather diffuse. We have no reason to 
+suspect that the perhaps related early Quechua and Aymara languages were ever 
+spoken anywhere but in the Andes, so presumably we can equate early versions of 
+these with some of the first farmers in Peru and Bolivia almost 5,000 years ago. 
+However, the expansion of Quechua in Inca and Spanish times doubtless erased 
+many minority languages, and it is also unclear what linguistic affiliations existed in 
+the pre-Inca civilizations such as Chavin, Mochica, Nazca, Huari, Tiahuanaco 
+(Tiwanaku), and Chimu. One rather interesting reconstruction sources the early 
+Quechua languages to the central Peruvian highlands, roughly from Ayacucho northward to the region south of Cajamarca, and the Aymara languages to southern Peru 
+and Bolivia (Bird et al. 1983-84). The authors suggested that Quechua languages 
+were carried southward with specific varieties of maize to the Cuzco region during 
+the Huari (Wari) Period, dating to about AD 600, where they replaced Aymara languages. The result of this spread in southern Peru was a series of Aymara-influenced 
+Quechua dialects, later to be spread much more widely through Andean South 
+America by the Incas. The Tiahuanaco (Tiwanaku) people in Bolivia (ca. AD 800) 
+spoke either Aymara or Puquina (now extinct) languages (Kolata 1993:34), whereas 
+the northern coastal Chimu kingdom of the pre-Inca period perhaps used now 
+extinct languages unrelated to Quechua.
+
+For Amazonia, Dixon and Aikhenvald (1999:17) observe that Arawak, Carib, and 
+Tupian are demonstrably related genetically, and this circumstance alone should be 
+sufficient to suggest a common homeland. Aikhenvald (1999:75) places the Arawak 
+homeland in Upper Amazonia, between the Rio Negro and the Orinoco. Rodriguez 
+(1999:108) places the Tupian homeland in Rondonia, near the eastern boundary of 
+Bolivia. Both these locations are close to the Andes. Another linguist, Ernest Migliazza 
+(1982), proposed a series of homelands based on lexicostatistical calculations for the 
+Tupian, Carib, Arawak, and Pano-Tacanan (Panoan plus Tacanan) language families. 
+His proposals are shown in Figure 10.10, in which it can be seen that the suggested 
+homelands for Panoan, Tupian, and Arawak are all very close to the eastern edge of the Andes, running along the eastern lowlands of Peru and into northern Bolivia. 
+Migliazza's conclusions for the Proto-Arawak homeland were also reached by Noble 
+(1965).
+
+All the above authors seem to agree upon upstream rather than downstream 
+Amazonian homelands, except for Carib, although Aikhenvald and Migliazza disagree on the precise location for early Arawak. Carib dispersal could relate to a development of manioc cultivation, but this is of course pure guesswork with our present 
+level of knowledge. Carib appears to have spread later than the upper Amazonian 
+families, and it did not spread at all into the Caribbean islands until historic times, 
+owing to the prior presence there of the Arawak languages from which ethnographic 
+Taino culture descended (Villalon 1991). Irving Rouse (1992) suggests a date in the 
+late first millennium ac for the movement of Arawak languages into the West Indies.
+
+It is very difficult to summarize the situation for South America, but the possibility 
+that the very extensive Arawak, Panoan, and Tupian families all commenced their 
+spreads downriver, with the inception of agriculture along the eastern marches of the 
+Andes, prior to 2000 BC, seems to me to be a strong working hypothesis. Gordon 
+Lathrap in 1970 argued differently, deriving most populations from the Middle 
+Amazon, with colonizing movements upriver rather than downriver. The past 
+30 years of archaeological and linguistic research have not supported this opinion. 
+Beyond this, apart from recognizing Quechua and Aymara as the stay-at-home languages of populations in the Andean farming homeland, we can make little further 
+progress as far as South America is concerned.
+
+First Farmers: The Origins of Agricultural Societies by Peter Bellwood
+    
+    
+    
+    
+    
+  
+
+  
+
+Middle America, Mesoamerica, and the Southwest
+
+Middle America is a little easier to handle than South America, owing in part to 
+smallness of scale and to the unequivocally agricultural nature of the relevant protolanguages. Only four language families need concern us - these being Otomanguean 
+(a large grouping that includes Zapotec and Mixtec of Oaxaca); Mayan of Chiapas, 
+Guatemala, and the Yucatan Peninsula; Mixe-Zoquean of the Isthmus of Tehuantepec; 
+and the remarkable Uto-Aztecan, which records one of the clearest cases of agricultural expansion in the Americas. One could perhaps add Chibchan of eastern Middle 
+America; Lyle Campbell (1997) notes that Proto-Chibchan had terms for maize and 
+manioc, and suggests a homeland in Costa Rica or Panama at about 3000 Bc.
+
+Commencing with Otomanguean, a reconstruction of Proto-Otomanguean lexical 
+items by Rensch (1976) gave terms for maize and tortilla, chili, squash/gourd, sweet 
+potato, cotton, tobacco, turkey, pottery, and weaving. Terence Kaufman (1990b) 
+offered similar semantic reconstructions to Rensch (albeit with some differences in 
+the actual proto-forms), and placed the Otomanguean homeland at about 4000 BC 
+between the Valley of Mexico and Oaxaca. Kent Flannery and Joyce Marcus (1983) 
+suggested that the separation of the Zapotec and Mixtec branches of the family 
+occurred after the Coxcatlan phase (ca. 3500 BC) in the Tehuacan Valley of Puebla, 
+with its early domesticated maize. A specific claim for a Tehuacan homeland was 
+also presented by Josserand et al. (1984).
+
+Whatever the exact homeland, the viewpoint that the early Otomanguean languages 
+spread in central Mexico with the inception of maize agriculture seems hard to refute. 
+However, the Otomangueans were not alone in this process. Circumscription, in the 
+form of adjacent but linguistically different early farming populations, also commencing their own expansions, rapidly hemmed them in. Immediately to the east, 
+even more circumscribed in the long run, were the Mixe-Zoquean speakers, a group 
+who appear to have been intimately associated with the genesis of the Olmec 
+horizon of Middle Formative Mesoamerica. Campbell and Kaufman (1976) suggested 
+a glottochronological date of 1500 BC for the break-up of Proto-Mixe-Zoquean, considerably later than that offered for Proto-Otomanguean. This perhaps reflects a 
+maintenance of linguistic unity for a relatively long period in a constrained area, 
+since we clearly have no good reason from the archaeological record to assume that 
+the Mixe-Zoqueans adopted farming any later than the Otomangueans. Soeren 
+Wichmann (1998) reconstructs a large agricultural vocabulary for Proto-Mixe-Zoquean, 
+with terms for manioc, squash, sweet potato, and bean.
+
+It is interesting to reflect also on the observation by Wichmann that Mixe-Zoquean 
+and Uto-Aztecan could be genetically related. If this is not a reflection of shared 
+inheritance from Palaeoindian or Archaic linguistic substrata, it could indicate that 
+the early forms of these two language families were once adjacent, presumably somewhere in central Mexico. The glimmerings of a scenario for this are presented in 
+Figure 10.11.
+
+The Mayan language family, according to Kaufman (1976) and Campbell (1997), 
+originated in the Highlands of Chiapas or Guatemala at about 2000 BC, again with a 
+large agricultural vocabulary including terms for maize, manioc, sweet potato, bean, 
+chili, and squash. Did it relate genetically or via borrowing to any of the other 
+families? The Mesoamerican linguistic literature has been peppered for many years 
+with debates about deeper-level relationships, for instance between Mixe-Zoquean 
+and Mayan, or Mixe-Zoquean and Uto-Aztecan. There seems little reason to become 
+deeply involved in these debates, but I would suggest, as with all the confusing and 
+cross-cutting claims for macrofamily affiliations in East Asia, that we might be witnessing a situation where all the major proto-languages were to some degree in 
+contact, or at least at one time located within a zone characterized by a fair amount of 
+areal diffusion. Such a possibility was raised in 1978 by Witkowski and Brown, who 
+placed Mayan, Otomanguean, Mixe-Zoquean, and others in a Proto-Mesoamerican 
+macrofamily, adding the comment (1978:942):
+
+Plausibly, plant domestication, which was beginning about the time Proto-Mesoamerican 
+was spoken, triggered a vast population increase leading to the linguistic diversity that 
+presently characterizes these languages.
+
+This suggestion was attacked strongly by Campbell and Kaufman on the grounds 
+that the claimed relationships could be due to chance vocabulary resemblances,12 
+and the situation seems to have languished unresolved since. But I remain highly 
+intrigued by the possibilities.
+
+Figure 10.12 The distribution of the Uto-Aztecan language family. From Miller 1983.
+
+First Farmers: The Origins of Agricultural Societies by Peter Bellwood
+    
+    
+    
+    
+    
+  
+
+  
+
+Uto-Aztecan
+
+We now turn to the most widespread Mesoamerican family of all, Uto-Aztecan, socalled because of its very extensive distribution in 1519, ranging from the urbanized 
+Nahua-speaking Aztecs of Tenochtitlan (Mexico City) to the nomadic Paiute and 
+Shoshone hunter-gatherers of the Great Basin, over 3,000 kilometers away to the 
+north (Figure 10.12). As noted by Spencer and Jennings (1977:xvi):
+
+One is struck by the military and governmental development of the pre-Columbian 
+Aztec state in Mexico and yet at the same time must consider that the Indians of the 
+Great Basin ... who by any standard possessed the simplest brand of culture, spoke a 
+related tongue.
+
+Uto-Aztecan was one language family that escaped the circumscription of Mesoamerica 
+since it was on the northwestern edge of the early Mesoamerican agricultural zone. Eventually, the early Uto-Aztecans emerged in the US Southwest as the ultimate 
+inspirers of the Hohokam, Mogollon, and Anasazi pueblo traditions (Figure 8.7).
+
+The Uto-Aztecan-speaking agriculturalist populations evidence some very deepseated and widespread cultural links, especially between the Hopi of northern 
+Arizona, now isolated from their linguistic cousins by Navajo expansion, and many 
+Mexican populations such as the Cora and Huichol of Nayarit, and the Nahuaspeaking (Aztec) populations of central Mexico (Hedrick et al. 1974; Kelley 1974; 
+Kelley and Kelley 1975; Bohrer 1994). These links are mainly of a ritual nature and 
+include the "volador" ritual, the concept of a four-cornered world and the village 
+as a navel, rain gods at the four corners, corn planting in counterclockwise spirals, 
+water serpent myths, a fire god, a corn mother, snake cults, circular kiva-like 
+temples, curing and funerary observances, prayer sticks, corn ear fetishes, smoking to 
+the directions, sand painting, landownership patterns, and use of the true loom (only 
+found in the Southwest in North America). As Ellis (1968:85) noted: "The parallels 
+between the Huicholes and the Pueblos in religious traits are so marked that one can 
+hardly see how they could exist without direct contact between the two peoples ... 
+Once upon a time, the Utaztecans probably were one people."
+
+The Uto-Aztecan languages today form a number of subgroups. On lexicostatistical 
+grounds, linguist Wick Miller in 1984 recognized a Southern Uto-Aztecan, which 
+included the languages of central and northern Mexico (Sonoran and Aztecan groups, 
+including Cora, Huichol, and Nahuatl), then three coordinate subgroups in the US 
+Southwest - 1) Hopi of northern Arizona, 2) Takic of southeastern California, and 3) 
+Tubatulabal of southeastern California, plus the Numic languages (including Paiute 
+and Shoshone) of the Great Basin (Figure 10.12). The latter two subgroups incorporate traditional hunter-gatherer populations, whereas the Southern Uto-Aztecans and 
+Hopi are maize farmers. Miller noted that these four subgroups are all coordinate, 
+thus drawing attention to an observation made by other linguists, to the effect that 
+the Uto-Aztecan family tree is distinctly rake-like, with no clear root (Lamb 1958; 
+Fowler 1994; Foster 1996:91; Hill 2001). Such a situation makes a homeland rather 
+hard to discern, and the problem has been exacerbated by the incursions of Athabaskan 
+and Yuman speakers into former Uto-Aztecan territories, pushing a geographical 
+discontinuity through much of Arizona and leaving the Hopi isolated far to the north 
+of the other, Southern Uto-Aztecan, maize farmers. Much of the original distribution 
+of Uto-Aztecan languages has thus been lost or masked.
+
+Until recently, the majority of linguists, with archaeologists in close support, 
+regarded the early Uto-Aztecans as foragers who lived somewhere in eastern 
+California or the Great Basin, that is in the USA rather than Mexico (Hopkins 
+1965; Nichols 1983-84; Lathrap and Troike 1983-84; Miller 1984; Foster 1996). The 
+Nahuatl-speaking Aztecs were believed to have spread into the Valley of Mexico 
+after AD 500, according to ethnohistorical accounts and linguistic data (Fowler 1989; 
+Kaufman 2001; Beekman and Christensen 2003). Miller placed the Uto-Aztecan 
+homeland on lexicostatistical grounds in eastern California, where the Takic subgroup exists today. Groups who moved south into Mesoamerica then adopted 
+maize farming, which according to Miller later spread back into the US Southwest, but not back as far as the Hopi of northern Arizona owing to the intervening expansion of the Yuman languages. Hence, in Miller's view, the Hopi adopted their maize 
+agriculture independently of the Mexican members of the Uto-Aztecan language 
+family.
+
+This forager-focused view of Uto-Aztecan origins has not always held sway 
+without opposition. As early as 1957, Kimball Romney suggested that the early 
+Uto-Aztecans dispersed with maize agriculture from the northern Sierra Madre of 
+Mexico. Some moved southward into Mesoamerica, others northward toward the 
+Great Basin, where the Numic populations eventually converted from farming back 
+to hunting and gathering. In hindsight, Romney's view was remarkably perceptive. A 
+number of other linguists and archaeologists have proposed homelands in the same 
+general region as Romney, particularly in Sonora (Goss 1968; Hale and Harris 1979; 
+Fowler 1983). But almost nobody, apart from Romney, visualized until recently an 
+agricultural as opposed to a forager origin.
+
+In the past few years, the whole picture for Uto-Aztecan origins has been revolutionized. For me, it began during a sabbatical semester in the Anthropology Department at the University of California in Berkeley in 1992. Here, I was given a golden 
+opportunity to read into the American literature and to see if my developing ideas of 
+farming and language dispersal in the Old World could be applied in the New. UtoAztecan intrigued me as a most promising language family in this regard, partly 
+because of its great extent within Mesoamerica (Bellwood 1997c). In 1999, I received 
+an opportunity to visit the University of Arizona in Tucson, where I was taken by Bill 
+Longacre and Jonathan Mabry to visit the Las Capas archaeological site, with its early 
+maize remains and irrigation channels (Figure 8.8). I also gave a seminar at the 
+University of Arizona entitled "Austronesian prehistory and Uto-Aztecan prehistory: 
+similar trajectories?" Sitting in the audience was University of Arizona linguist Jane 
+Hill, who was clearly quite interested in what I had to say.
+
+Exactly what I did say is no longer in the forefront of my memory, but I stressed 
+that, like Austronesian, Uto-Aztecan appeared to have all the makings of a language 
+family that spread from Mexico with maize farming. Using new lexical data recorded 
+for Hopi in northern Arizona, Jane Hill went on to publish a major paper in 2001, in 
+which she offered seven crucial observations about early Uto-Aztecan:
+
+1. Proto-Uto-Aztecan lexical reconstructions do not rule out a Mesoamerican 
+homeland.
+
+2. Uto-Aztecan has a rake-like primary division into five subgroups - Northern UtoAztecan (Hopi, Numic, Tubatulabal, and Takic), Tepiman, Taracahitan, Tubar, 
+and Corachol-Aztecan (Figure 10.12). These subgroups, based on shared innovations, differ from those recognized by Miller using lexicostatistical criteria.
+
+3. A substantial maize-related vocabulary reconstructs to Proto-Uto-Aztecan, with 
+six probable and three possible terms including corn cob, popcorn, tortilla, and 
+griddle. Terms for beans do not reconstruct back as far as Proto-Uto-Aztecan.
+
+4. The Proto-Uto-Aztecan cultivation vocabulary was not borrowed from another 
+language family such as Mixe-Zoquean, but represents original innovation.
+
+5. The Proto-Uto-Aztecan homeland was in Mesoamerica, probably between 2500 
+and 1500 Bc, perhaps not far from the great Classic Mesoamerican city complex 
+at Teotihuacan in the valley of Mexico (ca. AD 1600), where new epigraphic 
+research suggests that a Uto-Aztecan language might have been in use (Dakin 
+and Wichmann 2000)." If the Uto-Aztecan homeland really was near here, it 
+could have been quite close to the contemporary homelands of the Otomanguean 
+and Mixe-Zoquean families, the latter evidently a major source of loans into 
+early Nahuatl (Kaufman 2001).
+
+6. The archaeological record for the Southwest indicates a spread of maize cultivation from Mesoamerica at about 4,000 years ago, with beans and squash slightly 
+later (chapter 8).
+
+7. Given this reconstruction, it is very likely that the Northern Uto-Aztecan groups 
+recorded as hunter-gatherers in ethnographic times had all converted from farming to foraging at some time in the prehistoric past.
+
+In a subsequent paper, Hill (2003) has expanded discussion of the Northern UtoAztecan "devolution" by pointing out that some of the foraging populations in the 
+Owens Valley of eastern California and the Great Basin practiced cultivation-type 
+activities with wild plants, as already pointed out in chapter 2. She suggests that these 
+Numic populations might have evolved out of a part of the former Fremont complex 
+of maize cultivators and interstitial foragers located in the better-watered parts of the 
+eastern Great Basin and Colorado Plateau (Figure 8.8), after a 12th-13th-century 
+drought (or was it human overexploitation?) caused the decline of pueblo communities over much of the Southwest. Perhaps the ancestral Numic speakers were 
+the foragers in the Fremont equation, who simply stayed at home while some of 
+the farmer groups moved away." Following this transformation, Numic speakers 
+then radiated with their successful foraging adaptation into those drier parts of the 
+Great Basin that previously were not Uto-Atecan speaking, ultimately into Idaho 
+and Wyoming.
+
+Hill (2002) also suggests that some of the other minor language families of the 
+Southwest, especially Yuman and Kiowa-Tanoan, could have spread with the adoption of maize cultivation, in these cases secondarily by borrowing from Uto-Aztecan 
+populations. Other maize farmers such as the Zuni and Keres of the New Mexico 
+pueblos clearly did not expand very far since their languages are isolates - perhaps 
+they experienced circumscription through being surrounded by other maize farming 
+populations quite early on. The Apache and Navajo are, of course, Athabaskan speakers whose ancestors moved as hunters into the region after the decline of the pueblos, 
+and thus they had no connection with early maize farming at all.
+
+On the issue of the Numic languages within Northern Uto-Aztecan, Jane Hill's 
+account of conversion from farming to foraging in situ as a result of environmental 
+decline in the southeastern Great Basin is at odds with the mainstream view of 
+archaeologists, who have mostly regarded the Numic speakers as eternal foragers 
+located in the Great Basin or somewhere close to it, for instance in southeastern 
+California, since the Archaic. The most celebrated version of such a view is that by Bettinger and Baumhoff (1982; Young and Bettinger 1992), who proposed that Numic 
+speakers migrated into the Great Basin from southeastern California between 1,000 
+and 650 years ago, as a result of a competitive and successful economic adaptation 
+involving seed processing.
+
+In my view, however, Hill's suggestion of a Numic "devolution" in situ out of a 
+prior Uto-Aztecan population of maize farmers, followed by spread throughout the 
+Great Basin, accords best with the multidisciplinary evidence for the origins of these 
+ethnographic hunter-gatherers. A possible historical trajectory for them is as follows:
+
+1. Uto-Aztecan maize farmers spread into Utah from the south between 2,500 and 
+2,000 years ago, during a relatively supportive climatic phase," to create the 
+Fremont culture, based on a combination of maize cultivation with hunting and 
+collection.
+
+2. By 650 years ago, Fremont maize agriculture had declined and the Great Basin 
+henceforth could only support foragers. The Numic speakers, as suggested by 
+Hill, were derived from former Fremont and northern Anasazi farmer/foragers 
+who simply stayed in place instead of moving to better-watered terrain. Eventually they spread out as successful mobile foragers and plant managers, to reach 
+the limits shown in Figure 10.12.
+
+First Farmers: The Origins of Agricultural Societies by Peter Bellwood
+    
+    
+    
+    
+    
+  
+
+  
+
+Eastern North America
+
+The remaining agricultural region of the prehistoric Americas comprises the eastern tall 
+grass plains of the US midwest, and the Eastern Woodlands. This is a roughly quadrangular block of territory, divided down the middle by the Mississippi Basin, with its 
+Missouri, Ohio, Arkansas, and Tennessee tributary systems. The northern limits of the 
+region run to the latitude of the Great Lakes. Outside this quadrangle, the Great Plains 
+proper and most of Canada were either too dry or too cold to support prehistoric 
+farming, and farming never reached the west coast of North America in prehistory.
+
+The Eastern Woodlands in particular have suffered much linguistic extinction as a 
+result of European settlement, but there are five language families that are possible 
+candidates for an initial generation through some form of farming dispersal. These 
+are Caddoan, Siouan, and Iroquoian (reputedly sharing distant genetic links according 
+to some linguists), together with Algonquian and Muskogean (likewise, according to 
+some linguists, distantly related) (Figure 1.2). All of these families appear to have 
+expanded within the past 4,000 years, according to glottochronological estimates, 
+with Siouan and Iroquoian being marginally the most diverse.
+
+Because of the high rates of language loss, the precise homelands and expansion 
+histories of these five language families are not easy to reconstruct. But it is still 
+evident that Iroquoian, Siouan, and Algonquian tend to converge geographically 
+within the zone marked in Figure 10.13 as the homeland of post-2000 BC interior 
+riverine seed crop cultivation. Admittedly, Iroquoian lies a little to the east of this 
+zone, but this family now has a broken distribution, with Cherokee (Southern Iroquoian) being geographically separated from the main block of Northern Iroquoian 
+languages. Likewise, Siouan proper has become separated by a geographical gap 
+from Catawba in South Carolina. Nevertheless, it is likely that all three did once 
+intersect within the circle in Figure 10.13, and have individually radiated out of it. 
+This, at least, sounds convincing in principle, although it is no doubt impossible at 
+this late date to prove from linguistic resources alone.
+
+First Farmers: The Origins of Agricultural Societies by Peter Bellwood
+    
+    
+    
+    
+    
+  
+
+  
+
+Algonquian and Muskogean
+
+Unfortunately, these two language families contain little information that can positively support or negate the applicability of the early farming dispersal hypothesis in 
+eastern North America. According to Mary Haas (1969:62), both could have shared a 
+common ancestor about 5,000 years ago, although this is not agreed upon by all linguists, and even if true it would seem to relate to pre-agricultural circumstances. 
+Both language families are relatively non-diverse internally, with Algonquian having 
+a divergence history of perhaps 3,500 to 3,000 years, Muskogean much less, perhaps 
+only 2,000 years.
+
+Most linguists who have ventured a homeland for Algonquian focus on the Great 
+Lakes region. Frank Siebert (1967) placed it between Lake Ontario and Lake Huron 
+at about 1200 Be, based on a reconstruction of about 50 Proto-Algonquian natural 
+history reconstructions. Terms for maize, beans, and squash do not reconstruct to 
+Proto-Algonquian, and Ives Goddard (1979) and Michael Foster (1996:99) have both 
+commented on the rake-like structure of the Algonquian family "tree," with nine or 
+ten subgroups all derived independently from Proto-Algonquian. No linguist, however, 
+seems to have put forward a historical hypothesis to explain the vast spread of the 
+Algonquian languages, ranging ethnographically from the extensive hunter-gatherer 
+populations of central and eastern Canada (Cree, Ojibwa, Montagnais-Naskapi, plus 
+many others), through the hunters of the northern Great Plains (Blackfoot, Cheyenne, 
+Arapaho), to the small-scale farming and foraging populations of the Middle Mississippi and Ohio basins. Wiyot and Yurok, two languages distantly related to Algonquian, 
+also existed on the coast of northern California.
+
+How can we explain the huge spread of Algonquian? Its limited degree of genetic 
+diversity, at least in widespread shared lexicon, means that we cannot claim an 
+eternal existence for it as a sprachbunde since the Paleoindian period. Somehow, and 
+relatively recently, the Algonquian languages have spread from a homeland located 
+somewhere close to the Great Lakes. The spread predated the arrival of maize, 
+beans, and squash, but certainly need not have been totally Archaic and purely huntergatherer. The great problem here is that words for the native seed crops cultivated in 
+the Eastern Woodlands are not recorded in the languages that have survived to the 
+present, and we meet this problem later in connection with Siouan and Iroquoian. 
+So, if the early Algonquians did maintain fields of cultivated goosefoot and sumpweed, 
+we are never likely to find any witnesses in the linguistics.
+
+But all is perhaps not lost. Archaeologist Stuart Fiedel (1987, 1990, 1991) has reconstructed an early Algonquian homeland amongst pottery-using Early or Middle Woodland cultures of the northeast. The options, centered on the period between 600 and 
+200 BC, include the Point Peninsula culture of Ontario and the Adena culture of the 
+Ohio valley. Fiedel allows for some cultivation of gourd and squash, but not maize, 
+which is not yet present in the archaeological record. By 200 Be, according to Fiedel's 
+glottochronological dating, Algonquians had reached New England, but many of the 
+Eastern Algonquian languages only spread during the first millennium AD, just prior 
+to the arrival of the Northern Iroquoians (after AD 700).
+
+My own suggestion, offered purely as a working hypothesis, would be that the 
+central and eastern Algonquians (excluding the genetically distant Plains languages 
+and those in northern California) could have undergone some degree of expansion 
+during the late Archaic and Early Woodland periods following the acquisition of 
+indigenous seed crop cultivation in the Mississippi and Ohio valleys. The eventual 
+acquisition of maize agriculture could have stimulated expansion further, perhaps on a much larger geographical scale, but by this time there was growing territorial 
+competition from other groups such as the Iroquoians and Siouans.
+
+The Canadian Algonquian hunters such as the Cree and Ojibwa represent from 
+this perspective another specialization that probably reflected the location of ProtoAlgonquian somewhere close to the northern edge of the zone of agricultural viability. Whether these hunters replaced other populations in Canada I cannot be sure,16 
+but my inclination is to regard them as akin to the Punan of Borneo, able to spread 
+just as their farmer cousins, but for reasons that could have involved demands from 
+more settled societies for furs and other wild resources.
+
+The essential conclusion, therefore, is that Algonquian expansion may have reflected agricultural dispersal in part, but certainly not in totality. However, when we 
+move to examine Muskogean, the picture (perhaps deceptively) seems to be simpler. 
+Muskogean occupies an area of the southeastern USA east of the lower Mississippi, 
+and is thus more limited in extent than Algonquian. It is not a diverse language 
+family internally, and Proto-Muskogean seems to have existed only about 2,000 years 
+ago according to lexical comparisons. To the west of it existed a number of isolated 
+and now extinct languages such as Natchez, Tunica, Chitimacha, Tonkawa, and 
+Atakapa, suggesting that the spread of Muskogean itself was somewhat constrained 
+to within the modern states of Mississippi, Alabama, and Georgia. Foster (1996) 
+suggests a connection for Muskogean languages with the Mississippian culture (AD 
+1000-1500) and a possibly aggressive spread southeastward at that time, although 
+some earlier movement following on from the spread of maize cultivation and ridged 
+field construction into the southeastern USA after AD 200 (Riley 1987) can be considered likely. Muskogean seems to be too young for any early connection with the 
+region of indigenous seed crop domestication in the Eastern Woodlands, and it is 
+perhaps significant that its distribution falls mostly outside that region. So, for 
+Muskogean, are we looking at late, maize-related, expansion during the Late Woodland and Mississippian periods? I suspect so.
+
+First Farmers: The Origins of Agricultural Societies by Peter Bellwood
+    
+    
+    
+    
+    
+  
+
+  
+
+Iroquoian, Siouan, and Caddoan
+
+Iroquoian and Siouan, in particular, have clear histories of spread that could very likely 
+have commenced within the Early Woodland cultures of the Eastern region of seed 
+crop agriculture. Neither had maize terms in their proto-languages, although the less 
+diverse and younger Caddoan most probably did (Rankin n.d.; Mithun 1984).
+
+Ethnographically, and in late prehistoric archaeology, the Iroquoians of the northeastern states of the USA (parts of New York, southern Ontario, Quebec, Pennsylvania, 
+and Ohio) were intensive farmers of maize, beans, and squash, living in palisaded villages of long timber houses. They had a complex political structure with tribal councils, 
+multi-tribal confederations, and matrilineal inheritance of ranked chiefly titles (Snow 
+1994). The assumption of most archaeologists and linguists is that the Iroquoians 
+conquered a territorial wedge through the eastern Algonquians, commencing around 
+AD 700 according to Fiedel (1991), although Foster (1996:99-101) prefers the reverse 
+scenario of an Algonquian movement around an Iroquoian wedge already in place.
+
+As with the other Eastern Woodlands families, linguistic reconstruction rules out 
+an early economy of maize cultivation for the Iroquoians. Marianne Mithun (1984) 
+dated Proto-Iroquoian to about 2000 BC, and regarded the separation of Cherokee 
+in the southern Appalachians as the first identifiable phylogenetic division. Between 
+Cherokee and the Northern Iroquoian languages there is a substantial geographical 
+gap with no coherent linguistic information - whether the Iroquoian languages once 
+occupied a single large territory is uncertain. Mithun states that the Proto-lroquoians 
+did not have agriculture, but this brings up the problem mentioned above, that words 
+for the native seed crops do not survive in modern Iroquoian and Siouan languages 
+and so we could never expect to find linguistic witnesses for them anyway. Terms for 
+maize, field, to plant, and pottery reconstruct back as far as Proto-Northern Iroquoian 
+only, a subgroup that Mithun regarded as expanding after 2,000 years ago.
+
+A number of archaeologists have attempted to trace back into prehistory the Northern 
+Iroquoian cultural markers of maize and longhouses. This is a fairly simple matter 
+going back into the large palisaded longhouse settlements of the Owasco phase, 
+dating from about AD 1300 in New York and Pennsylvania. Beyond this it becomes 
+more difficult, and opinions tend to be based on assumptions of cultural continuity 
+through time. Some researchers, for instance Willey (1958) and Snow (1984), were 
+willing to consider Northern Iroquoian origins in New York and Pennsylvania amongst 
+Early Woodland assemblages of the first millennium Bc. But in his recent papers, 
+Dean Snow (1994, 1995, 1996) favors fairly late Northern Iroquoian expansion, deriving about AD 600 from the Clemson's Island culture of central Pennsylvania, only 
+entering New York State about AD 1150 with the Owasco culture and its immediate 
+antecedents. Here, it replaced an earlier Point Peninsula tradition claimed to be 
+associated with Algonquian speakers.
+
+In Ontario, Gary Warrick (2000) favors a similar appearance of archaeologically 
+recognizable Iroquoians during the Princess Point Phase, after AD 500. The Princess 
+Point lroquoians grew maize, and their Uren Phase descendants at about 1300 underwent very rapid demographic growth, leading to a late pre-European population 
+density stated by Warrick to be akin to that postulated for the contemporary Valley 
+of Mexico. Fifty late prehistoric Iroquoian villages have been excavated in Ontario 
+alone in the past 20 years (Warrick 2000:420). By 1534, the Iroquoian population in 
+the northeastern USA is estimated to have been 100,000 people.
+
+Dean Snow's view of a relatively late northward migration of Iroquoians with 
+maize agriculture obviously fits well with a farming dispersal hypothesis, even though 
+many archaeologists still regard the Iroquoians as a non-migratory population whose 
+ancestors have been indigenously in place since Early Woodland or even Archaic 
+times (Wright 1984; Clermont 1996; Warrick 2000; Hart and Brumbach 2003). The 
+record suggests some initial expansion with seed crop cultivation after 2000 BC, leading to a separation of the Southern and Northern subgroups, followed much later by 
+expansion of the Northern Iroquoians consequent upon the acquisition of maize.
+
+Turning now to Siouan, we find a situation that resembles that for Iroquoian quite 
+closely. This family also has a disjunct distribution, with most Siouan languages 
+occurring west of the Mississippi, apart from isolated Catawba in Carolina, and Tutelo, Ofo, and Biloxi (all extinct) in the Ohio Valley. Linguistically, the origin of the Siouan 
+family is agreed to lie within the eastern part of its current range, perhaps between 
+the two main areas of distribution that survive today (Rankin n.d.; Foster 1996). Both 
+Rankin and Foster agree on a date around 2000 BC for the break-up of Proto-Siouan, 
+and Rankin suggests that the four major subgroups (Missouri River, Mandan, Mississippi valley, and Ohio valley) were all linguistically separate by 500 BC." He also 
+notes that no agricultural terms can be reconstructed for Proto-Siouan. Maize terms, 
+certainly, arrived in the Siouan vocabulary well after the Proto-Siouan stage.
+
+In terms of the archaeological record, it looks as if the early Siouan languages, like 
+early Iroquoian and Algonquian, arose within the general area of native Eastern 
+Woodlands seed crop domestication. By 500 BC, some Siouan languages had already 
+been carried across the Mississippi River into the Missouri Basin, where reported 
+occurrences of the native Eastern Woodlands crops (chenopod, amaranth, squash, 
+and sumpweed) date to as early as 2,000 years ago in Nebraska and Kansas (Kansas 
+City Hopewell, Middle Woodland Phase; Adair 1988, 1994; Snow 1996:166). Maize 
+occurs in this region as early as AD 200 in the Trowbridge site near Kansas City, 
+together with squash and sumpweed (Iva annua), but it did not become common 
+until the late first millennium AD. Indeed, numerous sources agree that the intensive 
+spread of maize farming and large villages on to the eastern plains occurred only 
+between AD 700 and 1000.
+
+Archaeologically, it is of course impossible to decide just when Siouan populations 
+moved west of the Mississippi - whether in 500 Bc or AD 1000. Wedel (1983) favored 
+the later date as far as the eastern plains were concerned, but this does not rule out a 
+much earlier presence along the Mississippi River itself. O'Brien and Wood (1998:345) 
+suggest a date of about AD 900 for Siouan movement into Missouri, during the Oneota 
+Phase. Such late chronologies would be supported by the ethnographic focus on 
+maize cultivation recorded for most Siouan speakers, apart from the Crow on the 
+western short grass plains who switched in the 19th century to bison hunting on 
+horseback. The Mandan of Dakota in particular constructed very large palisaded 
+villages in late prehistory, supported by farming of maize, beans, squash, sunflower, 
+and tobacco.
+
+But such a late chronology is not supported by the linguistic observation that the 
+major subgroups of Siouan were already separating by 500 Bc. Admittedly, linguistic 
+dates are very imprecise, but my inclination is to suggest that the initial phases of 
+Siouan expansion occurred during the Woodland Period with its focus on native seed 
+crops (see pages 176-7), and that considerable later expansion, especially in a westerly 
+direction, might have occurred consequent upon the adoption of maize farming by 
+AD 1000. The first stage of Siouan expansion could thus be represented somewhere 
+within the widespread shared iconography of the Adena and Hopewell Phases, whereas 
+the later maize-related spread could be reflected in the "sameness and uniformity" of 
+material culture noted by Linda Cordell and Bruce Smith (1996:259) in the Late 
+Woodland Phase between AD 400 and 800.
+
+Our final language family, Caddoan, appears to be only about 2,000 years old 
+(like Muskogean; Campbell 1997), although Foster (1996) dates Proto-Caddoan much earlier, to 1500-1300 BC. The Caddoans (who include the Arikara, Pawnee, and 
+Wichita) are all agriculturalists, and Perttula (1996) dates the appearance of a distinctive Caddoan archaeological tradition to about AD 800, with earthen ceremonial 
+mounds and maize cultivation. In the absence of any very informative debate on 
+Caddoan linguistic prehistory I can only suggest that it might represent a fairly late 
+prehistoric maize-related spread, like Muskogean.
+
+Having run the gamut of the Eastern Woodlands language families, we can now 
+take stock (Figure 10.13). This region does not have the clarity of evidence in support 
+of farming dispersal that occurs in some other parts of the world, in part because of 
+fragmentary language survival, and in part because the vocabulary relevant for the 
+native seed crops has not been preserved. The Algonquian, Iroquoian, and Siouan 
+families present some shadowy evidence for an initial generation and dispersal history 
+set within the phases of population growth represented by the Adena and Hopewell 
+Traditions of the first millennium Be, dispersals assisted perhaps by increasing reliance 
+on indigenous forms of plant cultivation. In distributional terms, Siouan might fit 
+such an Adena-Hopewell origin more strongly than Algonquian or Iroquoian, but 
+this can only be surmise given the disjointed distributions of these language families. 
+The arrival of maize agriculture then set off further expansion, especially of the 
+Northern Iroquoians and the western Siouans, and perhaps also gave rise to the 
+eventual expansions of the Muskogeans and Caddoans. Perhaps this is as far as we 
+can go in establishing the merits of a farming dispersal hypothesis for the Eastern 
+Woodlands. But I would add that the overall pattern of overlap between language 
+family homelands and agricultural homelands does seem to work almost as well in 
+the Eastern Woodlands as it does in Mesoamerica, the Middle East, China, or West 
+Africa. Whether my readership will agree is for the future to decide.
+
+First Farmers: The Origins of Agricultural Societies by Peter Bellwood
+    
+    
+    
+    
+    
+  
+
+  
+
+Did the First Farmers Spread Their Languages?
+
+This chapter has brought together what might appear to be a rather bewildering 
+quantity of information, often rather vague and contested, on the history of the 
+major agriculturalist language families. Does this information support the three correlations between farming and linguistic homelands suggested at the start of this 
+chapter? These three correlations were as follows: language families should have 
+their putative homelands located within or close to agricultural homelands, they 
+should intersect geographically within or close to agricultural homelands, and they 
+should have dispersal histories that commence chronologically within agricultural 
+homeland areas and then become progressively younger with distance away from 
+such homelands.
+
+My feeling at this point is that radially patterned dispersals of language families 
+and early farming systems from agricultural homeland areas can be traced to a 
+degree much greater than we could expect from chance alone. Indo-European, 
+Afroasiatic, and Elamo-Dravidian radiate from around the Southwest Asian region 
+of early farming. Likewise, Sino-Tibetan, Austroasiatic, and Austronesian, not to mention Tai, Hmong-Mien, and Altaic, all emanated from the Chinese region, albeit 
+not all during the Neolithic. New Guinea has its Trans New Guinea Phylum, while 
+West Africa spawned the Niger-Congo languages. In the Americas, we have just 
+reviewed some rather hazy evidence that Quechua, Aymara, Arawak, and Panoan 
+(with Tupian being less specific) developed in or fairly close to the Andes of Peru. 
+Mayan, Chibchan, Mixe-Zoque, Otomanguean, and Uto-Aztecan developed within 
+Mesoamerica. Algonquian, Iroquoian, and Siouan perhaps had some connection with 
+the early development of seed cropping in the Eastern Woodlands.
+
+These radial patterns of genesis and spread of agriculturalist language families 
+and early forms of farming do not occur at random all over the world. There is no 
+evidence for them, for instance, in Europe, central Asia, southern Africa, the lower 
+Amazon or the lower Mississippi. No one, to my knowledge, has ever claimed that 
+Proto-Indo-European was spoken in the United Kingdom, that rice cultivation began 
+in Sulawesi, or that maize cultivation began in New York (or if they have, I haven't 
+read their works). I am unable to prove that the suggested correlations can only 
+be explained in the manner suggested, but there is clearly sufficient correlation 
+within the spatial and chronological patterns to make the farming/ language dispersal 
+hypothesis worthy of a great deal more attention than it has received so far.

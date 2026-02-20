@@ -1,0 +1,1308 @@
+Chapter 8 - Early Agriculture in the Americas
+=============================================
+
+First Farmers: The Origins of Agricultural Societies by Peter Bellwood
+    
+    
+    
+    
+    
+  
+
+  
+
+Chapter 8
+
+Early Agriculture in the Americas
+
+The transitions through time and in space between hunting-gathering and farming 
+are rarely as sharp in the New World as in the Old. One reason for this is that few 
+major meat-producing herd animals were ever domesticated in the Americas, so 
+ancient farmers continued mostly to derive meat from wild resources. The main 
+exception to this generalization, albeit one of fairly restricted regional impact, concerns the domestication of llamas, alpacas, and guinea pigs in the high Andes of Peru 
+and Bolivia. Turkeys were domesticated in Middle America and dogs were also widely 
+eaten, especially in the Maya region, but none of these served as widespread meat 
+staples.
+
+The Americas also lacked the broad base of highly productive cereals available in 
+the Old World, with only maize fulfilling such a role on a large geographical scale, 
+and only after about 2000 BC. The earliest domesticates in the Americas were mainly 
+condiments, fruits, or industrial plants (e.g., chili pepper, gourd, avocado, cotton, and 
+possibly even maize in the first instance) rather than productive staples. In the opinion 
+of Hugh Iltis (2000:37):
+
+As of now, it may well be said that the reason agriculture came to the New World 
+much later than in the Old was a reflection of both the absence of any large-grained 
+Hordeae [the grass tribe that includes wheat, barley and rye] in the Americas, and of the 
+difficulty mankind had in taming teosinte, its only large-seeded annual grass, and even 
+then one with dubious agricultural potential.
+
+The problems of teosinte (the wild relative of maize) are discussed later, but North 
+America north of Mexico was not a source of any domesticated staples equal in 
+productive capacity to Mesoamerican maize, or to the major tropical American tubers 
+such as manioc and sweet potato. Although some native seed-bearing plants were domesticated in the Mississippi and Ohio basins, these had sunk to only a minor 
+resource compared to maize by AD 1500. Very large areas of North America were 
+also beyond the range of agriculture because of their cold and/or dry mountain and 
+prairie environments, with the northern limit of the 120-day frost-free zone running 
+approximately along the US-Canadian border and just to the north of the Great 
+Lakes. At European contact, about half (probably more) of the land area of the 
+Americas was still occupied by hunters and gatherers (Figure 8.1), and many regions 
+potentially suitable for agriculture in western North America, from California northward, simply had not been reached by farming communities.
+
+Figure 8.1 The major early agricultural zones of the Americas - Andes, Mesoamerica, 
+southwestern USA, Eastern Woodlands - together with probable source regions for 
+early domesticated plants. The dates in bold refer to the approximate dispersal 
+chronology for maize.
+
+The American agricultural economies, still essentially Neolithic in technological 
+terms despite a widespread use of copper (but not iron) for ornaments at European 
+contact, and without draft animals, ploughs, or wheeled transport, were thus not 
+generally as productive as the economies that underpinned the expansive demographic 
+trajectories of the Old World Neolithic and Bronze/Iron Ages. The expansion of 
+agricultural economies in the Americas cannot be expected to be as clear-cut in the 
+archaeological record as in some parts of the Old World, where fully agropastoral food 
+production systems spread extensively through territories of former hunter-gatherers, 
+as for instance in Neolithic Europe, and Iron Age central and southern Africa.
+
+There is another major difference between the Old World and the New, and this 
+is the relative lack of "centricity" in the New World early agricultural record. In the 
+Old World, the Fertile Crescent and central China can be posited as geographically 
+focused regions of early agricultural genesis in terms of their archaeological records 
+and associated botanical and zoological information. In the Americas, it has long been 
+assumed that agriculture evolved first in Mesoamerica and Peru because of their rich 
+archaeological records, albeit with occasional but not widely accepted protestations 
+to the contrary (Lathrap 1977). But it is now becoming apparent that these regions of 
+later high civilization need not have been the only loci for initial agriculture, whatever importance they may ultimately have had in the rise of large-scale agricultural 
+societies.
+
+The focus is instead moving, at least in part, toward the lesser-understood (in an 
+archaeological sense) and geographically diffuse tropical lowlands and mid-altitude 
+regions of Middle America and northwestern South America, areas of seasonal forest 
+and broad rivers where the floristic diversity underpinning the central suite of agricultural plants in the Americas (especially maize, beans, and squashes) appears to 
+have been located (Figure 8.1). The picture is made more complicated by the recent 
+verification that the middle Mississippi drainage basin and its tributary valleys contained an independent development of plant domestication. However, as in many 
+regions of the Old World, we need to distinguish conceptually between regions of 
+origin of agriculture as a system of food production, and regions of origin and domestication of individual crop species. The latter were probably far more widespread 
+than the former. While the Americas were quite non-centralized as far as domesticated 
+plant origins are concerned, this need not mean that food production was developed 
+independently in every region where there happened to exist a wild plant species 
+brought into domestication.
+
+First Farmers: The Origins of Agricultural Societies by Peter Bellwood
+    
+    
+    
+    
+    
+  
+
+  
+
+Some Necessary Background
+
+The documented settlement of the Americas, from Siberia, occurred about 11,500 BC 
+(Lynch 1999; Fiedel 1999). Until about 3000 Be, all Americans were essentially huntergatherers, with a possible but disputed earlier investment in horticultural activity 
+claimed for some tropical regions. Dated macroscopic plant remains for domesticated 
+staple food plants, as opposed to snack foods, containers, and condiments, occur only after 4000 ac, and for the most part a great deal later than this (Smith 1995, 2001; 
+Benz 2001; Piperno and Flannery 2001). In fact, with the exception of a small region 
+of unusual precocity in southern Ecuador and northern Peru, virtually the whole 
+tropical American sequence of development from the oldest sedentary agricultural 
+settlements to Late Preclassic Period urbanism occurred between 2000 and 300 BC. 
+This is indeed compaction, more so than the 5,000 years from Pre-Pottery Neolithic 
+Jericho to Protoliterate Uruk, or from Peiligang to the Shang Dynasty. The American 
+cultural sequence in the tropical regions of high population density has a slightly 
+frenetic air - a little late, always in a hurry, ferociously competitive, and remarkably 
+creative.
+
+So far, for the Americas, no one has yet prepared an environmental case to explain 
+the development of early agriculture as complex and detailed as that for the Southwest Asian transition, which currently revolves around environmental change from 
+the Pleistocene into the Holocene and the impact, albeit disputed, of the brief Younger 
+Dryas return to glacial conditions. Yet the Pleistocene-Holocene boundary in the 
+Americas was a period doubtless as well supplied with rapid climatic perturbation as 
+it was in the Old World (Buckler et al. 1998). Because of this, Dolores Piperno and 
+Deborah Pearsall (1998) favor a stress-based model for agricultural origins, focusing 
+both on the Younger Dryas and on declining hunting returns in an increasingly 
+forested early Holocene landscape. However, direct archaeological evidence for such 
+environmental correlations with early agriculture is still elusive. Indeed, if agricultural dependence was a lifestyle that postdated 6,000 or even 5,000 years ago in the 
+Americas, any attempt to link it directly in causal fashion with Late Pleistocene-Early 
+Holocene environmental change will be hard to sustain. It has recently been claimed 
+that the establishment of sedentary settlements and agriculture in Peru can be correlated not with Early Holocene events, but with higher rainfall along the Pacific coast 
+due to an increasing frequency of El Nino episodes after 5,800 years ago (Sandweiss 
+et al. 1999). The debate continues.
+
+Essentially, we still do not know why agriculture began in the various regions, 
+presumably three, of independent agricultural origin in the New World. Kent Flannery 
+(1986:16) poses some general possibilities which still seem to be as good as any others:
+
+In our model, the end-Pleistocene climatic changes ... and the growth of world 
+population ... combined between 10,000 and 5000 BC to bring about a densitydependent shift in human cultural behavior over much of the world. Emigration and 
+high mobility declined in importance, and strategies for dealing with predictable 
+(seasonal) and unpredictable (annual) variation on a local basis began to emerge ... In 
+Mexico, agriculture may have begun as one of many strategies aimed at reducing the 
+differences between wet and dry years.
+
+In this model, increasing packing of population ("circumscription" in the terms of 
+Robert Carneiro 1970) in the late hunter-gatherer world, plus desires to level out 
+uncertainty and risk, would have been fundamental. The Americas in this sense fit 
+well into the currently most popular worldwide model for the origins of agriculture, this being that it was essentially due to processes of risk minimization in the face of 
+early or middle Holocene fluctuations in environmental circumstances. Such models 
+have already been discussed in previous chapters for the Levant, the eastern Sahara, 
+and the New Guinea Highlands. The major problem for the Americas is that the 
+precise chronologies and geographical/ environmental circumstances that lay behind 
+the various cases of agricultural inducement remain rather obscure. Agriculture certainly appears to be younger in the New World than in much of the Old, so we may 
+presumably look for many of the stimuli in the period postdating the Younger Dryas 
+and running down to as recently as 2000 BC. But this is a large haystack in which to 
+look for a small number of needles.
+
+One other general point is worthy of comment. After sedentary life began across 
+the American zones of early agriculture, mainly after 2000 Be, we soon witness some 
+remarkable and unprecedented regional homogeneities in cultural style. The Early 
+and Middle Formative periods of Mesoamerica and the Andes (including the Olmec 
+and Chavin horizons) encompass a great deal of the American early agricultural 
+action. Across many regions there is a degree of uniformity of style in pottery shape 
+and surface decoration, clay figurines, art motifs and designs, even ceremonial center 
+architecture and planning, which requires explanation. Some of these similarities also 
+extend, at approximately the same time, into contemporary North American cultural 
+complexes in the Eastern Woodlands of the USA. Do they reflect independent lines 
+of common ancestry derived entirely from the Palaeoindian hunters of the Clovis 
+horizon and its contemporaries? Or, far more likely in my view, are they due to 
+contemporary Formative-period diffusion and/or population movement, as long 
+ago argued in different ways by James Ford (1969), Gordon Willey (1962), Donald 
+Lathrap (1973, 1977), and many others? Certainly, after 10,000 years of prior occupation of the Americas, we are not witnessing the actions of a single ethnolinguistic 
+population working to invent a unique tradition of agriculture that thereafter spread 
+to all regions. But the similarities most certainly reflect more than mere historical 
+coincidence.
+
+First Farmers: The Origins of Agricultural Societies by Peter Bellwood
+    
+    
+    
+    
+    
+  
+
+  
+
+The Geography of Early Agriculture, and General Cultural 
+
+Trajectories
+
+The regions of early agriculture under examination are four in number. In the south 
+lies the Andean region of southern coastal Ecuador, Peru, Bolivia, and northern 
+Chile. This is a region of Pacific coast deserts, Andean valleys, and intermontane 
+basins, ultimately sloping down eastward toward the rain forests of Amazonia. To 
+the north lies Middle America - northern Colombia /Panama to central Mexico - 
+again a region of great environmental variation from rain forests to semi-deserts and 
+high mountains. The more specific title "Mesoamerica" is usually reserved for the 
+cultural region extending from central Mexico to Honduras and El Salvador, this 
+being the zone occupied by the Classic and Postclassic civilizations. To the north of 
+Mesoamerica, through semi-arid northern Mexico, lies the US Southwest - Arizona, New Mexico, and parts of Colorado and Utah. Finally, we jump eastward, across the 
+marginally agricultural Great Plains and southern Texas, into the fertile Eastern 
+Woodlands of the USA. These comprise the vast drainage basins of the Mississippi 
+and its major tributaries (Arkansas, Missouri, Tennessee, Ohio), with northward 
+extensions to the Great Lakes and New England. With the exception of the rather 
+nebulous possibility of early manioc agriculture in the Amazon Basin, we have no 
+clear signs of any role for other regions, apart from those listed, in primary agricultural origins.
+
+In terms of overall archaeological trajectory, the essential frameworks for the four 
+regions (Figures 8.2, 8.3) are as follows:
+
+1. In the Andes, the oldest pottery commences in the Valdivia I period in Ecuador 
+between 3500 and 3000 Bc, with agriculture (apparently without maize at this 
+early date) claimed in association. However, in nearby northern Peru the contemporary early archaeological record of agriculture, prior to 2000 BC, has no 
+pottery (and again no maize), despite the presence of some impressive monumental constructions dating to the Late Preceramic Period, from 3000 BC onward. Pottery and maize both appear, at least in quantity, in Peru's Initial Period 
+(1800-900 BC), during which time the Kotosh religious tradition with its distinctive ceremonial constructions spread over large parts of the northern and central 
+highlands. In the Early Horizon (900 to 200 BC), dramatic evidence for interpolity warfare made an appearance, followed by the remarkable spread of the 
+tightly knit Chavin network of interaction (500 to 200 BC).
+
+2. In Middle America, the first pottery is also generally quite young, being dated in 
+Chiapas, Oaxaca, Valley of Mexico, Puebla, and Costa Rica to about 2000 BC, 
+although claims exist for older pottery in Panama and northern Colombia. From 
+about 4000 Bc onward, an early stage of maize domestication is attested in Guila 
+Naquitz cave in Oaxaca, in the Tehuacan Valley in Puebla, and in the Maya 
+lowlands, in all three cases long before the local appearance of pottery. In 
+Mesoamerica proper, however, large ceremonial centers do not appear to be 
+older than pottery usage, in contradistinction to the northern Peruvian situation. 
+By 1000 BC, many regions were coming within the orbit of the Olmec network of 
+interaction, a phenomenon similar to Chavin in Peru.
+
+3. In the Southwestern USA, maize agriculture, pit storage, and large settlements 
+appeared in southern Arizona by 2000 BC (with canal irrigation by 1500 BC). 
+Pottery appeared at about the same time (Jonathan Mabry, pers. comm. 2003). 
+Here, however, the early agriculture was not indigenous, but introduced from 
+Mesoamerica.
+
+4. In the Eastern Woodlands, an independent focus of native seed plant domestication was under way by 2000, perhaps 3000 BC (Bruce Smith, pers. comm. 2003), 
+centered on the Ohio and Tennessee Valleys and adjacent portions of the Mississippi. Maize appeared in this region after 2,000 years ago, ultimately allowing 
+agriculture to spread to its northern limits around the 120-day frost-free line, just 
+north of the latitude of the Great Lakes.
+
+Figure 8.3 Archaeological sites that have early pottery in the Americas, with 
+approximate dates.
+
+First Farmers: The Origins of Agricultural Societies by Peter Bellwood
+    
+    
+    
+    
+    
+  
+
+  
+
+Current Opinion on Agricultural Origins in the Americas
+
+According to Dolores Piperno and Deborah Pearsall (1998), the first American 
+agriculture began very diffusely in the lowland seasonal deciduous forests of Middle 
+America and northern South America. They suggest that it began in a very small 
+way, early in the Holocene by about 8000 sc, with no domestic animals, as an 
+adjunct to a hunting and gathering economy based on a limited investment in house 
+gardens and shifting agriculture. Piperno and Pearsall are here echoing, but modifying, earlier views on the significance of the lowland tropics by Carl Sauer (1952) and 
+Donald Lathrap (1970).
+
+At the same time, they are posing a scenario rather different in geographical terms 
+from that favored by Richard MacNeish, as a result of his research in the much drier 
+Tamaulipas and Tehuacan regions of Mexico (Byers 1967; MacNeish 1972, 1992). 
+MacNeish, like Piperno and Pearsall, favored a gradual adoption of agriculture and 
+settling down, but in this case in the semi-arid highland regions of Mesoamerica 
+rather than in the wetter lowlands. Even though MacNeish maintained his views 
+until his death in 2000 (MacNeish and Eubanks 2000), phytolith evidence now suggests that teosinte, widely considered the likely ancestor of maize, was absent in the 
+Mesoamerican highlands until its appearance as a primitive domesticate about 6,000 
+years ago (Pipemo and Flannery 2001; Pohl et al. 1996; Buckler et al. 1998). This 
+absence supports, at face value, a lowland origin for maize.
+
+One can, however, read this absence the other way, as does Hugh Iltis when 
+he makes the intriguing suggestion that teosinte became domesticated into maize 
+not in its lowland biological homeland, which probably lay in or close to the Balsas 
+basin of western Mexico, but possibly in a highland region such as Tehuacan, to which 
+ancestral forms must have been taken by humans. To make the situation even more 
+complex, botanist Mary Eubanks favors a derivation of maize not from annual Balsas 
+teosinte at all, but from cross-pollination between a perennial form of teosinte and 
+another grass species Tripsacum dactyloides, a cross that probably occurred in highland 
+Mesoamerica (MacNeish and Eubanks 2000). Matsuoka et al. (2002) also favor a 
+highland origin for maize domestication based on genetic analysis.
+
+All of this is, of course, a little confusing for the non-botanist. Highland or lowland? 
+Agricultural origins in the Americas are certainly not transparent and obvious. As Iltis 
+(2000:37) notes, discussing the homeland of maize domestication: "Clearly, we don't 
+know, and much more aggressive archaeology is needed in Mexico." Indeed it is.
+
+First Farmers: The Origins of Agricultural Societies by Peter Bellwood
+    
+    
+    
+    
+    
+  
+
+  
+
+The Domesticated Crops
+
+Two general points about American plant domestication require emphasis. Firstly, 
+some of the plants that were domesticated are non-staples in a food sense, for instance 
+chilis, avocados, gourds, tobacco, and cotton. We can expect hunter-gatherers to 
+have favored the growth of such useful plants and to have selected and planted seeds 
+in some instances, as indeed they appear to have done with a species of squash 
+(Cucurbita pepo) as early as 8000 uc in Oaxaca (Smith 1997b). The earliest use of 
+teosinte / early maize might also have been for its sugary stalk, like sugar cane (Iltis 
+2000), and it is possible that primitive maize spread widely during the early Holocene 
+as a source of sugar for alcoholic beverages, to be domesticated as a grain plant later 
+and possibly in more than one location (Smalley and Blake 2003). Such initial movement as a snack food need have little directly to do with the origins of systematic 
+agriculture, being more a case of occasional seed selection for replanting, in other 
+words a variety of hunter-gatherer resource management.
+
+Other plants, however, clearly served as staple foods, for instance maize in its 
+eventual domesticated form in which the cob became the main exploited part, other seed-bearing plants such as chenopods (goosefoot in the Eastern Woodlands, quinoa 
+in the Andes), various species of beans, and tubers such as potato, sweet potato, and 
+manioc. Evidence for domestication of these staples generally falls much later in time 
+than for the condiments and snack foods.
+
+The second point is that a number of these plant species could have been domesticated in more than one region (Figure 8.1). Such possibilities have been raised for 
+cotton, chilis, common and lima beans, some of the squashes, manioc, and even for 
+maize.' Multiple domestications are quite possible for plants that have very widespread natural ranges, and we do not need to inflate the number of regions of 
+independent agricultural genesis just because of this. But the situation as a whole 
+does impart an air of diffuseness to the whole agricultural transition in the Americas. 
+If there ever was an American "Fertile Crescent," tightly focused in space and time, it 
+certainly hides from us very successfully.
+
+First Farmers: The Origins of Agricultural Societies by Peter Bellwood
+    
+    
+    
+    
+    
+  
+
+  
+
+Maize
+
+Maize was the subsistence foundation for most late prehistoric and ethnographic 
+American farming cultures, except for many groups living on poorer soils in Amazonia 
+who depended mainly upon manioc and other tubers such as sweet potato (and 
+bananas since European contact). Most botanists agree that maize was domesticated 
+from one or more annual varieties of teosinte, the most important apparently being 
+Zea mays var. parviglumis (Galinat 1985, 1995), which grows today in the Balsas river 
+basin of Michoacan and Guerrero in western Mexico, with a closely related variety 
+living slightly west in Jalisco, one of the possible homelands also for the common 
+bean Phaseolus vulgaris. But the exact homeland of domesticated maize, as noted above, 
+is a contentious issue.' The search goes on, as discussed earlier, and no firm conclusion 
+can be offered here.
+
+Throughout its history, maize has become perhaps the most widespread major food 
+crop in the Americas, extending from 47°N to 43°S and up to about 4,000 meters in 
+altitude. Its early spread into North America beyond the Southwest was not very 
+rapid, perhaps because it is a short-day plant which had to adapt to the increasingly 
+longer days and shorter duration of the summer growing season as it moved northward. Its entry into the southwestern USA occurred about 2000 BC, perhaps only a 
+few centuries after large and productive varieties were first domesticated in Mexico 
+(Matson 2003), but it did not spread into the eastern USA until about the time of 
+Christ, only becoming a dietary mainstay there after AD 500. Maize clearly needed to 
+evolve biologically, via human selection, as it spread.
+
+In the early centuries of maize domestication it is possible that size increase was a 
+slow process, owing to its wind-pollinated habit (as with the African millets), thus 
+requiring conscious human planting in regions away from wild stands in order for 
+improvements to become fixed (Iltis 2000). By 2000 ac, as noted by Kent Flannery 
+(1972), maize had reached a size and level of productivity (cob length about 6 
+centimeters, yields perhaps 200/250 kilograms/hectare) that could have underpinned 
+intensive production and the resulting Formative efflorescences of population in Mesoamerica, the Andes, and the southwestern USA (Wilson 1985; Marcus and 
+Flannery 1996:71).
+
+Once in full production, maize clearly revolutionized American Indian life in many 
+regions, certainly in Mesoamerica and the Southwest, even though it was preceded 
+by other crops in the Andes and the eastern USA. Maize matures quickly, can be 
+easily stored (an essential advantage), and has evolved many high-yielding varieties. 
+One drawback is that it is lacking in available niacin, a problem remedied by cooking 
+it in lime water in Mesoamerica and the Southwest, and pounding the kernels with 
+wood ash in the eastern USA (Heiser 1990; niacin deficiency can cause pellagra).
+
+When was maize domesticated? In Mexico, the oldest cobs of domesticated maize, 
+as opposed to teosinte, come from ephemeral occupations in Guila Naquitz cave 
+where the cobs themselves are dated by AMS radiocarbon to about 4250 BC (Piperno 
+and Flannery 2001). Maize cobs from the Coxcatlan Phase layers in San Marcos Cave, 
+in the Tehuacan Valley in Puebla, are AMS dated to about 3600 BC (Long et al. 1989; 
+Benz and Iltis 1990). Carbon isotope analyses of human bone from a Coxcatlan 
+phase burial in the Tehuacan Valley suggest increasing reliance on cereals by about 
+3500 BC, although this technique does not automatically identify the cereals as being 
+domesticated (Farnsworth et al. 1985). However, Benz and Long (2000) note that 
+maize cobs underwent rapid morphological development between 3500 and 3000 BC 
+in the Tehuacan Valley sequence. Directly dated domesticated maize appears in 
+northeastern Mexico and the Gulf lowlands of Tabasco by 2500 BC, and Zea pollen 
+occurs with evidence for agricultural deforestation in the Maya lowlands at about the 
+same time (Smith 1997a; Pope et al. 2001; Pohl et al. 1996).
+
+There is a groundswell of opinion in favor of older dates for maize (see the discussion on stalk sugar above), especially for Middle and South America, where several 
+locations in Panama and Ecuador have maize phytoliths or pollen in deposits dated 
+by association to the early Holocene, back to at least 6000 ac (Piperno and Pearsall 
+1998; Pearsall 1999; Piperno et al. 2000). To the contrary, Bruce Smith (1995:159) 
+accepts no dates for maize in South America until its clear presence in cob form after 
+2000 Bc at Valdivia in Ecuador, thus rejecting all older dates based on the finding 
+of phytoliths in uncertain archaeological contexts. The debate on this continues, 
+sometimes quite energetically. For instance, at the late Valdivia culture site of La 
+Emerenciana, recent analyses of stable isotopes in human bone and phytoliths from 
+dental calculus and food residues in sherds indicate an increasing presence of maize, 
+perhaps consumed in the form of chicha maize "beer," in the coastal Ecuadorian diet 
+by 2200 sc. But maize cannot convincingly be demonstrated to have been present as 
+a significant staple in South America before this date. Indeed, and rather ominously 
+for the early dates scenario, maize is completely absent in several large agricultural 
+sites of Late Preceramic date (ca. 2500-2000 BC) in northern Peru.'
+
+The extent of the chronological problem for early maize, in this case in Panama, is 
+highlighted by John Hoopes (1996:18):
+
+Available models for both the introduction and the intensification of maize agriculture 
+in western Panama ... are based on ambiguous evidence. Given various interpretations of both microbotanical and macrobotanical data, maize may have been introduced to 
+the region anywhere between the sixth millennium B.C. and the early half of the first 
+millennium A.D. Maize may have been: (1) modified indigenously from an ancient, 
+primitive ancestor; (2) introduced to the region from Costa Rica to the west; (3) brought 
+from central Panama and Colombia to the east; or (4) introduced by some combination 
+of these modes. Pollen and phytolith data indicate the presence of maize at inland rockshelters in central Panama ca. 5100 B.C ... However, the earliest macrobotanical remains 
+from central Panama, in the form of maize kernels and cob fragments, date no earlier 
+than 300 B.C. Hopefully, rigorous application of the principles of chronometric hygiene 
+will soon help to sort out fundamental problems of this kind.
+
+First Farmers: The Origins of Agricultural Societies by Peter Bellwood
+    
+    
+    
+    
+    
+  
+
+  
+
+The other crops
+
+No other American crop can claim such a stature in prehistory as maize and only 
+some of the more important ones can be listed here, together with the small suite of 
+domestic animals. Squashes, of which there were six domesticated species in the 
+Americas, were clearly domesticated several times, presumably independently, in a 
+number of regions, including the Eastern Woodlands, Mesoamerica, and South 
+America (Figure 8.1) (Whitaker 1983; King 1985; Sanjur et al. 2002). The ca. 10,000- 
+year-old AMS-dated seed of Cucurbita pepo in the cave of Guila Naquitz in Oaxaca 
+raises the possibility that squashes, and the gourds also found in Guila Naquitz, could 
+have been manipulated by humans from a very early period indeed (Flannery 1986; 
+Smith 1997b). The gourds most probably served as containers rather than food. The 
+seeds of these plants could very easily have been selected and replanted to promote 
+desired characteristics, and also passed from group to group over very large distances, 
+long before the beginnings of any systematic cultivation.
+
+Beans also come in several useful species and had multiple loci of early domestication. Direct dates for these tend to be much younger than for squashes or maize, and 
+the oldest occurrences would appear to be in Late Preceramic sites postdating 2500 
+BC in Peru and Ecuador (as also for cotton), and only 1000 BC in the Early Formative 
+of Mexico (Smith 1995:163, 2001).` Beans appear to be younger than maize in the 
+southwestern USA, and none reached the northeastern USA until about AD 1300 
+(Hart et al. 2002).
+
+Of other crops, manioc (cassava) pollen is claimed with maize pollen from the 
+Belize lowlands at about 3000 Bc, and perhaps 5000 BC in the Gulf lowlands of 
+Tabasco (Pohl et al. 1996; Pope et al. 2001). A charred manioc tuber from the site of 
+Cuello in Belize has been AMS radiocarbon dated to about 600 BC (Hather and 
+Hammond 1994). Piperno and Pearsall (1998) indicate the presence of manioc 
+in Amazonia, its presumed homeland, by at least 2000 BC, and Donald Lathrap 
+earlier made impassioned pleas for manioc to be regarded as the foundation crop 
+for the whole cultural sequence of the agricultural Americas. Olsen and Schaal 
+(1999) have recently sourced domesticated manioc using genetic markers to the 
+southwestern Amazon in Brazil, close to the eastern borders of Peru and Bolivia 
+(Figure 8.1).
+
+Presumed homelands for some other food crops are also shown in Figure 8.1, 
+a map that highlights the diffuseness of agricultural crop origins in the Americas. 
+Yet there are two regions that could well have served as quite focused centers for 
+the domestication of a range of localized crops and domestic animals. One is the 
+highland Andes from central Peru down into Bolivia, between Lakes Junin and 
+Titicaca (Roosevelt 1999b; Shimada 1999). For this region, Bruce Smith (1995) draws 
+together a convincing case for a combined domestication, perhaps commencing 
+around 2000 BC, of the white potato, the chenopod grain crop quinoa (Chenopodium 
+quinoa), the meat- and wool-producing and pack-carrying llamas and alpacas, and the 
+humble guinea pig. Duccio Bonavia (1999) believes that camelids and guinea pigs 
+could even have been under some form of domesticatory selection in highland Peru 
+as early as 3500 BC. Remains of quinoa occur together with squash and peanut in 
+occupations in the Nanchoc Valley in northern Peru, apparently predating 4500 BC, 
+but they are of uncertain domesticatory status at this time (Dillehay et al. 1997).
+
+The other region of food-crop origin is the Woodlands of the central-eastern USA, 
+focused on the basins of the Missouri, Ohio, and Middle Mississippi rivers, where a 
+number of grain and oil crops were domesticated after 2000 BC. These crops include 
+such delicacies as goosefoot, knotweed, maygrass, and marsh elder, to which were 
+added the more widespread gourd, squash, and sunflower. The discovery of this 
+independent complex of early agriculture has been one of the major recent achievements of US archaeological research and we return to it in more detail below. Indeed, 
+it serves as a reminder that major developments in prehistory can sometimes be 
+hidden from science for a very long time, a salutory observation for those endeavoring 
+to recognize global patterns from the archaeological record.
+
+First Farmers: The Origins of Agricultural Societies by Peter Bellwood
+    
+    
+    
+    
+    
+  
+
+  
+
+Early Pottery in the Americas (Figure 8.3)
+
+The oldest claimed pottery in the Americas, sand-tempered and with incised decoration, made its appearance in what appear to have been hunter-gatherer contexts in 
+the lower Amazon by 6000 BC, for instance at Taperinha (Roosevelt et al. 1991). In 
+northern Colombia, a very different kind of pottery with an organic fiber temper 
+occurs in several sites, the earliest apparently being the inland site of San Jacinto 
+I where an ornately decorated grass-tempered ware is dated to as early as 5000 BC, in 
+association with many large stone-filled cooking pits and food grinding implements 
+(manos and metates). San Jacinto is believed by the excavator (Oyuela-Cayceda 1994, 
+1996) to have had a wild seed-exploiting economy, with no definite evidence for 
+agriculture, although perhaps in some kind of transition toward it. Other sites with 
+fiber-tempered pottery occur as large doughnut-shaped shell middens on the northern 
+Colombian coast (e.g., Puerto Hormiga; Hoopes 1994).
+
+Elsewhere, similar fiber-tempered pottery and shell middens occur in parts of the 
+southeastern USA (South Carolina, Georgia, northern Florida) by about 2500 BC. A 
+different kind of pottery, Monagrillo sand-tempered, appears in shell middens and 
+rockshelters in Panama by soon after 3500 BC. Suggestions that these early pottery occurrences are, or are not, related to each other are legion, but as John Hoopes 
+(1994) points out, these oldest pottery occurrences in the Americas - currently in the 
+lower Amazon, Colombia, Ecuador, Panama, and the southeastern USA - could well 
+have occurred independently of each other. Being honest, we just do not know.
+
+Were any of these early pottery-using groups associated with any form of agricultural subsistence? The evidence is not clear, although Dolores Piperno and Deborah 
+Pearsall clearly favor an affirmative answer, perhaps for both maize and manioc in 
+the general region of northern South America (Panama, Colombia, Ecuador) by 
+possibly 5000 BC. As discussed above, it is possible that hunter-gatherers were beginning 
+to manipulate these species by this time, particularly if maize was used for its sugary 
+stalk. But if they did, the archaeological sites concerned provide no hard evidence.
+
+First Farmers: The Origins of Agricultural Societies by Peter Bellwood
+    
+    
+    
+    
+    
+  
+
+  
+
+Early Farmers in the Americas
+
+Between 2500 and 1000 BC, the archaeological record in the Americas underwent 
+remarkable transformations. Societies capable of constructing sedentary residential 
+complexes with ceremonial monuments, in many cases with positively identified 
+agriculture, appeared across vast regions of the northern Andes, Middle America, the 
+US Southwest and the Eastern Woodlands. In their remarkable sharings, these late 
+Archaic and early Formative cultures testify to the creation of what archaeologists 
+would term a series of "interaction spheres" on a vast scale. It is the explanations for 
+the existences of these interaction spheres, or horizons in archaeological classification, 
+that offer some of the most interesting research questions in Americanist archaeology. What roles were played by population movement and the sharing of fairly 
+proximate cultural and linguistic ancestries?
+
+First Farmers: The Origins of Agricultural Societies by Peter Bellwood
+    
+    
+    
+    
+    
+  
+
+  
+
+The Andes (Figure 8.4)
+
+The Formative sequence in South America is often stated to begin with the Valdivia 
+cultural complex of the semi-arid southern coastline of Ecuador at about 4000 BC, 
+although the early stages of the sequence are a little unclear and there seems to be 
+only very insecure evidence for sedentary settlements, pottery, and agriculture prior 
+to about 3000 BC (Staller 2001). Four sites have yielded the most important evidence 
+- Valdivia itself, and the riverine sites of Real Alto, Loma Alta, and La Emerenciana. 
+The settlement debris in Real Alto and Loma Alta was arranged in U-shaped mounded 
+plans, open across one end, covering more than one hectare in extent in the case of 
+Real Alto, with sufficient pole and thatch elliptical houses for estimated populations of 150 to 200 people (Damp 1984:582). Although maize phytoliths are claimed 
+to occur in Early Valdivia layers (as discussed above - see Pearsall 2002), actual 
+macrofossils do not include maize until the second millennium ac. Instead, the Early 
+Valdivia domesticated plant repertoire included squash, canavalia beans, the tuber 
+achira, and cotton for textiles and fishing gear. Interestingly, the Valdivia people were capable of making sea crossings, as shown by the existence of a Valdivia shrine on 
+Isla de la Plata, 23 kilometers offshore in the Pacific Ocean (Brunhes 1994:82).
+
+Northern Peru now takes center stage, owing to a remarkable degree of labor 
+investment in some massive residential and ceremonial complexes during the Late 
+Preceramic Period (3000 to 2000 Be), the Initial Period (2000 to 900 Be), and the Early Horizon (900 to 200 Bc). These sites occur along the Pacific desert coast with its 
+permanent rivers, in the lower valleys of some of these rivers, and in the northern 
+and central highlands. Mark Cohen (1977b:164) has suggested, on the basis of site 
+surveys in the Ancon-Chillon valleys of central coastal Peru, that populations might 
+have increased between 15 and 30 times during the Late Preceramic Period, fueled 
+by a combination of agriculture and the rich maritime resources of the cold Humboldt 
+Current. Such phenomenal population growth is attested in the remains of some 
+remarkable Late Preceramic sites in the short coastal river valleys of northern and 
+central Peru - sites such as Huaca Prieta, Aspero, Caral, Las Haldas, Huaynuna, Los 
+Gavilanes, and El Paraiso, the latter with occupation debris extending over 58 hectares. Recent research at Caral in the Supe Valley has revealed six large platform 
+mounds up to 18 meters high around a rectangular open space (Figure 8.5A), 
+together with two sunken circular plazas, and residential complexes, the whole 
+extending over 65 hectares (Shady Solis et al. 2001).
+
+Figure 8.4 Andean Late Preceramic, Initial Period, and Early Horizon archaeological sites 
+and complexes discussed in the text.
+
+One of the most interesting sites of this phase is La Galgada in the Tablachaca 
+Valley of inland northern Peru (Grieder et al. 1988). Today, La Galgada is in a rather 
+forbidding semi-arid area, 1,100 meters above sea level, that looks very marginal for 
+agriculture. But during the Late Preceramic a ten-kilometer stretch of the valley 
+bottom supported at least 11 agricultural sites. La Galgada, like El Paraiso on the 
+coast, apparently produced cotton in large quantities utilizing a riverine field system 
+fed by irrigation canals. The base of the deposits was not reached during the excavations in the 1980s, but the lowest layers reached date to about 2700 Bc and have an 
+architectural style focused on small rooms with "ventilated hearths," four being set 
+atop an oval stone-faced stepped pyramid 15 meters high (Figure 8.5B). Similar rooms 
+have also been excavated at Kotosh, about 300 kilometers southeast of La Galgada, 
+one termed the "Temple of the Crossed Hands" because of the survival of two such 
+adobe reliefs beneath wall niches (Izumi and Terada 1972).
+
+Artifacts found within the dry deposits at La Galgada include twined cotton textiles, 
+netting, barkcloth, turquoise, marine shells, and Amazonian bird feathers, some of 
+these items attesting to wide trade contacts. We witness during this period a remarkable agreement of architectural and artistic style through the northern and central 
+Peruvian highlands, and also in sites on the coast. The significance of this wide 
+horizon-like distribution in the Late Preceramic at about 2000 Bc, particularly of ritual 
+paraphernalia, is commented upon by Thomas Pozorski (1996:350):
+
+Closer similarities early in the sequence suggest that this was the time of greatest 
+communication or influence, apparently in the area of religion or ritual. Subsequent 
+divergence of form ... reveals that interaction, at least in this sphere, may have waned.
+
+During the Late Preceramic Period in northern and central Peru, apart from significant quantities of maritime resources in coastal regions, subsistence depended on 
+irrigation cultivation of squash (including Mexican Cucurbita moschata), beans, sweet 
+potato, potato, achira, chili peppers, and avocados (of Mexican origin). Cotton was 
+widely grown, but there are no signs of maize. Michael Moseley (1975) also lists manioc and the highland tubers oca and ullucu for Preceramic coastal sites in the Ancon 
+region, near Lima. This suggests that the highlands and lowlands of the northern 
+Andes were in contact at this time, an unsurprising conclusion which is reinforced by 
+some very precise parallels in textile designs and ceremonial architecture, for instance 
+in the above-mentioned rooms with central hearths ventilated by under-floor passages 
+found in the highland sites of La Galgada and Kotosh, and in the lowland Casma 
+Valley sites of Huaynuna and Pampa de las Llamas-Moxeke (Pozorski and Pozorski 
+1992; Pozorski 1996).
+
+Figure 8.5 A) The ceremonial area of Caral during the Late Preceramic, about 2500 Bc. 
+Large platform mounds and associated residential complexes surround a quandrangular plaza 
+about 600 meters long. From Shady Solis et al. 2001. B) Reconstruction of the ceremonial area 
+at La Galgada during the Late Preceramic Period, ca. 2500 Bc. From Grieder et al. 1988.
+
+After 2000 BC, during the Initial Period in northern and central Peru, pottery and 
+weaving made their first appearances, as did maize. U-shaped ceremonial centers 
+following Late Preceramic prototypes occur in about twenty coastal sites (Williams 
+1985). As in the Late Preceramic, there was a continuing widespread degree of ritual 
+and stylistic homogeneity, suggesting powerful linkages between regional populations. 
+Very large polities appear to have been present in the Casma valley, focused on the 
+sites of Sechin Alto and Pampa de las Llamas-Moxeke, the latter covering 220 hectares. Sechin Alto, one of the largest sites in the New World at this time, comprised 
+a U-shaped complex 1.5 kilometers long with a central end platform 44 meters high. 
+The modeled adobe friezes which adorn several of these sites are forebears of the 
+famous Chavin art style which dominated the greater part of the northern Andes 
+during the following Early Horizon.
+
+Thus, by 2000 Bc, the northern Andes had developed large agricultural polities 
+with populations of over 1,000 people (Burger 1992:71-72). Many chambers at La 
+Galgada were now converted into tombs, and the well-preserved burials indicate that 
+about half of the population lived to over 40, and only 17.5 percent died younger 
+than 4 years old - not a bad record for a society at this stage of cultural development. 
+Initial Period sites extend down into the Maranon Basin in the east, giving access to 
+the Amazonian rain forests. But it is interesting that we now witness an appearance 
+of inter-polity warfare, graphically represented by the figures of warriors and mutilated captives carved on the blocks facing a stone platform at the coastal site of Cerro 
+Sechin. Demographic pressures were surely building.
+
+During the Early Horizon (900 to 200 ac), maize production increased rapidly in 
+Peru; Ricardo Sevilla (1994) indicates that average cob lengths almost doubled between 
+500 Bc and AD 1. Richard Burger and Nikolaas van der Merwe (1990) note, from stable 
+carbon isotope analysis on human bone, that maize was still not a food staple comparable to native domesticates such as potato and quinoa, and perhaps served mainly 
+as the source for corn beer, chicha. Even so, the early part of the Early Horizon was 
+clearly a time of considerable social stress. Michael Moseley (1994) comments on 
+widespread site abandonment along the Peruvian coast at around 800 BC, and raises 
+the possibility of a cause connected with environmental degradation. Shelia and 
+Thomas Pozorski (1987) also point to the possibility of invasion around the end of 
+the Initial Period in parts of northern Peru, leading to some degree of population 
+replacement via warfare. This is not the place to enter into detail about these developments, but their aftermath was the Early Horizon spread of the Chavin artistic and 
+cult horizon over a vast area of northern and central Peru.
+
+The site of Chavin itself perpetuated the U-shaped form of earlier periods in its 
+Old Temple plan, but it also was clearly involved in some way in the formation of a 
+new and remarkably complex art style which spread around 500 Be so quickly, over 
+an area almost 1,000 kilometers long (Figure 8.4), that Peru became virtually a "religious archipelago" in Richard Burger's terms (1992:203). Communities became locked 
+together by a powerful cult with a very standardized iconography, involving both 
+human and feline symbolism. Chavin, of course, long postdates the origins of agriculture in the Andes, but it forms part of a long cycle of fluctuation in Peru from periods 
+of widespread cultural homogeneity, through periods of increasing regionalism, and 
+then back again (Burger 1992:228).
+
+If we stand back and examine the major developments in the early agricultural 
+sequence in the Andes, we see the following trends:
+
+1. Once agriculture was present, developments were rapid in terms of population 
+growth and expansion of the repertoire of domesticated products. A widespread 
+sharing of style and iconography becomes apparent, especially in northern Peru. 
+Varied populations doubtless took part in these developments, but within a 
+network of communication that involved some degree of stylistic and perhaps 
+also linguistic commonality right from the start.
+
+2. The semi-arid environments concerned were always fragile and easily subjected 
+to overexploitation. By 1000 BC, after a millennium of population growth during the 
+Initial Period, warfare and site abandonment suggest that some degree of social 
+and environmental collapse might have occurred, especially along the Pacific coast.
+
+3. Following this, there appears to have been a reformulation of the whole system 
+in terms of a region-wide Chavin horizon of cult, art, and exchange.
+
+The whole Peruvian sequence so far perhaps replicates something of the sequence 
+we see in the Levant, from early farming, through the late PPNB/PPNC decline, into 
+the expansive early ceramic cultures of southeastern Europe and northern Mesopotamia. If my observations are not misplaced, then we need to ask just how coherently 
+related were these Chavin populations, and indeed their immediate predecessors 
+extending back into the Late Preceramic, in terms of language and shared aspects of 
+cultural origin. The overall regional coherence of material culture suggests that levels 
+of relationship in this regard would have been fairly high, more so perhaps than 2,000 
+years later, during the period of the Inca Empire, when we know that Peru contained 
+some quite deep ethnolinguistic diversity. This increasing diversity over time, following 
+on from the period of early agriculture, is beginning to follow a familiar trend, and 
+we return to these issues from a linguistic perspective in chapter 10.
+
+First Farmers: The Origins of Agricultural Societies by Peter Bellwood
+    
+    
+    
+    
+    
+  
+
+  
+
+Amazonia
+
+The Amazonian archaeological record is less detailed than that for the Andes. The 
+expansion of agriculture through Amazonia and the Orinoco basin could have involved 
+an indigenous domestication of manioc, but this is not certain and the oldest pottery from Taperinha in Brazil (Figure 8.3) appears to be associated with a hunter-gatherer 
+population. According to Betty Meggers (1987; Meggers and Evans 1983), three main 
+styles of pottery spread through Amazonia from the northwest, starting at about 
+2000 BC. She refers to these as, first, the "zoned hachure tradition," with oldest occurrences in Valdivia in Ecuador, Puerto Hormiga in Colombia, Initial Period Peru, and 
+the site of Tutishcainyo in the upper Ucayali Valley of eastern Peru (Figure 8.4); 
+second, the "polychrome tradition," which spread along the varzea alluvial bottomlands 
+after 1,800 years ago, possibly from northwest Venezuela; and third, the relatively 
+recent "incised and punctate tradition," which spread from the Orinoco Basin after 
+1,200 years ago.
+
+The preference of Meggers is clearly for a downstream movement of agriculturalists and pottery traditions through Amazonia, commencing from homelands in the 
+northwestern part of the continent, especially Colombia and the northern Andes. A 
+related view was also favored by Julian Steward (1947), but with a greater emphasis 
+on the Caribbean coastal regions of Venezuela and the Guianas. To the contrary, 
+Donald Lathrap favored the central Amazon Basin itself as the source region for all 
+Mesoamerican and South American early agricultural societies. No strong position 
+is taken on this issue here, but the possibility that agricultural populations entered 
+Amazonia via the upper courses of tributary rivers from the west and northwest 
+carries conviction when examined from the viewpoint of some of the linguistic evidence (Figure 10.10), as well as the likely homeland of manioc (Olsen and Schaal 
+1999). The Initial Period of Peru, at least with respect to the zoned hachure pottery 
+tradition of sites such as Kotosh (Waira-jirca phase) and Tutishcainyo, must surely be 
+considered a potential origin for some of the early lowland pottery-using societies.
+
+Concerning early Amazonian agricultural subsistence, Anna Roosevelt (1980) has 
+documented a presence of maize in the Middle Orinoco valley by about 800 Bc, 
+preceded perhaps by manioc cultivation. But maize agriculture in general appears to 
+have been rather non-intensive in Amazonia until about AD 1000 (Roosevelt 1999b). 
+The expansions of agriculture and pottery into the West Indies appear to have taken 
+place only during the later first millennium BC (Rouse 1992; Keegan 1994; Callaghan 
+2001). Evidence for early agriculture in Amazonia, if real, remains elusive.
+
+First Farmers: The Origins of Agricultural Societies by Peter Bellwood
+    
+    
+    
+    
+    
+  
+
+  
+
+Middle America (with Mesoamerica)
+
+The Middle American sequence of early settlements and agriculture differs a little from 
+that in the Andes, in that there is no clear-cut Preceramic phase of both sedentary 
+agricultural settlements and monument construction, comparable for instance to sites 
+such as El Paraiso and La Galgada. The specifically Mesoamerican Early Formative 
+sequence nowhere dates convincingly before 2000 BC, and the first large monuments 
+equivalent to those of the Late Preceramic and Initial Periods in Peru were under 
+construction in the Gulf Lowlands of Mexico only by 1000 BC. By this time an area of 
+about 11,000 square kilometers, extending right across Mesoamerica from western 
+Mexico to Honduras, was coming within the orbit of the Olmec interaction network (Middle Formative), a near-contemporary and very similar phenomenon in a structural 
+sense to the Chavin horizon in Peru.
+
+Examples of Early Formative communities in Mesoamerica dating from about 1800 / 
+1600 Bc and onward are widespread (Figure 8.6). El Arbolillo, Tlatilco, and Coapexco 
+are located in the Valley of Mexico, the latter with a population of possibly 1,000 
+people (Santley and Pool 1993; Tolstoy 1989; Grove 2000). In the Valley of Oaxaca, 
+settlements between one and three hectares in size with rectangular pole and thatch 
+houses, bell-shaped storage pits, pottery, and human figurines made their appearance 
+during the Espiridion Phase, at about 1700 BC. The Barra, Locona, and Ocos phases of 
+the Soconusco region of Chiapas, between 1800 and 1200 BC, record similar developments. During Locona times, a ceremonial center consisting of oval earthen platforms 
+up to 2.5 meters high was constructed at Paso de la Amada (Lesure 1997).
+
+Further east, pottery appears by 1500 Bc in the Chalchuapa region of El Salvador, 
+and at this time there is also a possibility of ceramic relationships between Pacific 
+coastal Mesoamerica and contemporary cultures in Ecuador. Closely related Barahona 
+phase pottery at Puerto Escondido, near the Caribbean coast of Honduras, dates 
+from 1600-1400 BC, and pottery with rocker-stamped decoration and maize agriculture 
+is attested at Tronadora Vieja in inland Costa Rica by soon after 2000 BC, again with 
+possible cultural linkages with Chiapas (Joyce and Henderson 2001; Sharer 1978; 
+Sheets 1984, 2000; Hoopes 1991, 1993).
+
+All of this implies a very solid development of agricultural life with very similar 
+painted, incised, and stamped pottery styles in most parts of Mesoamerica by at least 
+1500 BC, associated with rapid population growth and an increasing interest in the 
+construction of ceremonial centers with their implications for the rise of power, 
+authority, and increasing warfare (Flannery and Marcus 2003). A settlement study of Early Formative sites over an area of about 600 square kilometers in the Valley of 
+Guatemala postulates a doubling of population density every 250-300 years at this 
+time, all underpinned by maize agriculture. The authors of this study (Sanders and 
+Murdy 1982:58) refer to "rapid population growth, fissioning of settlement, and lateral expansion of population that is characteristic of a pioneer-farming population 
+with ... an extensive approach to land use." Joyce Marcus and Kent Flannery (1996:84) 
+estimate a fivefold or tenfold increase in Early Formative population in the Valley of 
+Oaxaca, where by 1200 sc the large settlement of San Jose Mogote covered about 
+20 hectares, with outlying hamlets spreading over an area of about 70 hectares. 
+Skeletal analyses also indicate continuing levels of good health amongst these early 
+Oaxacan cultivators (Flannery ed. 1976; Whalen 1981; Hodges 1989; Flannery and 
+Marcus 1983, 2000; Christensen 1998).
+
+Figure 8.6 Mesoamerican archaeological sites discussed in the text. The map shows the 
+extent of the Olmec Horizon, and the distributions of the Early Formative red-on-buff and 
+Locona pottery traditions, ca. 1600-1000 ac, after Clark 1991.
+
+In terms of regional style zones, John Clark (1991) proposes the existence of two 
+separate interaction spheres in Mesoamerica during the Early Formative, ca. 1500 BC. 
+One incorporates a large region of central Mexico, from the Gulf of Mexico across 
+to the Pacific coast, and has characteristic red-on-buff pottery. The other, termed 
+the Locona style zone, with fluted, incised, and bichrome tecomates, incorporates 
+the Isthmus of Tehuantepec and the southern portions of Chiapas and Guatemala 
+(Figure 8.6). Kent Flannery and Joyce Marcus (2000) have recently commented that 
+the boundary between these two zones equates quite closely with the distributions of 
+the Otomanguean language family to the west and the Mixe-Zoque and Mayan 
+families to the east, a topic to be discussed further in chapter 10. The first zone has 
+uncertain western boundaries, but the second extends as far as the eastern boundary 
+of Mesoamerica, located at 1000 BC in Honduras and El Salvador (Sheets 2000:418) 
+and correlating well with the eastern boundary of the Mayan languages.
+
+The culmination of these widening horizons of agricultural spread and interaction 
+in Mesoamerica was the remarkable Middle Formative interaction sphere known as 
+the Olmec horizon (ca. 1200 to 500 Bc) (Clark and Pye 2000). Opinions concerning 
+the topic of "Olmec origins" have been very varied, with some favoring the Gulf 
+Coast region, others Chiapas and Guatemala (Bernal 1969; Coe 1989; Lowe 1989; 
+Graham 1989). To my mind, it is quite possible that the Olmec complex, as also 
+Chavin, had no specific origin locus at all (Flannery and Marcus 2000). Instead of 
+being a result of conquest or proselytization, perhaps like Chavin it represented a 
+reemphasis of existing lines of shared ancestry and identity amongst populations 
+already ethnolinguistically related.
+
+Artifacts and rock carvings classified as Olmec occur throughout a very large area 
+of Mesoamerica; Gulf Coast, Valley of Mexico, Guerrero, Puebla, Morelos, Oaxaca, 
+Chiapas, Guatemala, and onward into El Salvador and Honduras. But rather interestingly, from an ethnolinguistic perspective, the Olmec distribution excludes the Maya 
+lowlands (Hammond 2000). David Grove (1989) notes that most Olmec artifacts 
+were produced locally rather than traded, and, as with Chavin in Peru, they occur 
+through all social levels, rather than just in association with an elite (Pye and Demarest 
+1991). Typical features of Olmec pottery include a dish on a perforated ring stand, 
+gourd-shaped bottles, neckless globular vessels (tecomates, like contemporary forms in Peru), flat-based plates, and surface decoration emphasizing infilled incision ("zoned 
+hachure") and grooving. The ceremonial centers of the Gulf lowlands, such as La 
+Venta, now depended upon maize for their subsistence, probably grown on riverine 
+levees (Rust and Leyden 1994; Pope et al. 2001). Obsidian was traded widely from 
+sources in central Mexico, Puebla, and Guatemala.
+
+Most authors today regard the Olmec phenomenon as something imposed through 
+increased interaction between far-flung communities. Perhaps it was, but it is suggested here that such interaction, as with Chavin in Peru, brought together peoples 
+who were already related in much deeper ethnolinguistic senses by virtue of earlier 
+population radiations, following on from the establishment of systematic agriculture. 
+As far as Mesoamerica is concerned, this suggestion is not really new.
+
+In 1969, James A. Ford's massive work on the American Formative was published 
+posthumously. It is a book which today usually rates only a brief dismissal, partly 
+because Ford was under the assumption that all the American early pottery industries spread from a source close to Valdivia in Ecuador. Today, this assumption 
+can probably be rejected (Hoopes 1994). But there was much more to Ford 1969 
+than this, because for the first time an enormous effort was made to plot some very 
+specific material cultural similarities across the Formative Americas, from Peru to the 
+Eastern Woodlands, focusing on specific categories such as mound construction, 
+blade technologies, barkcloth beaters, grooved axes, manos and metates, stone beads, 
+ear spools and plugs, anthropomorphic pottery figurines, cylinder and button seals, 
+tobacco pipes, and a large array of pottery vessel and decoration types (e.g., tecomates, 
+carinated pots, ring feet and tripods, stirrup spouts, red slip and zoned red slip, zoned 
+hachuring, and excising). Close relationships across a vast area between about 1500 
+and 500 ac were displayed in 22 magnificent charts.
+
+Ford asked one very significant question as the subtitle to his book. Did the resemblances point toward "diffusion or the psychic unity of man?" Ford chose diffusion, 
+following such earlier scholars as Spinden and Kroeber. We are here only concerned 
+with those traits that spread "subsequent to the Colonial Formative" in Ford's terms 
+(Ford 1969:148), dating in terms of current chronology between 2500 and 1000 BC. 
+For these he stressed a pattern of early homogeneity, followed by increasing heterogeneity through time as cultures differentiated. We know today that this period, 
+essentially the Early Formative in Mesoamerican terms, Late Preceramic and Initial 
+Periods in Peruvian terms, was a period of remarkable, indeed unique, cultural and 
+linguistic expansion in the Americas, paralleled only by the initial Paleoindian colonization of the two continents ten thousand years before, and by the expansion of 
+European cultures three thousand years afterward.
+
+First Farmers: The Origins of Agricultural Societies by Peter Bellwood
+    
+    
+    
+    
+    
+  
+
+  
+
+The Southwest
+
+The southwestern USA, comprising the states of Nevada, Utah, Arizona, western 
+Colorado, and western New Mexico, was not a locus of independent agricultural 
+development. But it was one of the most important areas in North America for the development of agricultural societies, the record of these being most clearly enshrined 
+in the great Anasazi, Mogollon, and Hohokam pueblo ruins of the early second millennium AD (Figure 8.7). Living descendants of these ancient agriculturalists include the 
+extant pueblo-dwelling Hopi, Zuni, and Rio Grande peoples of parts of northern 
+Arizona and New Mexico.
+
+The Southwest, however, has served not only as an environmental backdrop for 
+the development of pueblo societies with stone or adobe architecture. For instance, the ethnographic Tarahumara of Sonora and Chihuahua in northwestern Mexico did 
+not build pueblos, and were fairly mobile in settlement terms (Hard and Merrill 1992; 
+Graham 1994). The Great Basin of Nevada and Utah and the northern regions of the 
+Colorado Plateau housed mobile hunter-gatherer populations. So did much of the 
+former Anasazi region of the southern Colorado Plateau, as a result of the southward 
+migration of the Athabaskan-speaking Navajo and Apache. This hunter-gatherer migration occurred after AD 1400 (Matson 2003), doubtless assisted by the abandonment of 
+most of the former pueblo settlements by that time.
+
+Figure 8.7 Map of the US Southwest showing early sites with maize older than 1000 BC 
+(filled squares), and the approximate boundaries of the subsequent Hohokam, Mogollon, 
+Anasazi, Patayan, and Fremont cultural regions. Data from Coe et al. 1989; Mabry 1998; 
+Archaeology Southwest 13, No. 1, pp. 8-9, 1999.
+
+The southwestern USA, in terms of its agricultural prehistory since about 2000 BC, 
+can be seen as a northerly continuation of Mesoamerica. Indeed, Paul Kirchhoff 
+(1954) used the concept of the "Greater Southwest" to include Mexico north of the 
+Tropic of Cancer. It is a region of semi-desert, steppe, and high altitude forest, interspersed with bands of fertile riverine alluvium. Irrigation was essential in most regions 
+apart from those at very high altitude, and agriculture was limited to the summer 
+months by winter frosts and snow in many upland regions. The major crops in late 
+prehistory were of Mesoamerican origin - especially maize, squash, beans, and cotton 
+- and reached their greatest geographical extent a little before AD 1300, extending to 
+as far north as the Fremont culture of Utah. Also of Mesoamerican origin was the 
+practice of soaking maize in lime water before cooking, and the making of maize 
+flour tortillas.
+
+Since AD 1300, Amerindian agriculture in the Southwest has contracted drastically, 
+some say due to drought and climate change, others to that frequent combination of 
+too many people, overly intensive agriculture, and too fragile an environment. My 
+sympathies are toward the latter explanation, perhaps a combination of both, but this 
+is not a topic to delay us here since we are more concerned with the beginning of 
+agriculture than the end (except insofar as the Fremont culture and the Great Basin 
+are concerned, to both of which we will return in chapter 10 in connection with the 
+origins of the Numic-speaking peoples).
+
+The Southwest has an immensely detailed archaeological record, albeit one still 
+with major gaps in the early agricultural period prior to 400 BC. These gaps are currently 
+being filled, but the lack of evidence until recently for an agricultural lifestyle from 
+the early period between 2000 and 400 BC, beyond sporadic finds of maize, is surely 
+one reason why southwestern archaeologists, with rare exceptions, have in the past 
+held almost universally to the idea that resident late Archaic foragers everywhere 
+adopted maize cultivation to increase economic security and obviate risk (Ford 1985; 
+Wills 1988; Jennings 1989; Minnis 1992; Upham 1994; papers in Roth ed. 1996; Plog 
+1997; Cordell 1997). This offers essentially a no-moves explanation favoring cultural 
+continuity within the Southwest, from the Archaic to the period of Pueblo decline. 
+Late Archaic hunter-gatherer populations are claimed to have remained essentially 
+mobile with only subsidiary cultivation throughout the final millennium ac, until 
+they began to settle down in settlements of "Basketmaker II" pit houses with irrigation 
+farming after about 400 BC.
+
+However, the idea that the agricultural transition in the Southwest was no more 
+than a long episode of hunter-gatherer adoption in situ has always had some detractors, some more strongly opinionated than others. For instance, according to Spencer and 
+Jennings (1977:253): "we can only agree that the first Hohokam were no doubt a 
+group of transplanted Mexican Indians establishing a northern outpost with a technology appropriate for subduing the desert wastes of the Gila and Salt Valleys, where 
+Phoenix, Arizona, now stands." It is perhaps only fair to state that Jesse Jennings (1989) 
+later changed his mind, returning to the prevailing scenario of non-movement. But 
+another founder-figure in Southwestern archaeology, Emil Haury (1986), favored an 
+introduction of maize and pottery into southern Arizona by population movement 
+from Mexico at about 300 BC. Haury, however, like most other southwestern archaeologists, always believed that agriculture was spread by hunter-gatherer adoption 
+into the higher altitude Mogollon and Anasazi regions, and it must be stated here 
+that current research still supports such an explanation (Matson 2003).
+
+One researcher to realize the significance of the period of farming introduction 
+prior to Basketmaker II was Michael Berry (1985:304):
+
+the introduction of maize farming was accomplished through sociocultural intrusion 
+rather than through diffusion of agriculture to hunter-gatherer populations ... there is 
+no reason to expect that a successfully adapted hunting and gathering culture would 
+voluntarily adopt a practice that imposes so many constraints on mobility and whose 
+seasonal maintenance and harvest requirements conflict with the seasonality of so many 
+productive wild resources ... The gradualist model ... errs in failing to acknowledge 
+the all-or-nothing nature of maize agriculture. It is impossible to sustain a plant that is 
+not self-propagating for any length of time without a total commitment to its planting, 
+maintenance and harvesting on a year to year basis ... everything seems to point to 
+colonization by small groups of farmers whose cultural ties are ultimately (though 
+probably not directly) traceable to Mesoamerica.
+
+In perhaps the most wide-ranging review of early southwestern agriculture published 
+to date, R. G. Matson (1991) was obliged to take an "on the fence" position on the 
+immigration versus indigenous-adoption issue, perhaps rightly so at that time. He 
+was able to note, however, without taking sides, that maize dependency, pit house 
+settlements, and a new type of side-notched projectile point called the San Pedro 
+Point had appeared in southern Arizona and on the Colorado Plateau by 1000 BC. 
+New discoveries in southern Arizona relate directly to this phase and have completely 
+revolutionized earlier views.
+
+First Farmers: The Origins of Agricultural Societies by Peter Bellwood
+    
+    
+    
+    
+    
+  
+
+  
+
+Thank the Lord for the freeway (and the pipeline)
+
+Without rescue archaeology, a major period of North American archaeology would 
+still be shrouded in semi-darkness, as would the beginnings of agriculture in Taiwan 
+(see chapter 7). For many years it has been apparent that maize was eaten widely in 
+the Southwest prior to 1000 Bc (Figure 8.7), being particularly well represented in the 
+form of cobs placed in caches inside caves. Some of these sites have a definite Archaic 
+hunter-gatherer "feel," hence the long uncertainty about what all this cave-focused 
+early maize really signified (Simmons 1986; Matson 1991).
+
+During the 1990s, rescue excavations in alluvial and river terrace locations along 
+tributaries of the Gila River in southern Arizona changed everything. At Milagro in 
+the Tucson Basin, excavations on the route of a sewer pipeline in 1993 produced 
+a settlement of oval pithouses, bell-shaped underground storage pits, fired-clay 
+figurines, projectile points, and maize cobs, the latter directly radiocarbon dated to 
+1200-1000 Be. Some of the pits were calculated to be big enough to hold enough 
+corn to support a family of four, eating only maize, for four months. Pottery in this 
+site only appeared in upper levels, dating to about AD 100 (Huckell et al. 1995). The 
+Milagro findings were a major factor in switching opinion away from a favored 
+highland spread of maize from Mexico into the Southwest, toward a lowland riverine 
+spread.
+
+Already, many other pithouse finds had indicated a major role for maize back to at 
+least 800 BC in the Tucson region. The growing idea that the spread of maize was 
+rapid and large-scale was given support by the discovery of a four-hectare settlement 
+at Cerro Juanaquena in northern Chihuahua, where maize was again AMS dated to 
+between 1500 and 1000 BC, possibly grown on about 8 km of linear stone-faced 
+terraces associated with the site (although the terraces themselves were also, perhaps 
+primarily, intended for housing and defense against atlatl warfare).5 Robert Hard 
+and John Roney (1998, 1999) note that maize was not necessarily a staple here; the 
+inhabitants also grew chenopods and amaranth grasses and continued hunting and 
+gathering. However, at the contemporary site of La Playa in Sonora, excavators note 
+that maize was "ubiquitous" and enjoyed by a population in "relatively good health" 
+(Carpenter et al. 1999).
+
+Perhaps the most important discoveries have been made during freeway construction in the basin of the Santa Cruz River, a tributary of the Gila, to the north of 
+Tucson. At a site called Santa Cruz Bend, a large area of 1.2 hectares was stripped of 
+overburden, revealing 730 features, mostly house floors (total of 183) and storage 
+pits, dating to the San Pedro (1200-800 BC), Cienega (800 BC-AD 150), and Agua 
+Caliente phases (AD 150-550) (Mabry 1998). It is possible that only 15 percent of 
+whole site was uncovered, giving some idea of the sheer size of this early farmer 
+village (7-8 hectares). The house floors are all circular with post walls, one being a 
+massive 8.5 meters in diameter and probably a communal structure of some kind. 
+Remains of maize, squash, tobacco, and cotton indicate the agricultural nature of the 
+economy; there was also a decrease of large hunted animals over time, suggesting 
+increasing pressure on the environment owing to population growth. Pottery of 
+crude form appeared in the Santa Cruz Bend site during the Cienega phase, later 
+developing in the Agua Caliente phase into the polished form of tecomate which also 
+characterized contemporary pottery all over northern Mexico. Interestingly, the oldest pottery at Santa Cruz Bend does not appear to have been used for cooking, and 
+might have been used for storage.
+
+The most recent and most dramatic results come from Las Capas, another freeway rescue site in the Santa Cruz valley, excavated also by Jonathan Mabry (Muro 
+1998-9; Mabry 1999). This site has a fully fledged settlement of the San Pedro phase 
+dating from at least 1200 BC (Figure 8.8), associated with circular house floors, irrigation canals, and the usual bell-shaped storage pits (also fairly universal in the Mesoamerican 
+Early Formative at about the same time). In Las Capas, pottery made its appearance 
+at about 900 BC. Also characteristic are the side-notched San Pedro points, perhaps 
+used to tip atlatl darts, which seem to represent a break from earlier local Archaic 
+types. The oldest Las Capas maize is dated to 1500 BC, and to 1700 Bc at another site 
+called Los Pozos (Stevens 1999).
+
+First Farmers: The Origins of Agricultural Societies by Peter Bellwood
+    
+    
+    
+    
+    
+  
+
+  
+
+Immigrant Mesoamerican farmers in the Southwest?
+
+One important observation made during the research at Santa Cruz Bend was that 
+the rate of alluvial deposition in the vicinity of the site underwent a marked increase 
+at about 1700 BC. Bruce Huckell (1998:64) attributes this increase to climatic factors 
+and notes that roughly synchronous changes occurred in other valleys in the general 
+region. But one must ask here, given the known aggradational effects of human 
+vegetation clearance for early agricultural purposes in other parts of the world, if the 
+first farmers were not also responsible to some degree. If so, an arrival of maize 
+agriculture in the Southwest by soon after 2000 BC seems likely, and indeed is strongly 
+suggested by recent radiocarbon dates.
+
+In a recent conference paper, John Carpenter, Jonathan Mabry, and Sanchez de 
+Carpenter (2002) point to a spread of maize from Mesoamerica into the Tucson Basin 
+by at least 2000 BC, in association with Cortaro and Gypsum projectile points. These 
+are forms that also occur in Mesoamerica, for instance in Coxcatlan Cave in the Tehuacan Valley and Tlatilco in the Valley of Mexico. They may thus be good 
+evidence for a population movement behind the initial spread of maize farming into 
+Arizona. However, just as I finished writing this chapter I received an e-mail from 
+Jonathan Mabry telling me that maize and pottery have also been found in the 
+Tucson region with a point type called Armijo, which seems to be indigenous to 
+Arizona. This suggests that maize cultivation could have spread very early amongst 
+Archaic hunter-gatherers as well.
+
+Figure 8.8 A reconstruction of the Las Capas site through time, showing houses, 
+irrigation canals, and bell-shaped pits for maize storage. Credit: Michael A. Hampshire 
+(reproduced with permission from the artist).
+
+My own assumption here is that agricultural introduction occurred with population movement from Mexico, an assumption supported by new interpretations of the 
+history of the Uto-Aztecan language family, to which we return in chapter 10. But 
+we need to ask if this explanation applies to the whole of the Southwest, or if some 
+former hunters might not also have adopted agriculture from the farmers. Many sites 
+with maize, but with hints of the kind of mobility characteristic of hunter-gatherers, 
+occur widely throughout the region, especially in relatively marginal areas away 
+from the major alluvial zones (Whalen 1994; Roth 1996; Gilman 1997). The most 
+recent statement on this issue, by R. G. Matson (2003), accepts a core spread of maize 
+cultivation into Arizona as a result of a movement of agriculturalists from northern 
+Mexico. He raises the possibility that the movement was very rapid, requiring perhaps 
+only 500 years for maize to travel from the Balsas Basin of Guerrero in western Mexico 
+to Arizona.
+
+But Matson also considers other evidence from Basketmaker II sites in the higher 
+altitude eastern (Mogollon) regions of the Colorado Plateau, these being techniques 
+of basketry and sandal manufacture (such items are often found in dry caves), 
+paleoanthropological data, and modem pueblo languages (some being non-Uto- 
+Aztecan). From this evidence he suggests that there was indigenous adoption of 
+agriculture by Archaic hunter-gatherers in this region. A similar viewpoint is taken 
+by Steven LeBlanc (2003). The overall conclusion for the Southwest from the 
+archaeological evidence is therefore that maize agriculture was introduced from 
+Mexico, by 2000 Bc and most probably by lowland population movement, albeit with 
+varying degrees of adoption by indigenous hunter-gatherer populations, living at 
+higher altitudes.
+
+First Farmers: The Origins of Agricultural Societies by Peter Bellwood
+    
+    
+    
+    
+    
+  
+
+  
+
+Independent Agricultural Origins in the Eastern Woodlands
+
+As in the Southwest, the archaeology of early agriculture in the eastern part of the 
+USA has recently undergone a paradigm shift as a result of the demonstration that 
+a local domestication of annual seed-bearing plants was under way in the Ohio, 
+Cumberland, Tennessee, and middle Mississippi river basins by 2000 BC or before. 
+Although this observation was presaged as early as 1936, most American archaeologists until recently still considered the mound-building Early and Middle Woodland 
+cultures of this region (1000 Be to AD 500) to be essentially hunter-gatherer, prior to 
+the widespread adoption of maize agriculture in the mid- to late first millennium AD. 
+Actual maize remains in the eastern USA so far date back only to about 200 Be, at the Holding site in Illinois, after being introduced possibly across the Caribbean 
+(Riley et al. 1991; Riley et al. 1994). Maize apparently did not reach New England 
+until about AD 650 (Hart et al. 2003).
+
+Yet even with the new knowledge there are still some puzzling aspects. For one 
+thing, the pre-maize native domesticates were apparently absent in large regions of 
+the southern and eastern coastal regions of the USA, being concentrated in the central 
+interior of the Eastern Woodlands, north of about 34 degrees latitude (see the circled 
+area in Figure 10.13). Paradoxically, some of the large mounded ceremonial sites 
+which lie outside the early domestication zone, such as Poverty Point in Louisiana, 
+show few signs of agricultural production, even though their sizes would suggest on 
+comparative grounds that some form of food production was present. Furthermore, 
+agriculture shows few signs of being very significant anywhere before about 500 BC, 
+suggesting that in the Woodlands, as perhaps in northern South America, hunters 
+and gatherers initially toyed with domesticated plants on the edges of fairly rich nonfarming economies, as hedges against periods of scarcity. Overall, the Woodlands 
+trajectory toward agriculture has a gentle and gradual feel which perhaps aligns it 
+with that of other forested regions such as the New Guinea Highlands and Amazonia, 
+contrary to the more frenetic pattern of change which we have witnessed in the 
+Middle East, China, Mesoamerica/Southwest, and the Andes.
+
+Let us look first of all at the crops themselves.' As in Mesoamerica, it is highly 
+likely that non-food indigenous plants were domesticated first, in this case squash 
+(Cucurbita pepo) and gourds, the latter used for containers. Their eventual domestication was due, no doubt, to continuous human selection and planting of seeds around 
+camps. Annual food plants were domesticated as well, including starchy-seeded 
+Chenopodium berlandieri (goosefoot, so called because of its leaf shape), and the oilyseeded species Helianthus annuus (sunflower) and Iva annua (sumpweed or marsh 
+elder). These plants are recognizable as domesticated because of their increasing seed 
+sizes and/or thinner seed coats (Figure 8.9). All are native to the Woodlands, except 
+possibly for the sunflower, which could be of Mexican or Southwestern origin. Some 
+other starchy-seeded annuals such as maygrass, little barley, and knotweed also occur 
+in large quantities in some sites, but do not in themselves reveal clear domesticated 
+characteristics. Apart from squashes and sunflower, none of the above food plants 
+continue in cultivation today.
+
+Of these crops, the chenopods appears to have been the most important; Gayle 
+Fritz (1993) mentions a cache of nine million goosefoot seeds buried in a pit during 
+the early first millennium AD in the floor of Ash Cave in Ohio. Knotweed and little 
+barley apparently did not become common until about 2,000 years ago, by which 
+time maize was also making its initial appearance. The common bean Phaseolis vulgaris, 
+like maize of Mesoamerican origin, did not spread into the Eastern Woodlands until 
+about AD 1000.
+
+One of the main proponents of the view that these domesticated plants supported 
+a truly agricultural economy, rather than just being an adjunct to hunting and gathering, has been Bruce Smith (1987, 1992a, 1992b, 1995). He suggests that a "floodplain 
+weed" domestication process occurred in anthropogenically disturbed alluvial terrain along the major rivers, in circumstances of increased mid-Holocene alluvial deposition. Such increased deposition often attracts a climatic explanation but, in view of 
+comments made above about the Tucson Basin, one could perhaps also justify an inpart anthropogenic origin through vegetation clearance. In other words, the increased 
+alluvial deposition could perhaps have been promoted by the transition to field planting on cleared land.
+
+How important in the diet were these native Woodland domesticates? The plants 
+concerned are described by Smith (1992b:208) as having "impressive nutritional 
+profiles and substantial potential harvest yield values." Richard A. Yarnell (1993:17, 
+1994) estimates, from a number of cave flotation and paleofeces samples, that a 
+possible dietary intake from plants during the period 650-250 BC in Kentucky could 
+have consisted of 40 percent oily seeds (such as sunflower, sumpweed, and squash), 
+36 percent starchy seeds (chenopods, maygrass, amaranth), 20 percent nuts, and 
+rare greens and fruits. This listing suggests that at least 75 percent of plant food 
+dietary intake came from domesticated garden products. Obviously, regional variation would have spread such percentages for individual crops widely, as shown 
+by Bruce Smith, who indicates chenopods dominating in eastern Tennessee but 
+apparently playing only a minor role in west-central Illinois. Smith (1992b: 200) 
+also suggests that a field 70 by 70 meters, planted with marsh elder and goosefoot, 
+could have provided half the caloric requirements for a ten-person household for 
+six months.
+
+Thus, by the second millennium BC, communities in the central part of the Eastern 
+Woodlands were depending increasingly on plant domestication. By AD 1, early in the 
+Hopewell phase of the Middle Woodland Period, pre-maize systems of agriculture were present through Illinois, Tennessee, Kentucky, and Ohio, extending across the 
+Mississippi into Missouri and Kansas (Adair 1988; O'Brien and Wood 1998). By this 
+time there is ample archaeological evidence for a pattern of small settlements of 
+circular huts, mostly under 2 hectares in size, located along the edges of floodplains 
+and interspersed with burial mounds and "ceremonial centers" (Smith 1992b).
+
+Figure 8.9 Trajectories for the domestication of sunflower, sumpweed, squash, 
+and goosefoot in the Eastern Woodlands. From Smith 1992b. In a recent personal 
+communication (2003), Bruce Smith has informed me that current commencement dates 
+for domestication, in terms of the baselines shown here, fall close to 3000 BC for squash 
+and 2000 BC for sunflower.
+
+Unlike Mexico, Peru, the Middle East, or China, there is here no ebullient trend 
+toward settlement concentration, at least not until a millennium later during the 
+maize-based Mississippian complex after AD 1000. But some of the Early and Middle 
+Woodland mound complexes are of course of great size; Adena burial mounds of the 
+first millennium BC in Ohio can be up to 20 meters high, constructed over circular 
+posthole structures and supplied with central log-lined burial pits. Such mounds are 
+sometimes associated with complex embanked enclosures enclosing up to 10 hectares (Brose et al. 1985; Webb and Snow 1988; Mainfort and Sullivan 1998). Even 
+more impressive mound and bank constructions, including animal-shaped mounds, 
+together with widespread trading networks enmeshing much of the eastern USA, are 
+characteristic of the following Hopewell phase of the first millennium AD (Figure 10.13) 
+(Brown 1994).
+
+The Early and Middle Woodland periods were also a time of population increase 
+in terms of skeletal data and fertility estimates, an increase continuing onward into 
+the Late Woodland and Mississippian periods (Buikstra et al. 1986). Numerous questions 
+arise, however, with respect to this early agricultural complex. How does pottery 
+technology relate to the Woodland picture? What was the economic status of the 
+people in those very extensive regions around the edges of the confirmed agricultural 
+zone, some also builders of impressive mounds, for whom there appears to be no 
+evidence for farming activity? How did the people who created the Woodland 
+agricultural sites relate to their Archaic predecessors? Was there any population 
+reassortment or replacement across the transition? In many ways, the record in this 
+region is much harder to read coherently than those in central Mesoamerica or 
+northern Peru. This may reflect factors of preservation, but it may also reflect the 
+possibility that the Eastern Woodlands were always much more a region of balance 
+between farming and foraging than were the regions of burgeoning complex civilization. The farming picture seems to be diffuse and muted right down to the period of 
+maize dominance after AD 900.
+
+As far as pottery is concerned, the early fiber-tempered pottery of the southeastern 
+USA, with its possible South American parallels (discussed above), has not yet been 
+found in agricultural contexts. This pottery dates back to perhaps 2500 BC in Georgia 
+and northern Florida and seems everywhere to precede any significant agricultural 
+presence (Peterson 1980; Adair 1988; Walthall 1990; Milanich 1996). Between 1200 
+and 600 BC, varieties of paddle-impressed, stamped, and incised pottery, mostly with 
+non-fiber tempers, appeared widely to the east of the Mississippi, extending right up 
+to New York State (Jenkins et al. 1986). Whether or not this Early Woodland pottery 
+was derived indigenously from the earlier fiber-tempered wares, or whether there 
+was some input of technique and style from Mesoamerica, as claimed by Ford (1969) 
+and Webb and Snow (1988), is an intriguing question. It is not possible linguistically to have a major migration from Mesoamerica as recent in time as 1000 Be covering most 
+of the eastern USA and replacing earlier languages - on these grounds alone, the Early 
+Woodland peoples must surely be mainly the descendants of Archaic forebears.
+
+But there are some very important "big-picture" aspects to all of this that tend to 
+be overlooked in discussions of regional prehistory. The Early Woodland pottery 
+becomes very widespread at about the same time as the evidence for early agriculture and the beginnings of mound and earthwork construction. This is the case 
+even if the pottery, agriculture, and mounds do not overlap in distribution with 
+absolute precision. Thus, some correlation between pottery and agriculture can be 
+suggested. Furthermore, on the Mesoamerican contact issue, some of the southern 
+sites, for instance Poverty Point in Louisiana, have tecomate pottery forms resembling 
+contemporary Mesoamerican pottery. Some southern pottery traditions of the 
+period before 600 Bc also have incised and stamped forms of surface decoration 
+which again parallel similar and contemporary styles in Mesoamerica (Ford 1969; 
+Jenkins et al. 1986).
+
+So what does the Early Woodland picture in the eastern USA really tell us? I 
+think we have a non-coincidental association of earthwork monuments, pottery manufacture, and a developing agricultural economy, at least in the central Mississippi 
+basin and its major tributaries, during the Early Woodland Period, from the third 
+millennium BC onward. The evidence suggests that this is a locally generated transition into farming, with some strong evidence for a degree of stylistic contact with 
+Mesoamerica, but not in the first instance for a successful agricultural transfer from 
+Mesoamerica, given that maize clearly took some centuries to adapt to the northerly 
+latitudes.
+
+But what about developments much further to the south, seemingly beyond the 
+range of the Woodland agricultural zone? The impressive 60-hectare site of Poverty 
+Point in Louisiana, for instance, has six massive semi-circular concentric earthworks, 
+a bird-shaped mound with possibly Olmec parallels, figurines, pottery, a possible 
+supporting population of 5,000 people living in 600 houses, all set in a landscape with 
+at least 80 contemporary and culturally related sites. The whole complex dates to the 
+second millennium BC, with dates of 1750 to 1350 BC currently being suggested for 
+Poverty Point itself, and in this region there are stated to be much older mounds 
+dating back to almost 4000 BC (Gibson 1998). Yet Poverty Point has yielded absolutely no evidence of domesticated plants or agriculture at all (Webb 1977; Byrd 
+1991; Gibson 1996, 1998). Is this due to fugitive evidence? Was some form of predomestication cultivation being practiced? Or were the inhabitants of Poverty Point 
+still purely Archaic hunters and gatherers? Were foodstuffs obtained from subject 
+populations? We do not know, but it is somehow hard to imagine that such a massive site could have existed for so long merely supported by collected and hunted 
+food from the local environment.
+
+To the later phases of Woodland prehistory, those connected with the gradual 
+expansion of maize cultivation after 2,000 years ago, we return in chapter 10. For we 
+still have to tease out the ethnolinguistic prehistory of this region in terms of the 
+movement of populations such as the Siouans, Caddoans, and Iroquoians. While the indigenous plant domestication process must have laid the ethnolinguistic foundations in part for these language families, it is clear that major changes and population 
+reassortments also occurred during the first and early second millennia AD. The 
+most intensive episode of expansion of agricultural communities across the Mississippi on to the Great Plains was essentially a phenomenon of this later period of 
+developing maize cultivation, as was the expansion of maize farmers northward to 
+Ontario.

@@ -1,0 +1,890 @@
+Chapter 9 - What Do Language Families Mean for Human Prehistory?
+================================================================
+
+First Farmers: The Origins of Agricultural Societies by Peter Bellwood
+    
+    
+    
+    
+    
+  
+
+  
+
+Chapter 
+
+9
+
+What Do Language Families Mean 
+
+for Human Prehistory?
+
+all these dialects preserve several words of a more antient language, which was more 
+universal, and was gradually divided into many languages, now remarkably different. 
+(Johann Reinhold Forster 1778')
+
+The central job of comparative-historical linguistics is the identification of groups of 
+genetically related languages, the reconstruction of their ancestors, and the tracing of 
+the historical development of each of the member languages. (Kaufman 1990a:15)
+
+The first eight chapters of this book have detailed the early history of agricultural 
+dispersal from a number of homelands in Asia, Africa, and the Americas. Crops, 
+domestic animals, and new forms of technology spread over vast areas. Burgeoning 
+human populations moved from seasonally mobile camps into sedentary villages and 
+towns. Ancestors, communal tombs, monuments to the gods, and ranked lineages 
+impinged on human affairs with an ever-increasing intensity. The essential social and 
+productive foundations were put in place beneath the long haul to the first literate 
+civilizations.
+
+What did all this mean in real human terms? Who were these early farmers and 
+how do they relate as possible ancestors, in cultural, linguistic, and biological senses, 
+to modem populations? At this point, we must be very strict in keeping apart the 
+implications of the records derived from different disciplines. The archaeological 
+record deals with the material aspects of ancient life, not with language or biology. 
+The comparative and historical linguistic record suggests how languages might have 
+developed and spread, and is not tied in any absolute way to the history of agricultural 
+systems or human genotypes.
+
+In this chapter and the next, our interest is not with named individual ethnic 
+groups (such as Celts or Chinese), but rather with whole families of languages - for 
+instance, with the Indo-European language family, the Sino-Tibetan family, and so 
+forth. On this whole-family scale, major patterns of expansion in the deep past can be 
+perceived that can, with considerable profit, be compared with the records of agricultural expansion derived from archaeology.
+
+First Farmers: The Origins of Agricultural Societies by Peter Bellwood
+    
+    
+    
+    
+    
+  
+
+  
+
+Language families are remarkable phenomena. The largest ones, situated mostly in 
+the Old World, tie together hundreds, sometimes thousands, of languages and communities spread right across continents and oceans. They extend far beyond individual 
+community awareness - how many speakers of English (excluding linguists!) would 
+be aware that their language shares a common origin with Bengali, or have the faintest 
+idea why? They also extend far beyond the reaches of history - related languages 
+ancestral to both English and Bengali were spoken in northwestern Europe and 
+northern India respectively by at least 1500 ac and perhaps earlier; long before the 
+existence of any western European or Indian historical records or great empires.
+
+If we dissect a language family, for example the Austronesian family of Southeast 
+Asia and Oceania, we find a sharing of related forms in lexicon, grammar, and 
+phonology so widespread (Table 9.1) that only a concept of common ancestry, of 
+descent from a homeland ancestral linguistic entity, can explain them. Phonological 
+considerations make it clear that the vast majority of these forms did not spread 
+secondarily as borrowings - they descend directly from the source linguistic complex 
+and have undergone the same sound changes over time as the rest of the vocabulary 
+in the languages concerned.
+
+Common ancestry, or phylogenetic relationship to use the terminology of science, 
+is a very powerful concept. This is because language families, like animal species, cannot form because of the convergence of taxa originally unrelated, such as Germanic 
+and Sinitic languages, or horses and rhinos, to form a single genetic taxon within 
+which all units share a common ancestry. Admittedly, some closely related animal 
+species can interbreed and produce offspring, mostly infertile, and languages that 
+already share close genetic relationship and have previously differentiated only slightly 
+can undergo some degree of "advergence" toward reunification (Renfrew 2001a). 
+Furthermore, speakers of unrelated languages can sometimes be forced together 
+under socially unusual circumstances (e.g., slavery, migrant labor) and obliged to 
+create pidgin languages. But examples of such pidgin developments in language history are quite rare and hardly convincing as explanations for the genesis of whole 
+families of related languages spread over enormous distributions of territory. As 
+noted by Gerrit Dimmendaal (1995:358): "notions of non-genetic or multi-genetic 
+development in historical linguistics are not felicitous." It is quite possible for a 
+language family to descend from a pidginized proto-language, but pidginization cannot be a sufficient cause for all later subgroup differentiation within a family. Once 
+taxa begin to separate they usually continue to do so, and convergence by language 
+mixing is not convincing as a major player in language family origins.
+
+Since convergence cannot explain a language family, what can? The answer is 
+expansion from a homeland region, such that a foundation layer of "language" (probably in the form of related dialects), that has spread in some way from a source region, 
+gives rise over time to differentiating daughter languages. The spread factor is of course 
+essential - without it there can be no linguistic foundation for a language family, no 
+matter what circumstances gave rise to the eventual daughter-language differentiation.
+
+Once a linguistic spread has occurred, the circumstances of subsequent differentiation can be quite varied. Communities can stay in contact or split irrevocably as the 
+expansion takes place; they can also be split apart through invasion by other unrelated 
+linguistic groups. They can form borrowing relationships with unrelated linguistic 
+groups, or hide in virtual isolation. Some groups can abandon their original languages 
+and adopt others (language shift), just to make the task of historical reconstruction 
+often very difficult. But the fundamental observation that the ancestral languages in 
+a family have somehow spread outward from a source region and then diversified is one 
+of the most significant that can be made in any quest for human cultural origins. 
+Language families are manifestly phenomena of divergence, not convergence.'
+
+The next question is perhaps obvious. How do languages spread over large 
+distances? Do they spread because people who already speak them move into new 
+territories? If this is so, we must explain the reason for their expansionary success, 
+and also explain what has driven/induced them out of their homeland or attracted 
+them to their new utopia. On the other hand, do languages spread because people 
+adopt them, by language shift, with only a minor presence of a native-speaking 
+source population? If this is so, then we must explain why people should abandon 
+their native languages, and often many attached cultural norms.
+
+Many archaeologists and not a few linguists are very blase about language shift, 
+dismissing it as trivial and everyday. Not so the linguist Marianne Mithun (1999:2), 
+writing of the demise of native American languages:
+
+Speakers of these languages and their descendants are acutely aware of what it can 
+mean to lose a language. When a language disappears, the most intimate aspects 
+of culture can disappear as well: fundamental ways of organizing experience into 
+concepts, of relating ideas to each other, of interacting with other people. The more 
+conscious genres of verbal art are usually lost as well: traditional ritual, oratory, myth, 
+legends, and even humor. Speakers commonly remark that when they speak a different 
+language, they say different things and even think different thoughts. The loss of a 
+language represents a definitive separation of a people from its heritage.
+
+Admittedly, this quote refers to abrupt language death in traumatic circumstances. 
+But even in more gentle circumstances of interaction it is hard to imagine that 
+language loss via shift, even over a period of several generations, would always have 
+been an eagerly embraced outcome of social contact, certainly not on the scale of 
+many of the major language families to be discussed in the next chapter. Multilingualism for many modem societies is a far more attractive alternative to a one-way 
+total shift with language loss.
+
+Other social mechanisms that might explain language spread, all overlapping with 
+population movement and language shift and often involving one or both of them, 
+include trade and a need for lingua francas, "elite dominance" (when an incoming 
+elite tries to impose its language on a larger native population), slavery and forced 
+translocation of population, and population replacement due to disease or war (for 
+discussion see Renfrew 1989, 1992a, 1992b; Nettle 1998, 1999). In my view, these 
+mechanisms taken individually can explain certain situations, but they are not of 
+even validity throughout all circumstances and none of them can.explain the entire 
+distributions of major language families.
+
+Immediate questions that are of especial relevance for prehistory include the 
+following:
+
+• Is it possible to determine the homeland region for a major language family?
+
+• Can comparative linguistic reconstructions of the shapes of "family trees" throw 
+light on how proto-languages once spread from homeland regions?
+
+• Is it possible to reconstruct the culture(s) and lifeway(s) attached to the "protolanguage" or ancestral language network?
+
+• Is it possible to date the proto-language for a major language family, and also the 
+many subsequent regional proto-languages?
+
+• Is it then possible to equate reconstructed linguistic cultures and archaeological 
+cultures in time and space?
+
+First Farmers: The Origins of Agricultural Societies by Peter Bellwood
+    
+    
+    
+    
+    
+  
+
+  
+
+Issues of Phylogeny and Reticulation
+
+Linguists, plus those historians, archaeologists, and anthropologists who take an 
+interest in historical comparative linguistics, have tended to view the past of language families as reflecting two processes - phylogenetic mother-language to daughterlanguage descent (the "family tree" model), and a co-evolutionary model which stresses contemporary interaction between neighboring languages (the "linguistic 
+area" model). According to linguist Bob Dixon (1997), language families exist because 
+of punctuated and relatively short-lived periods of expansion. They also share areal 
+linguistic features as a result of much longer, non-punctuated processes of interaction 
+and borrowing. As he states: "Each language has two possible kinds of similarities to 
+other languages - genetic similarities, which are shared inheritances from a common 
+proto-language; and areal similarities, which are due to borrowing from geographical 
+neighbours" (Dixon 1997:15). There is a third kind of similarity - coincidental resemblance - but this is not of great significance at the level of linguistic classification under 
+discussion here.
+
+In major language families like Indo-European and Austronesian, the results of 
+both processes are always evident. Far-flung languages, often thousands (even tens of 
+thousands) of kilometers apart, share transparent phylogenetic relationships (e.g., 
+English and Bengali, Malay and Tahitian, Navajo and the Athabaskan languages of 
+Canada). On the other hand, languages within different families can share areal features within specific regions. Such "linguistic areas," widely discussed by linguists, 
+include the Indian subcontinent, Mesoamerica, the Balkans, and the Amazon Basin. 
+Yet - and this proviso requires stress - the languages within these areas always retain 
+their phylogenetic relationships in spite of interaction. In other words, we do not find 
+the Indian subcontinent to be full of phylogenetically unclassifiable languages that 
+have all blended equal aspects of Indo-European, Dravidian, Tibeto-Burman, and 
+Austroasiatic structure and vocabulary. Neither is this the case in the well-studied 
+Vaupes region of Amazonia, where some groups even practice linguistic exogamy (a 
+person should marry someone from another language group), yet language families 
+such as Arawak and Tucanoan remain essentially coherent despite structural convergence and universal multilingualism (Sorensen 1982; Aikhenvald 1996, 2001).
+
+Another basic and important concept here is that the initial formation of new 
+language families, in Dixon's view, occurs relatively quickly. Languages change constantly for both internal (genetic) and external (areal) reasons, as can be verified quite 
+simply by comparing Anglo-Saxon with the English of Chaucer and then E. M. 
+Forster, or by comparing modern Romance languages with Latin, their common 
+ancestor. Because of this, it stands to reason that widespread language families such 
+as Indo-European and Austronesian must have spread to their geographical limits 
+sufficiently recently in time for evidence of common origin to remain in all their 
+component subgroups. Some linguists calculate that a maximum time span for such 
+traces to remain would fall somewhere between 7,000 and 10,000 years ago, beyond 
+which time percentages of shared cognates in basic (culturally universal) vocabulary 
+would drop below about 5-10 percent. Thus, if early Indo-European had taken more 
+than 10,000 years to spread from its homeland to the far reaches of Iceland and 
+Bangladesh, then the Indo-European family would probably not exist at all in the 
+way so clearly identifiable by linguists today. This may seem like an obscure technicality, but it does imply that the major language families of agriculturalist populations 
+that exist today are Holocene, not Pleistocene, phenomena. Their life histories fall 
+well within the time span of agricultural food production.
+
+First Farmers: The Origins of Agricultural Societies by Peter Bellwood
+    
+    
+    
+    
+    
+  
+
+  
+
+The Identification and Phylogenetic Study of Language Families
+
+In the following sections I wish to examine some practical matters of language family 
+phylogeny, making reference for illustrative purposes mainly to the Austronesian 
+languages of Southeast Asia and Oceania, with forays here and there into other 
+families such as Indo-European. The Austronesian family comprises about 1,000 languages spread more than halfway round the world from Madagascar to Easter Island 
+(Figure 7.4) (Bellwood 1991, 1997a; Blust 1995a; Pawley and Ross 1993; Pawley 2003). 
+There are perhaps 350 million Austronesian speakers, mostly in Southeast Asia, especially in Indonesia and the Philippines. Individual languages may have a few hundred 
+indigenous speakers (like many in western Oceania) to upward of 60 million 
+(Javanese). The Austronesians themselves mostly have Asian biological phenotypes, 
+but many Melanesian populations in the western Pacific also speak Austronesian 
+languages, as do Negritos in the Philippines. Cultures varied enormously in the precolonial past, from Hindu and Islamic states to forest hunting and gathering bands. 
+Yet, by the logic described above, the Austronesian entity is not merely a result of 
+random patterning in time and space. There is a solid core of shared phylogenetic 
+history, both linguistic and cultural, despite vast geographic spread and the adoption 
+of Austronesian languages by members of other, unrelated ethnic communities, 
+especially in western Melanesia.
+
+Moving now to some definitions, a language family is a grouping of languages that 
+shares a unique set of identifying linguistic features, mainly as retentions from an 
+earlier stage of linguistic history. Some of these identifying features might indeed be 
+uniquely shared innovations generated at the point of origin (the proto-language stage), 
+but without external witnesses in other language families it is impossible to be sure, 
+and this issue takes us into the much-disputed level of macrofamilies, a concept to 
+which we will return. Language families consist of subgroups of closely related languages, defined by uniquely shared innovations (rather than retentions) similar to 
+derived or autapomorphic characters in biological cladistics. A good example here 
+would be the uniquely shared innovations reconstructed by Robert Blust for the 
+Proto-Malayo-Polynesian subgroup of Austronesian, which includes all Austronesian 
+languages apart from the Formosan languages of Taiwan. These include the use of the 
+enclitic form *-mu for the second person singular pronoun, the loss of preconsonantal 
+and final s, and the verbal prefixes *ma- and *pa-. These forms are not found in 
+Formosan languages, and for phonological reasons Blust (1995b:620-621) interprets the situation as reflecting Proto-Malayo-Polynesian innovation, rather than 
+Formosan loss. Such innovations will clearly have occurred during the time period 
+prior to the break-up of the proto-language ancestral to the subgroup, going back 
+as far as the previous ancestral phylogenetic division in the family tree. If they 
+occurred before this last ancestral division they would not, presumably, be unique to 
+one subgroup.
+
+Admittedly, there can be complications in the recognition of cognates that can, in 
+theory, skew the accuracy of historical interpretation. For instance, borrowings, if 
+adopted by all the languages of a subgroup soon after they differentiated, can often mimic cognates. In this case, however, such early borrowings can offer the same 
+historical implications of close geographical relationship as truly cognate (commonly 
+inherited) forms. In addition, shared retentions from a proto-language can often 
+masquerade as shared innovations if they are by chance preserved only by the members 
+of a subgroup and none of their immediate neighbors, such that genuine cognates 
+located more distantly are overlooked or not recorded. The sample density of studied languages clearly matters greatly in such cases; one must know that neighborhood 
+absences are real and not just reflections of an absence of recording.
+
+When family trees are constructed they reveal certain features. All have a reconstructible ancestral formulation - a proto-language (or in reality a hierarchy of multiple 
+proto-languages) - that can be presented as a set of reconstructed features. The most 
+important such features for prehistorians trying to reconstruct ancient cultures are 
+ancestral lexical items with their most likely original meanings.' The reconstruction 
+of meanings can sometimes be an ambiguous exercise if a reconstructed item has a 
+wide and overlapping range of modem meanings, but in general such proto-lexicons 
+can be a very powerful source of cultural data. For instance, proto-language reconstruction makes it certain that many of the major language families to be discussed 
+later had their roots amongst agricultural peoples, not hunter-gatherers. Linguistic 
+analysis can also sometimes show whether a given cultural trait was present continuously since the existence of the proto-language, or whether it was introduced later. 
+Thus, many material cultural items connected with agriculture, seafaring, fishing, 
+and pottery-making can be shown to go back continuously in the western Pacific to 
+the Proto-Oceanic stage, the ancestral stage (ca. 3500 BP) for all the Austronesian 
+languages of Oceania (Pawley 1981). Likewise, according to Robert Blust (2000a), the 
+rice vocabulary in the Chamorro language of the Mariana Islands in Micronesia was 
+inherited directly from Proto-Malayo-Polynesian about 4,000 years ago, rather than 
+introduced to these islands by borrowing at a later date.
+
+One must ask, however, what was the geographical extent of any specific reconstructed proto-language. Was it a single language spoken in one village, or was it a 
+much broader regional spread of related dialects? Long ago, Gordon Childe (1926:12) 
+suggested for Proto-Indo-European: "The Aryan [Proto-Indo-European] cradle must 
+have had a geographic unity; the linguistic data alone presuppose a block of allied 
+dialects constituting a linguistic continuum within a specific area and under more or 
+less uniform geographical conditions." A similar view is held by Lehmann (1993:15): 
+"Yet is clear that some social group, of whatever size or coherence, at one time spoke 
+the relatively unified language labelled Proto-Indo-European and that this group 
+maintained a specific culture." This need not mean an origin from a single ancestral 
+community such as one village. As Dixon (1997:98) notes, any given language family 
+"may have emanated not from a single language, but from a small areal group of 
+distinct languages, with similar structures and forms." However, the concept of an 
+original linguistic unity cannot be broken down too far in the direction of multiple 
+unrelated languages.
+
+Another aspect of language family trees is that they may be strong or weak, or 
+indeed both at different times in their courses of development. Strong trees are like "real" trees in shape, with an identifiable root and subsequent sequential branches 
+(Figure 9.1A). As an example, the Polynesian languages developed a strong tree-like 
+structure in their earlier period of differentiation, with a very well-defined protolanguage (Proto-Polynesian) that contained, according to Andrew Pawley (1996), a 
+remarkable number of innovations, including up to 1,392 lexical items (although 
+some of these could have undetected cognates outside Polynesia), 14 morphological 
+and 8 grammatical features. These were all created in a unified and well-bounded 
+homeland region situated between about 1000 Bc and AD 500 in Western Polynesia, 
+in particular the Tongan and Samoan Islands (Kirch and Green 2001). This implies a 
+long period of standstill, known in this case from archaeological correlations to have 
+lasted more than 1,000 years, during which time populations remained in contact and 
+shared large numbers of widespread linguistic changes that never spread to other 
+neighboring areas such as Fiji or Vanuatu. Polynesian is thus an excellent example of 
+an innovation defined subgroup.'
+
+Language families with weak phylogenies have rake-like structures with lots of 
+coordinate and independent subgroup branches, and no coherent root (Figure 9.1B). 
+The proto-language vocabularies of the Malayo-Polynesian subgroups of Austronesian 
+in the Philippines, eastern Indonesia, and western Oceania, as reconstructed by 
+Robert Blust (Figure 10.9 inset), share quite a uniform basic vocabulary (Blust 1993; Pawley 1999). They are essentially innovation-linked subgroups in the terminology of 
+Andrew Pawley and Malcolm Ross (1993, 1995). This suggests that subgroup differentiation occurred from a very widely spread dialect chain with no significant buildup of innovations in any region. In this case, the foundation dialect spread was rapid, 
+perhaps under 500 years (very rapid for such a vast area), and there were no major 
+foci of linguistic isolation within which uniquely shared innovations could be accumulated (Pawley 1999). As it happens, archaeology supports these historical linguistic 
+reconstructions of rapid primary spread within the Austronesian family very accurately (Bellwood 2000c). English in North America and Australia would no doubt 
+yield similarly rake-like subgroups were tribal societies of Neolithic (and non-literate) 
+type to come back and dominate the world for the next 2,000 years. This is because 
+the spreads of English in both continents were so rapid and so undifferentiated that 
+no points of initial arrival in the respective land masses, and no directions of subsequent spread, would ever be recognizable in the pattern of subsequent phylogenetic 
+differentiation.
+
+Figure 9.1 Strong and weak family trees. In A, the nodes are innovation-defined (strong) 
+and well distinguished, by virtue of both geographical and chronological separation. In B, 
+all nodes are innovation-linked (weak) and derived from rapid rake-like dispersal, thus 
+relatively undifferentiated from each other.
+
+The concept of the linguistic family tree can imply that languages split irrevocably 
+once their speakers moved apart. But, in reality, ancient colonists would rarely have 
+passed into such utter isolation that their languages separated with absolute finality. 
+Such might have happened in remote places such as Easter Island, owing to the sheer 
+difficulty of getting there, but in general we would expect communication between 
+spreading daughter dialects to continue for as long as was physically possible. As 
+Pawley and Ross (1995:20) point out, descendants of the Austronesian colonists of 
+the large land masses of New Zealand and Madagascar "were generally mobile enough 
+to maintain fairly cohesive dialect networks over large islands and island groups for 
+up to 1000 years or so." Such broad networks remind one of the broad networks of 
+relative homogeneity characteristic of the earliest Neolithic assemblages in many 
+parts of the world. Thus, dispersal need not lead to immediate isolation, although the 
+rate of diversification will be compounded if groups come into intensive contact with 
+people speaking completely unrelated languages. Such happened with the Austronesian 
+speakers who settled the Papuan-speaking regions of western Melanesia after 3,500 
+years ago. Their rate of lexical differentiation increased greatly, thus leading in the 1960s 
+to an erroneous opinion, derived from lexicostatisical calculations, that Melanesia 
+was actually the Austronesian homeland (Dyen 1965; Murdock 1968).
+
+As far as language family homelands are concerned it is generally assumed, as in 
+paleontology, that the most likely homelands are those where the deepest (i.e., oldest) 
+subgroup separations, or bifurcations in the family tree, occur. Remember from the 
+above, however, that one needs a strong family tree in order to be able to determine 
+this. Rake-like formations, if they form the whole of a language family, make it 
+essentially impossible to locate a homeland with precision. Luckily, many language 
+families contain both rake-like and tree-like subgrouping structures. For instance, 
+most subgroups of Indo-European have rake-like relationships, but the ancient 
+Anatolian languages have sufficient unique features to make it possible that the IndoEuropean homeland was located somewhere in Turkey (brews 2001). Likewise, the 
+Malayo-Polynesian subgroups are also rake-like, as noted above, but the Formosan languages, which do not belong to Malayo-Polynesian and form several separate 
+first-order subgroups within Austronesian, suggest very strongly a Taiwan homeland. Another point to note is that a language family need not always have originated 
+in the center of its current distribution. Such reasoning manifestly does not work for 
+families such as Austronesian, or Benue-Congo (including Bantu), where spreads out 
+of homelands were essentially unidirectional in the early periods.
+
+First Farmers: The Origins of Agricultural Societies by Peter Bellwood
+    
+    
+    
+    
+    
+  
+
+  
+
+Introducing the Players
+
+The indigenous language map of the world, as we know it after stripping away the 
+European colonial languages, does not reveal a picture of even gradation in which all 
+languages prior to AD 1500 were equally different from all neighboring languages, 
+without sharp boundaries. If it did, human prehistory would require little explanation; all societies would presumably have evolved in situ, hand-in-hand with their 
+neighbors and with only localized reassortments since linguistically competent human 
+societies first spread across the earth.
+
+In fact, the language map of the world shows some very clear-cut patterns of 
+differentiation, not only in clines of diversity, but also in sharp boundaries between 
+language families, most of which are sufficiently bounded and defined in linguistic 
+terms that they stand apart from each other as discrete and unarguable entities. 
+Although there are "problem" languages in this regard, especially the creoles, pidgins, 
+and other linguistic entities which resist genetic classification, the major families of 
+the world are very well founded in terms of comparative linguistic data. They are not 
+merely deceptive crystallizations out of an even mesh of language diversity. As 
+Aikhenvald and Dixon (2001:6) point out, "It is often easier to prove that a set of 
+languages form a genetic unit (a language family) than it is to establish subsidiary 
+genetic units (subgroups) within a family."
+
+Because the component languages within the well-defined families share a common genetic ancestry, and because many of these families had reached (in ancestral 
+form) their current geographical limits well back in prehistoric times, we are forced 
+to assume that they owe their existences to processes which took place long before 
+the rise of conquest states, literacy, world religions, and centralized systems of 
+education and language domination. In other words, they are solidly "prehistoric," 
+pre-literate, and pre-state. Families which certainly spread over vast distances in prehistoric times include Indo-European, Dravidian, "Altaic" (a controversial macrofamily 
+that might include Turkic, Mongolian, and perhaps even Japanese), Uralic, Afroasiatic, 
+Benue-Congo (including Bantu), Austroasiatic, Austronesian, Sino-Tibetan, and many 
+of the major families of the Americas such as Uto-Aztecan, Algonquian, and Arawak 
+(Figures 1.1 and 1.2). Of course, subgroups of many of these families - Germanic, 
+Sinitic, and Malayic, for instance - have undergone considerable expansion in historical 
+times, but this does not negate the observation that the origins of all these families 
+and either much or all of their foundation geographical expansion occurred long 
+before written history began.
+
+On the other hand, some other language families, such as Khoisan and NiloSaharan of Africa, probably most of the families of northern Australia, parts of New 
+Guinea and northwestern North America, together with the several small language 
+isolates dotted here and there across the world (e.g., Basque), might have remained 
+relatively static for enormous time spans without significant movement at all, except 
+for contraction due to language competition. Colin Renfrew (1992a, 1992b), for 
+instance, regards such language groups as established very early in the history of 
+modern human global colonization.
+
+If all the major language families of the world imply human population expansions, as suggested here, then we have a situation of immense significance, especially 
+in the Old World where a small number of language families have expanded to 
+enormous extents in quite recent prehistoric time. In order to understand this significance, especially in relation to the archaeological and genetic histories of human 
+populations, we need to understand how languages and language families have evolved 
+in time and space in the minds and mouths of actual speakers. We cannot decide this 
+solely from the comparative reconstruction of proto-languages and subgroup relationships since these tell us most directly about the languages themselves, rather than their 
+speakers, just as the archaeological record tells us essentially about material culture 
+and only secondarily about its makers. We need a worldwide comparative viewpoint 
+that must be derived from available historical and ethnographic records of language 
+spread and replacement history, as recorded from the ancient world onward, and 
+from the data of sociolinguistics - the study of language in relation to social factors.
+
+Such comparative data allow us to think seriously about a number of questions 
+important for interpreting ancient language history, even though we are working 
+with gradations of likelihood, not proof. How do languages spread, how fast do they 
+change through time, how do languages compete with and replace each other, what 
+happens when the speakers of different languages interact, and how do the answers 
+to these questions vary according to the socio-economic situation? Isolated preliterate Neolithic tribes and huge centralized empires with literacy and high levels of 
+ethnic diversity are most unlikely to have undergone identical linguistic histories.
+
+First Farmers: The Origins of Agricultural Societies by Peter Bellwood
+    
+    
+    
+    
+    
+  
+
+  
+
+How Do Languages and Language Families Spread?
+
+The only plausible explanation of the currency of [Indo-European] languages so similar 
+over so large an area at the beginnings of historical periods is that they derive from 
+dialects of a fairly homogeneous prehistoric language which had been disseminated by 
+migrations out of a smaller region. (Friedrich 1966)
+
+Language spread without a significant movement of people is seemingly a rare phenomenon in North America. (Foster 1996:67)
+
+Linguists often make the assumption that a true language family, one which can be 
+shown by the comparative study of shared innovations to be internally structured genetically, with an array of reconstructed proto-languages, must owe its existence 
+to some kind of population expansionary process. From a comparative perspective 
+this is the only explanation that makes sense. Historical data indicate that language 
+shift alone, without population movement or some degree of dispersal by the population carrying the target language, has never created anything remotely equaling those 
+vast inter-continental genetic groupings of languages with which we are here concerned. One has only to examine the varying linguistic histories of many the great 
+conquest empires of the past - Assyrian, Achaemenid, Hellenistic, Roman, Mongol, 
+Aztec, even Spanish and British - to realize this. Imperial conquest by itself, without 
+large-scale and permanent settlement by members of the conquering population, 
+generally imposes little apart from loan words in the long term.
+
+Trade also is generally of little significance as a factor behind large-scale language 
+spread. Consider the situation in trader-conscious Papua New Guinea, where the 
+linguistic diversity reached record levels (New Guinea had about 760 languages) in 
+ethnographic times and is only now being leveled by Tok Pisin and English, awesomely 
+backed by the modem muscle of statehood, literacy, television, and the circumvention of group endogamy owing to massive social change (Kulick 1992). Yet even with 
+all this inducement, on a scale totally inapplicable to situations in remote prehistory, 
+the dominance of Tok Pisin remains only a local phenomenon on a whole-Pacific 
+scale. Conquest, trade, and cultural diffusion can spread languages, but never on a 
+trans-continental language family scale unless assisted by another factor, this being 
+actual movement of existing speakers of the languages concerned.
+
+Rather than examining at great length here the historical documentation necessary 
+to support these views, I will focus on the example of the seventh century AD Arab 
+conquests out of Arabia, in support of the idea that successful language spread 
+required in the first instance a spread of native speakers. We look first at the spread 
+of the Arabic language itself (Khoury and Kostiner 1990; Goldschmidt 1996; Levtzion 
+1979; Pentz 1992; Petry 1998). In parts of Jordan and Syria there were already widespread and numerous Arabic-speaking populations who had migrated northward out 
+of Arabia long before the seventh century, so the Muslim conquest here did not 
+require extensive language replacement. The introduction of Arabic into Iraq and 
+Egypt required conquest, and occurred via garrison cities of settled Arab soldiers 
+(about 40,000 in the case of Fustat near Cairo) and their families. So a spread of 
+Arabic, in the first instance, in the mouths of settlers and soldiers is not in doubt, 
+regardless of how many people (in North Africa, for instance) might later have adopted 
+that language.
+
+However, the Arab conquests did not extend into South or Southeast Asia, or 
+even directly into Iran and Pakistan. Thus, the vast majority (perhaps 80 percent) of 
+Muslims in the world today, more in Indonesia than in any other country, do not 
+speak Arabic (apart from loan words) unless they are reciting the Koran, in which 
+case they use seventh-century rather than modem Arabic. As Mansfield (1985:40) 
+notes: "although Arabic language and culture retain a special and predominant place 
+in the world of Islam, only about one fifth of the one sixth of mankind who are 
+Muslims are Arabic speaking." This gives us a major negative example - no population movement, no language spread, regardless of what might have happened with the 
+religion.
+
+The Indonesian experience with the spread of Islam recapitulated that which 
+occurred there a millennium earlier with the spreads of Hinduism and Buddhism 
+from India. In this case there was also no major population movement into Southeast 
+Asia, apart perhaps from a trickle of traders and religious functionaries, despite the 
+profound socio-cultural impact of the Indic religions, modes of kingship, and literally 
+hundreds of Sanskrit, Prakrit, and Tamil loan words in the Malay and Javanese languages (Gonda 1973). Yet Indonesians never converted to the use of Indic languages 
+in any but learned circumstances, and Indonesian and Indian languages do not even 
+share any noticeable typological features as a result of the contact. As Colin Masica 
+(1976:184) points out, religious and political domination alone is not sufficient to 
+promote such convergence; one needs "more intimate, less structured, intercourse."
+
+The moral of all this is that Arabic spread essentially, in the first place, in the 
+mouths of Arabic-speaking settlers in the conquered areas of the Middle East and 
+North Africa only, and in the early years it seems there was very little shift to the 
+language by other non-Arab populations. The whole process was no doubt assisted 
+by the association of Arabic with the Koran, but even this was clearly not a driving 
+factor behind significant language spread. In later centuries, of course, many Middle 
+Eastern and North African populations not of Arab origin must have adopted the 
+Arabic language, but this is a little beside the point. Our interest here is in the original 
+spread and its causation, and this was manifestly not a spread caused by language 
+shift, but by native speaker movement.
+
+If a cosmopolitan language such as Arabic had such difficulty in spreading into 
+regions not settled by Arabs, even aided by a document as linguistically persuasive as 
+the Koran, likewise Sanskrit with the Mahabharata, what hope can we have that 
+Neolithic languages could have spread over the vast distances required to found 
+language families by such means? We see a picture similar to that for Arabic with 
+Latin, which at the end of the Roman Empire only became a lasting vernacular, as 
+the mother tongue of the Romance languages, in those regions close to the heart of 
+the empire favored for intensive settlement by Latin speakers (Iberia, southern France, 
+Romania - rather brutally conquered by Trajan, and Italy itself; Krantz 1988; Brosnahan 
+1963). Greek died beyond Greece and Asia Minor with the decline of the Hellenistic 
+kingdoms, even though in this case there was some colonization by the followers of 
+Alexander the Great and his successors, albeit in small numbers compared to the 
+surrounding native populations.
+
+Conversely, the English language spread into the Americas and Australasia through 
+massive levels of population movement, backed up by continuous outflow from the 
+source region. However, in other regions dominated by British conquest and control, 
+such as South Asia, much of Africa, and Malaysia, the existing dense populations 
+together with tropical diseases kept the colonization process at bay, as described so 
+lucidly by Alfred Crosby (1986). English in Africa, India, and Malaysia today is mainly 
+spoken by elites and shows no sign of replacing dominant native languages such as 
+Hindi, Tamil, or Malay. According to Breton (1997), there were only 202,000 native English speakers in India in the 1981 census year, mostly Anglo-Indian, although 
+11 million people used English as a secondary language (out of a total population of 
+1,100 million). Dutch today is essentially an extinct language in Indonesia, despite 
+300 years of colonial government, but with no population movement from the Netherlands into Indonesia on any scale.
+
+Basically, and right at the heart of the matter in terms of the theme of this book, is 
+the observation that a major language family, if it is identified by the comparative 
+method as a genetic unit with a history of differentiation from a common ancestral 
+language (or a series of related dialects), can only have been spread by processes of 
+movement by native speakers, not by language shift alone. The relevance of this 
+observation for recent human prehistory as a whole (given that clear-cut evidence for 
+linguistic relationship of the kind being examined here does not survive for much 
+more than 10,000 years) is quite colossal. Since much of the world is divided amongst 
+quite a small number of major language families, recent human prehistory is perhaps 
+to be written very much in terms of a small number of equivalent massive continentwide dispersals of population.
+
+But, and this I think is a most important proviso, it should not be assumed that 
+such spreading populations of native speakers were always derived entirely from the 
+localized population amongst whom the language family originated in the first place. 
+The world has far too many situations where biology and language do not agree in 
+precise unison, and such situations demand explanation. As examples we have clear 
+biological differences between western Europeans and South Asians who speak IndoEuropean languages, and between Melanesians and Filipinos who speak Austronesian 
+languages. Language shift and contact-induced language change obviously matter 
+today and have mattered throughout history, but we must beware of giving them a 
+relevance beyond their due. We consider them in more detail below.
+
+First Farmers: The Origins of Agricultural Societies by Peter Bellwood
+    
+    
+    
+    
+    
+  
+
+  
+
+How Do Languages Change Through Time?
+
+It is now necessary to ask if linguistic analysis can provide chronological data 
+independent of those derived from the archaeological record. The answer is a little 
+ambiguous. Linguists reconstructing the history of a language family can generally 
+only go back in time as far as the proto-language at the base of the phylogeny. The 
+dispersal of this proto-language will represent a punctuation, an erasure of any previous linguistic pattern, although traces of previous patterns can sometimes survive in 
+enclaves or so-called "linguistic isolates." Going beyond the family proto-language 
+level takes us into the level of macrofamilies, with lots of attendant controversy 
+owing to the eroded nature of the record and its inherent ambiguity.
+
+Linguistic analysis, in fact, does not yield time depth easily, as will be seen from a 
+perusal of a recent compilation of papers on this topic (Renfrew et al. 2000). Ancient 
+written languages on a world scale are too rare (and too recent) to be of very much 
+assistance in throwing light on the periods under investigation in this book. Some can 
+give rule of thumb ideas about rates of change, derivable for instance by comparing Coptic with Ancient Egyptian, Romance languages with late classical Latin, or Mandarin with Old Chinese. We can also use the archaeological record quite precisely 
+in island situations where we can be fairly sure that only one population, and that 
+ancestral to the present population, has been in occupation. On these grounds, the 
+Vanuatu languages, for instance, can only have been developing for about 3,000 
+years, since Vanuatu was first settled then. Maori has closer to 800 years since its 
+arrival in New Zealand. Yet these year counts by themselves do not get us very far in 
+a comparative sense, unless we assume that there is a constant rate, like a mutation 
+rate, by which languages change their vocabularies through time.
+
+Claims for such a regular rate of language change, especially in core vocabulary 
+(common and universal words in all languages, not culturally specific words), have 
+been made by a number of linguists. The most famous is the glottochronological 
+formula developed in the 1950s by Morris Swadesh, which assumes random corevocabulary replacement in any language of 19.5 percent per 1,000 years (this figure 
+being derived from a 200-word list applied to Romance languages). It is not necessary 
+to examine the mathematical foundations of glottochronology here, but most linguists, 
+at least those who do not reject it altogether, regard it as most useful for the past 
+500-2,500 years. Like radiocarbon dating, the more one goes back in time the less the 
+quantity of datable material that remains. Linguists who use glottochronology and 
+regard it as relatively accurate include Ehret (1998, 2000, 2003) for African language 
+families, Kaufman (1990a) for American families, and Nichols (1998b), who states that 
+it can be used successfully for language history in general after 6000 BP. As Kaufman 
+(1990a: 27-28) states:
+
+The fact remains that when applied as it should be applied, glottochronology seems 
+to agree remarkably well with linguistic inferences arrived at by other means, such 
+as branching models based on shared non-trivial innovations or absolute chronology 
+derived from dated monuments.
+
+Not all linguists agree with this rather enthusiastic perspective. Observations that 
+languages seem to have changed at different rates, some being conservative, some 
+innovative, were made almost from the start. Some linguists pointed to a common 
+and intriguing habit in many tribal societies known as word tabooing, which dictates 
+that a sound that occurs both in an everyday word and in the name of a dead person 
+must no longer be uttered. The everyday word thus has to be changed and so the 
+lexicon as a whole can change quite quickly, at least in theory (e.g., Kahler 1978; 
+Chowning 1985). On another tack, Malcolm Ross (1991; also Blust 1991) suggests 
+that, in a dispersal situation, the stay-at-home languages will tend to be more conservative than the migrating ones owing to social dislocation and founder effects; 
+small migrant groups tend to lose and modify linguistic resources more rapidly than 
+the larger and more stable populations back in the homeland.
+
+Perhaps the strongest critic ofglottochronology as applied to Austronesian languages 
+has been Robert Blust (2000b), who compared a number of modern Malayo-Polynesian 
+languages within the Austronesian family with their reconstructed common ancestor, Proto-Malayo-Polynesian (PMP). Logically, if all languages change their basic vocabularies at a uniform rate, then all daughter-languages derived from a common ancestor 
+should be equally different from that ancestor, given that they have each been 
+descending from it for the same length of time. Blust used a 200-word list and was 
+able to show that some Malayo-Polynesian languages, especially certain Polynesian 
+languages and Malay, retain a large number of PMP cognates and have thus had 
+conservative histories. Other languages, mostly in western Melanesia, retain very 
+few PMP cognates and are thus innovative. If one applies glottochronology to these 
+innovative languages one comes up with the erroneous conclusion that the entire 
+Austronesian language family originated in Melanesia, a conclusion completely at 
+odds with the mainstream comparative tradition of linguistics that makes a homeland in Taiwan almost certain.
+
+The main reasons for this puzzling situation seem to be that Austronesian-speaking 
+societies in western Melanesia formed small social groups in which language differences were emphasized as social markers, and many were in intensive contact with 
+speakers of completely unrelated Papuan languages and borrowed frequently from 
+them (Capell 1969; Dutton 1994, 1995; Dutton and Tryon 1994; Ross 2001). The Polynesian and Malay languages existed in linguistically less diverse environments and 
+were spoken by larger and more cohesive groups. The implications of all this are that 
+lexicostatistics documents variation in retention rate, not true phylogeny.
+
+So where does this leave glottochronology? Obviously, languages that have had 
+histories similar to those of the Romance languages might have had similar rates of 
+change, and this seems to be true of Polynesian languages and Malay. Melanesian 
+languages have not had such histories, and once one domino falls it tends to wobble 
+the rest. For deeply prehistoric societies we cannot easily know what the precise 
+linguistic environment might have been, so we can never really know if a given 
+glottochronological date is right or wrong. Nevertheless, in the next chapter I will 
+refer to glottochronological dates in some instances since, en masse, they do seem to 
+show some overall correlation with archaeologial dates for the beginnings of agriculture, at least as far as the major language families with agriculturalist proto-languages 
+are concerned (Bellwood 2000c). There may not be precision here in all circumstances 
+but there is a trend, in the sense that Afroasiatic, Sino-Tibetan, and Uto-Aztecan, to 
+give three examples from many, have glottochronological time depths which tend to 
+agree quite well with the time depths for agriculture in the likely homeland areas. 
+We return to the details later.
+
+First Farmers: The Origins of Agricultural Societies by Peter Bellwood
+    
+    
+    
+    
+    
+  
+
+  
+
+Macrofamilies, and more on the time factor
+
+Although language families are recognized as genetic groups by linguists, it is very 
+difficult to reconstruct much deeper genetic groups comprising several families, even 
+though comparative linguistic principles remain the same regardless of whether one 
+is working within or beyond the individual family (Hegedus 1989; Michalove et al. 
+1998). This very characteristic of language families, that they cohere within but not 
+convincingly without, supports the view of rapid punctuational origins during which earlier linguistic landscapes were erased by dispersal (Dixon 1997; Aikhenvald and 
+Dixon 2001:9). In addition, language families are not only discrete, but they also 
+appear to have fairly limited time depths, as discussed above. According to Johanna 
+Nichols (1998b), they can only retain genetic identity for about 6,000 to 10,000 years. 
+But I would ask if this is a real statistical limit, or an epiphenomenon of the fact that 
+virtually all major language families have for some reason radiated fairly explosively 
+within precisely this time period, prior to which time such radiations tended hardly 
+to occur. The mere fact that reconstruction at the macrofamily level leads to so 
+much acrimonious and inconclusive debate, when logically it should not do so if 
+language family evolution has always been even and regular, supports the idea of 
+relatively recent starburst-like episodes of language family dispersal from homeland 
+regions. In such cases, any foundation relationships that might exist between different families will be rake-like and always ambiguous.
+
+The answers to the confrontations that divide linguists at this deep level of reconstruction are unlikely to come from within linguistics itself. Multidisciplinary observations, especially from the archaeological record, can perhaps provide some essential 
+help. For instance, Colin Renfrew and I were suggesting over a decade ago that many 
+language families originated in and spread from a small number of specific regions 
+where agriculture began early in the Holocene (Bellwood 1989; Renfrew 1991). This 
+is because farming is a more efficient driver of language family dispersal in previously 
+inhabited landscapes than hunting and gathering (allowing, of course, that hunters 
+can spread far and rapidly if there is virtual prior depopulation). These agriculturalist 
+language families, on geographical grounds, might share homeland relationships of a 
+macrofamily nature, even if clear demonstration of such will always be highly elusive.
+
+Thus, language inter-family relationships, even if only reflecting early borrowing 
+and propinquity of homeland rather than true common ancestry, could have firm 
+foundations in historical events. Before trying to reconstruct such events, however, 
+it is necessary to consider in more detail how languages replace and influence each 
+other through time and space.
+
+First Farmers: The Origins of Agricultural Societies by Peter Bellwood
+    
+    
+    
+    
+    
+  
+
+  
+
+Languages in Competition - Language Shift
+
+The essential factor in long-distance language spread and continuing long-term survival in vernacular form at the whole population level, especially in pre-state circumstances, is a sufficiency of population movement at the base of the dispersal. Ephemeral 
+languages of trade or government that fade away as soon as the organizational structure beneath them is removed are of little historical interest for the issues discussed 
+here. The significance of population movement can be established by analyzing any 
+major historical situation.
+
+But languages rarely spread through uninhabited voids, except in cases of initial 
+human colonization of new lands. Native populations will sometimes adopt languages 
+brought in by outsiders who represent larger (in demographic terms), more powerful, 
+and more prestigious cultures, although this need not happen in all cases. Indeed, if colonists/ conquerors do not have a demographic advantage over the long term, for 
+instance the Normans in England, the British in Malaysia, the Dutch in Indonesia, 
+and even the Hellenistic Greeks in central Asia, then their languages will rarely be 
+adopted as the vernacular by large, healthy, and culturally viable native populations. 
+Nevertheless, language shift is important and must be an essential ingredient in 
+explaining the many cases in large-scale human patterning where linguistic and 
+biological distributions show discordance.
+
+Spreading languages also have a natural attraction for speakers of other more local 
+languages in areas of high linguistic diversity - they allow access to widespread 
+contacts and resources otherwise only available through laborious processes of 
+multilingualism. Thus, they can become lingua francas - success breeds more success, at least for a time. As Cooper notes (1982:17): "nothing stops the spread of a 
+lingua franca more surely than the existence of a rival lingua franca." But in the early 
+days of agricultural dispersal the other lingua francas were surely few and far 
+between. It is likely that the early spread of Austronesian languages into Melanesia 
+was lubricated because Proto-Oceanic (the reconstructed proto-language of the 
+period of Austronesian colonization beyond the Bismarck Archipelago) represented a 
+useful degree of uniformity, perhaps as a lingua franca, throughout a network of 
+highly diversified coastal Papuan languages.
+
+If we are to understand the past through the lens of comparative linguistics we 
+need to understand a little about why language shift can occur. Some linguists take 
+the view that languages spread automatically by shift, with no movement of native 
+speakers of the target languages (the ones being shifted to) at all (Nichols 1997b). I 
+am not aware of any historical, anthropological, or linguistic data that render such a 
+view very convincing, at least not on the large-scale language family canvas under 
+consideration here. Language shift is not a simple matter, as anyone who has tried to 
+learn a second language will know (the "foreign accent" problem). The very important factor termed "language loyalty" (Haugen 1988) generally means that a population 
+will not give up its native language unless it is already bilingual in both this and the 
+target language to which the shift will eventually occur. Even then, multilingualism 
+can be stable and long lasting. Eventual shift will require deep influence from the 
+culture that "owns" the target language, influence that will normally require a preexisting substantial presence of native speakers amongst the linguistically different 
+native population (Nettle 1998, 1999).
+
+There must also be a reason for the shift to occur. In the case of the Agta Negrito 
+hunter-gatherers of the Philippines, all of whom adopted Austronesian languages 
+long ago, the shifts were probably due to a wish to trade and to provide field labor in 
+return for agricultural produce, plus a generally increasing encapsulation of the Agta 
+by Austronesian farmers. The original shift seems to have operated as a process of 
+creolization, according to Lawrence Reid (1994a, 1994b), followed later by a "decreolization" process as encapsulation and the intensity of Austronesian influence became 
+stronger.
+
+There can also be active forces working against language shift in situations where 
+one might expect it to occur. Heath and Laprade (1982:137) describe 16th-century Indian reluctance to learn Spanish in the Andes, preferring instead to adopt the 
+important Indian languages Quechua and Aymara, which were also used widely in 
+Spanish missions for translation of the Bible:
+
+Castilian did not spread into workaday technical uses for a majority of the Indians. It 
+became the sometime language of administrative and judicial affairs, and the tongue of 
+those who were able to gain access to the creole class. Its use was primarily restricted 
+to urban areas, ... in the countryside it remained limited to uses in churches and 
+governmental units. For the majority of rural Indians, it was grafted onto religious 
+rituals, sacred texts, and polite associations with their oppressors. In some cases, the 
+high-prestige language was adopted by the Indians in low-prestige functions, and the 
+language was debunked even by those who learned it (e.g., in its use by Indian males 
+when they were drunk). From the colonial policy perspective, there was a great disparity between the potential and actual spread of Castilian.
+
+Interestingly, of course, many millions of American Indians still speak their native 
+languages today - not all have simply converted to Spanish or Portuguese. As 
+another example, Joseph Errington (1998) describes Indonesian resistance to adopting 
+Javanese as a national language and lingua franca, despite the fact that it is the native 
+language of the ruling Javanese elite. Instead, the leaders of independent Indonesia in 
+1947 chose Malay, a trader language used across Indonesia since Islamic times and 
+thus a neutral language not tied to ethnicity or control. In Errington's terms, the 
+spread of Malay, as Bahasa Indonesia, has been miraculous and unique, as any traveler 
+to the remotest corners of Indonesia will have observed. But even so, Bahasa Indonesia is not replacing Javanese in Java itself, where instead we have the formation of a 
+stable diglossia in which both languages mutually influence each other.
+
+The moral of all this is that language shift is not an automatic result of contact 
+between speakers of different languages, even if one is more "prestigious" than the 
+other. Neither is it an inevitable final state amongst bi- or multilingual populations. It 
+is an important process, but one that is completely unconvincing as an explainer of 
+language family spreads over vast distances by Neolithic or Formative farmers.
+
+First Farmers: The Origins of Agricultural Societies by Peter Bellwood
+    
+    
+    
+    
+    
+  
+
+  
+
+Languages in competition - contact-induced change
+
+As noted, when speakers of two different languages are brought together by the inmigration of one of the groups, it is not a foregone conclusion that one language will 
+automatically scoop the pool and replace the other. Stable situations can evolve in 
+which many languages coexist because the majority of the population is either bi- or 
+multilingual. In such situations the small local languages can often undergo "oneway leaning" toward the models provided by the more widely spoken community 
+languages, by means of a process termed metatypy by the linguist Malcolm Ross 
+(1997, 2001). Metatypy is one aspect of a large field of contact-induced language 
+change, a field that runs from limited borrowing of a few vocabulary items, through 
+metatypy, to "interference through shift," a process whereby a population that adopts 
+a new language will also modify that language by carrying over aspects of their previous language. Such modifications can often involve far more than just a "foreign accent" factor and can sometimes lead to considerable structural change in the 
+successful language, as in the many regional versions of modem English spoken by 
+aboriginal populations across the world.' Many of these contact-induced processes of 
+change, however, stop short of actual language replacement.
+
+Contact-induced change on a deep level, beyond superficial borrowing, will 
+normally only operate if the speakers of two or more languages in contact are bi- or 
+multilingual. As Marianne Mithun (1999:314) points out: "Cultural traits are of course 
+more easily diffused than linguistic ones, which require intensive contact and in many 
+cases bilingualism." As noted above, such bilingualism will not in itself encourage 
+language shift, and amongst healthy and demographically viable populations the 
+result is likely to be long-term situations of contact-induced change. This process has 
+already been referred to as reticulation, the operation of areal diffusion for long 
+periods between much shorter dispersive punctuations. In extreme cases, if the reticulation is allowed to run unchecked for several millennia, the result can be a 
+breakdown of subgrouping structure altogether. Dixon (1997) claims this for many 
+Australian languages, and George Grace (1990) suggests it to be the case for the 
+Austronesian languages of New Caledonia, where languages lose forms and then 
+borrow them back from widespread neighboring languages with such intensity that 
+discrete languages no longer exist.
+
+As Grace also notes, however, this situation is rather extreme. The great majority 
+of Austronesian languages elsewhere are far more amenable to application of the 
+comparative method. It seems that such extreme cases of areal diffusion exist mainly 
+amongst small-scale egalitarian societies with limited systems of political integration, 
+especially in those that lack formal descent groups (Foley 1986).6 Societies with 
+corporate land-holding descent groups, and especially chiefdoms and states, usually 
+contain more homogeneous and widespread languages owing to their much larger 
+networks of communication and control (e.g., Dahlin et al. 1987 for the Maya 
+lowlands). Situations of extreme areal interaction have little relevance for language 
+spread, or for the episodes of agricultural population dispersal in which we are most 
+interested.
+
+We have now reviewed most of the features of the linguistic record that need to 
+be taken into account in the reconstruction of linguistic prehistory. These comparative observations are most useful for guidance, and, as noted, can never make any 
+given interpretation an absolute certainty. But having them in the background can 
+make the inferences to be presented on language family dispersal a great deal more 
+convincing. As far as language spread at the family level is concerned, population 
+movement would appear to be far more convincing as a long-distance mover than 
+other more reticulative forms of inter-population contact.

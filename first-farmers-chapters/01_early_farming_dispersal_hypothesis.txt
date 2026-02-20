@@ -1,0 +1,364 @@
+Chapter 1 - The Early Farming Dispersal Hypothesis in Perspective
+=================================================================
+
+First Farmers: The Origins of Agricultural Societies by Peter Bellwood
+    
+    
+    
+    
+    
+  
+
+  
+
+Chapter 1
+
+The Early Farming Dispersal 
+
+Hypothesis in Perspective
+
+Most of us subsist today, and always have done in historical memory, on foods 
+derived mainly from the products of domesticated plants and animals. Even "wild" 
+foods such as fish, lobsters, and mushrooms are frequently farmed. The human 
+status as top mammal depends without question on food production. Hunting and 
+collecting entirely from the wild could not possibly support even a tiny fraction of 
+the world's current population.
+
+The development of the agricultural systems that provide virtually all of the world's 
+food has occurred over many millennia, and still proceeds apace. The nature of farming 
+today is under continuous pressure as environments react to the load of billions of 
+hungry humans and to the curse of climatic unpredictability. Genetic modification of 
+crops and animals promises (for some) a brave new world. We are living through a 
+crucial period in human history, perhaps a turning point with respect to the future, a 
+period of colossal technological, economic, and demographic change. We have good 
+right to think that the current rapid rate of change in all aspects of life has never been 
+matched in history or prehistory.
+
+But was the world of "real" prehistory, for instance in 5000 or 3000 BC, just a quiet 
+forgotten fuzz of peaceful background noise, enlivened only by the occasional glimmer 
+of action in places such as Egypt and Mesopotamia? In actuality, there are indications 
+that the world then was just as busy in its own way as it is now, albeit without such 
+huge populations or global networks of communication. This book suggests that 
+major episodes of human movement occurred from time to time, in various parts of 
+the world, as different populations developed or adopted agriculture and then spread 
+farming, languages, and genes, in some cases across vast distances. To unravel the 
+histories of these upheavals, which impacted eventually upon all the world's populations, even those living far from agricultural latitudes, is a complex matter. This is partly because the tales told by archaeologists, linguists, and geneticists often do not 
+correlate very conveniently.
+
+In order to approach what often appears to be a debate in which specialists all 
+talk past each other, concerned only with data from their own discipline, this book 
+is framed around a fairly simple multidisciplinary hypothesis. The early farming dispersal hypothesis postulates that the spreads of early farming lifestyles were often 
+correlated with prehistoric episodes of human population and language dispersal 
+from agricultural homelands. The present-day distributions of language families 
+and racially varied populations across the globe, allowing for the known reassortments that have ensued in historical times, still reflect to a high degree those early 
+dispersals.
+
+Of course, there are some provisos. The early farming dispersal hypothesis is not 
+claimed to have any absolute explanatory power. It is only by understanding why it 
+works for some situations, and not for others, that we can improve understanding of 
+the last 12,000 years of the human past in a meaningful way. Furthermore, the 
+hypothesis suggests that major episodes of population expansion occurred as dependence upon farming grew, and such expansions tend to imply fairly strong correlations 
+between populations, languages, and cultures, just as they have in the recent colonial 
+past. However, it is an easy matter to point to situations where cultural complexes, 
+language families, and complexes of related genes do not correlate in their distributions at all well, particularly in the record of ethnography and amongst living peoples. For instance, people of quite different biological appearance often speak related 
+languages, even the same language. But such situations need not imply that the 
+hypothesis is automatically wrong, or that language, culture, and biology never 
+correlate at the population level. Indeed, many of these seemingly disjunctive situations reflect normal and expectable processes of population admixture occurring 
+sometimes during, and sometimes long after, the episodes of dispersal described in 
+the following chapters.
+
+It is also important to emphasize right from the start that the early farming dispersal hypothesis is not claiming that only farmers ever dispersed into new lands or 
+established language families in prehistory. Hunter-gatherers feature widely in this 
+book since their lifestyle, in terms of long-term stability and reliability, has been the 
+most successful in human history. It fueled the initial human colonization of the 
+whole world, apart from a number of oceanic islands. It is not my intention to put 
+farming on a pedestal, but merely to examine its impact on the world of our postPaleolithic ancestors.
+
+The farming story also gives all of the world's ancient farming populations a kind 
+of equality, in the sense that so many peoples and cultures contributed, not just an 
+elite few. We have clear signs of relatively independent agricultural origins in western 
+Asia, central China, the New Guinea highlands, Mesoamerica, the central Andes, the 
+Mississippi basin, and possibly western Africa and southern India. These developments 
+occurred at many different times between about 12,000 and 4,000 years ago. The 
+agricultural systems concerned spread at remarkably different rates - some quickly, 
+some slowly, some hardly at all.
+
+First Farmers: The Origins of Agricultural Societies by Peter Bellwood
+    
+    
+    
+    
+    
+  
+
+  
+
+The Disciplinary Players
+
+In order to understand these cultural and biological expansions in historical perspective, 
+we need to examine data drawn from several different fields of study. Firstly, we have 
+archaeology, the study of ancient human societies from their material traces left in or 
+on the ground. Archaeology occupies most of this book and is a discipline that has the 
+advantage of dealing directly with evidence created at the time in question, evidence 
+which often can be precisely dated by radiocarbon dating or other absolute methods. 
+But it has the obvious disadvantage that such evidence is always fragmentary and 
+sometimes very ambiguous, often reflecting trivial aspects of human existence. Interpretation of the archaeological record in terms of the patterns and relationships of 
+ancient societies, especially in prehistory, is not an easy matter.
+
+Secondly, we have comparative linguistics, with the emphasis on comparative 
+reflecting the fact that our periods of concern are so long ago that they always 
+predate the invention of writing and thus directly documented history. Admittedly, 
+some anciently written languages such as Egyptian and Hittite can add valuable data, 
+but, for the most part, comparative linguists present their reconstructions of the histories of language families from a comparison of many languages either still spoken 
+or recorded very recently. There is an advantage here over archaeology in that the 
+database, in the case of a living language, is normally complete (a whole society cannot 
+operate using only half a language), but linguists have no direct window through time 
+on ancient preliterate people actually conversing. Neither do they have precise chronological methods in the absence of historical or archaeological dates. A proto-language 
+or family tree is a reconstruction; an ancient village or cemetery is real.
+
+Thirdly and fourthly, we have the two disciplines contained within the overarching 
+field of biological anthropology, these being skeletal anthropology and archaeogenetics. 
+The former, like archaeology, is the study of material drawn directly from the past, 
+in this case human skeletons (or parts thereof ), items which are of course quite 
+common in archaeological contexts. Ancient bone can also contain traces of DNA 
+and methods are now available to extract and study this, although in practice this 
+kind of research is still in its infancy and so far few results have been published which 
+reflect directly on the large-scale historical issues under discussion here.
+
+Archaeogenetics (Renfrew 2000) is the other side of the biological coin, and this 
+discipline is currently undergoing a major growth spurt. Archaeogeneticists study 
+genetic material drawn from living populations and create their historical interpretations in several ways, mainly by reconstructing the molecular ages and dispersal 
+geographies of lineages within non-recombining mitochondrial DNA (mtDNA) and 
+the non-recombining portion of the Y chromosome, or by comparing populations 
+in terms of multiple genetic systems within their recombinant nuclear DNA. Like 
+comparative linguists, therefore, archaeogeneticists draw their data from the present, 
+but their samples are rarely complete in the way that a living language can be complete, 
+because of sampling constraints at both the population and genomic levels.
+
+In support of these major disciplines we have many others which provide 
+very important data. Within the natural sciences we have paleoclimatology and geomorphology, both studying changes in the earth's environments over time, and 
+those fields within zoology and botany which study the origins and histories of 
+domestic animals and plants. We also have anthropology with its ethnographic 
+corpus of observations about real human behavior in traditional societies. Then 
+we have physical dating methods based on radioactivity, and chemical methods 
+of tracing artifacts to sources. A multitude of sciences contain somewhere within 
+their vast fields of endeavor some techniques or observations which can help us to 
+understand the deep past.
+
+But the ultimate discipline that transcends all others is history, not just history as 
+written down in books, but the history of humanity as it has unfolded worldwide 
+over at least the past 12,000 years. Historical interpretation from a comparative 
+perspective is our goal, and in this quest the disciplines of archaeology, comparative 
+linguistics, and archaeogenetics are just handmaidens.
+
+First Farmers: The Origins of Agricultural Societies by Peter Bellwood
+    
+    
+    
+    
+    
+  
+
+  
+
+Broad Perspectives
+
+This book owes its origin to a consideration of two primary observations:
+
+1. Prior to the era of European colonization there existed (and still exist) a number 
+of very widespread families of languages, the term "family" in this sense meaning that the languages concerned share common ancestry, having diverged from 
+a common forebear (Figures 1.1 and 1.2). These language families exist because 
+they have spread in some way from homeland regions, not because they have 
+converged in place out of hundreds of formerly unrelated languages.
+
+2. Within the early agricultural past of mankind there have existed many widespread 
+archaeological complexes of closely linked artifactual style, shared economic basis, 
+and relatively short-lived temporal placement. In the archaeological literature 
+these complexes are generally referred to as (Early) Neolithic in the Old World, 
+and (Early) Formative in the New. Again, these spreads have occurred from 
+homeland regions, and most such complexes tend to become younger as one 
+moves away from regions of agricultural origin (Figure 1.3). Most importantly, 
+many agricultural homelands overlap geographically with major language family 
+homelands, in highly significant ways.
+
+Let us look at these two observations in a little more detail. Firstly, the language 
+families. Why, for instance, does the Austronesian family of languages have more 
+than 1,000 member languages, spread more than halfway around the world? By what 
+mechanisms did the languages ancestral to this family spread over such a vast area? 
+Similarly, why did the Indo-European family have almost an equal extent of spread 
+prior to AD 1500, from Bangladesh to northwestern Europe, but in this case across 
+continents rather than oceans? Both of these language families had virtually attained 
+their AD 1500 distributions long before the existence of any written records or conquest 
+empires. The ethnographic record gives us no comparative examples of spread on such scales. The recent historical record most certainly does, especially for recently 
+spread languages (not language families!) such as English, Spanish, Malay, Arabic, 
+Mandarin, and Cantonese. But when, why, and how did the prehistoric spreads occur? 
+Are the recent situations of large-scale language spread relevant for comparative 
+purposes?
+
+Figure 1.2 Map of the major language families of the New World. Modified from 
+Encyclopaedia Britannica, 15th edn (1982), Macropaedia vol. 11, p. 957; vol. 13, p. 210; 
+vol. 17, p. 110.
+
+Secondly, why do we find, from time to time, immense spreads in the archaeological 
+record of stylistically related material culture over huge distances, far greater in homogeneity and total extent than in previous or following cultural periods? In prehistory, examples include the Pre-pottery Neolithic cultures of the early farmers of Southwest 
+Asia; the Balkan, "Danubian," and Mediterranean coastal cultures of early Neolithic 
+Europe; the early iron Age cultures of eastern and southern Africa; the Early and Middle 
+Formative cultures of the Americas; the Lapita culture of the western Pacific and its 
+antecedents in the islands of Southeast Asia; and the earliest prehistoric assemblages 
+of the islands of Eastern Polynesia and New Zealand (Figure 1.3). All are far greater 
+in extent than any conceivable single political unit, at least as far as the ethnographic 
+record of small-scale farming societies is concerned.
+
+Figure 1.3 The origins and approximate directions of expansion of agricultural systems 
+and early farming cultural complexes. The upper map shows the major regions of 
+agricultural origin attested in the archaeological record (see also Diamond and Bellwood 
+2003, figure 1). The lower shows some very widespread cultural complexes of the early 
+agricultural world (see also Bellwood 2001b, figure 1).
+
+It will be noted that these archaeological spreads tend to correlate fairly closely 
+with relatively early phases in the agricultural prehistories of the regions concerned, 
+or with initial human settlement in the (eastern) Lapita and Polynesian cases. Again, 
+the ethnographic record as it pertains to material culture does not appear to reflect 
+linked spreads of such vast extent. For example, the ethnographic artifact assemblages 
+(stone adzes, fishhooks, personal ornaments, and the like) of the various Eastern 
+Polynesian archipelagos in AD 1770, at the time of Cook's voyages, reveal to us many 
+more differences between island groups than those visible in the archaeological record 
+of these islands 1,000 years ago, soon after initial settlement occurred. The same is 
+even truer of the Melanesian islands, if the very varied ethnographic assemblages are 
+compared with those of the more uniform Lapita cultural horizon of 3,000 years 
+ago. We discuss these complexes in more detail later, but both illustrate a situation of 
+increasing cultural divergence through time following the establishment of a widespread and relatively homogenous foundation culture across a very broad region.
+
+Some of these spreads in the linguistic and archaeological records may be hard to 
+explain, but common sense dictates that dispersals of related populations with common 
+lifestyles and languages must have occurred in human prehistory, and deserve careful 
+consideration as causes of ancient homogeneity of patterning. The archaeological 
+record is sufficient to suggest this, since with early agriculture there commenced 
+in many agricultural homeland regions an unprecedented growth in the size and 
+density of the human population. This was especially true for Southwest Asia, China, 
+Mesoamerica, and the northern Andes. The potentials here for cultural, language, 
+and population spread are not hard to visualize.
+
+The expansions of early farming populations that form the subject matter of this 
+book reflect two consecutive processes:
+
+1. the periodic genesis of new cultural (archaeological) or linguistic configurations 
+in homeland circumstances;
+
+2. the dispersal of such configurations into surrounding regions and their subsequent 
+transformations, in situations either of pristine colonization (no prior humans), 
+or in the presence of other populations.
+
+The transformations within such configurations, both during and after dispersal, can 
+occur via adaptive or chance modifications to the inherited pattern (thus giving 
+relationships of descent, or phylogeny), or via interactions with other contemporary 
+human populations, including culturally and linguistically related as well as unrelated groups (thus giving rise to a process termed reticulation). Throughout history, the 
+relative significances of these two kinds of modification have not been unchanging. 
+Human societies within, or just emerging from, a dispersal or colonization mode, 
+especially if the dispersal has been relatively rapid and extensive, will reflect descentbased relationships very clearly. It is within societies of this kind that we can expect 
+to see clear correlations between cultural/ linguistic and biological variation. Societies long embedded in an interactive mode under conditions of geographical stability 
+will not reveal such correlations.'
+
+One of the suggestions that will dominate the chapters in this book is that short 
+bursts, or "punctuations," of dispersal by closely related populations over very large 
+areas have occurred from time to time in human prehistory, especially following the 
+regional beginnings of agriculture or the acquisitions of some other material, demographic, or ideological advantages. Punctuations also occurred when humans first 
+entered regions previously uninhabited, such as Australia, the Americas, and the 
+Pacific Islands. These bursts have actually occupied very little of the total time span 
+of human history. Often their effects are confusingly hidden beneath the reticulate 
+interactive networks that have linked varied populations through the long millennia 
+of subsequent history. But their underlying impacts on the course of human history and 
+on the generation of subsequent patterns of human diversity have been immense.
+
+First Farmers: The Origins of Agricultural Societies by Peter Bellwood
+    
+    
+    
+    
+    
+  
+
+  
+
+Some Key Guiding Principles
+
+At this point it is necessary to present a number of key guiding principles held with 
+respect to certain essential aspects of human behavior and history. These inform 
+much of the reconstruction of early farming dispersal presented in this book.
+
+1. The range of individual human behavior patterns can be treated as relatively uniform 
+during the time span of agriculture.
+
+Given the modern biological unity of mankind, individual human behavior patterns 
+of 10,000 years ago were probably essentially similar in their range to those of today. 
+Thus, desires for economic and reproductive success, peer-recognition, freedom from 
+fear and disease, plus capacities for calculated altruism and morality, have presumably always characterized anatomically modem humans like ourselves. So too have 
+abilities to be acquisitive and destructive. There is no evidence to suggest otherwise, 
+although this opinion is impossible to justify with complete certainty. It is maintained as a working hypothesis underpinned by uniformitarian principles.
+
+2. Specific events in the prehistoric past cannot necessarily be reconstructed through 
+direct analogy with the ethnographic record.
+
+Despite the uniformitarian perspective on individual human behavior just offered, 
+the overall historical trajectory of the human prehistoric past at the group /population 
+level cannot be interpreted in uniformitarian fashion, and certainly not from the 
+comparative perspective of events observed in the ethnographic record. Ethnography 
+is not a complete and reliable guide to the structure of pre-ethnographic history. Concatenations of events (particular historical situations with contingent and unique 
+causative trajectories) occurred in prehistory for which the ethnographic record need 
+have absolutely no parallels. One class of such situations involves ethnolinguistic 
+dispersal on the scale of the major language families. Another involves the colonization 
+of new continents and archipelagos by hunter-gatherers and Neolithic farmers - 
+Australia, the Americas, and Oceania.
+
+The world of ethnography is not one which reflects an expansive mode - it contains no records of trans-continental population dispersal of the kinds we see, for 
+instance, in recent Western colonial history, and it is mostly a record of societies 
+under pressure from Western civilization (with some marked exceptions, of course, but 
+insufficient to disprove the majority rule). This does not mean that the ethnographic 
+record is worthless in terms of the issues discussed here. It is extremely valuable, and 
+aspects of it will be discussed at length from a comparative perspective below. But 
+this record will not be privileged as a mechanism for supporting or refuting hypotheses of major historical significance derived from archaeology or linguistics.
+
+3. Specific events in the prehistoric past cannot necessarily be reconstructed through 
+direct analogy with the written historical record, although the written record may be more 
+relevant than the ethnographic for situations involving population expansion.
+
+The written historical record is less affected by the strictures that afflict ethnography 
+and covers a full record of human activity replete with ethnolinguistic expansion and 
+retraction, from the first documentary records bequeathed to us by the Sumerians, 
+Akkadians, and Egyptians of the third millennium BC to the historically recent dispersals of Arabs, Chinese, and western Europeans. This record may be, in general, more 
+valuable for comparative evaluation of the broad-scale ethnolinguistic hypotheses 
+raised in this book than that from recent tribal ethnography. The historical record is 
+particularly useful for a comparative perspective on how languages have spread over 
+vast territories in recent history, territories far greater in extent than any single polity, 
+yet of similar extent to those we must visualize for the dispersal of the foundation 
+levels of many of the world's most extensive language families.
+
+4. Scale is a significant factor in culture-historical explanation.
+
+Reality at the single-society level is a cross-cutting mosaic, a result of generations of 
+cultural diffusion, intermarriage, and bilingualism - in general, of the activities of 
+socialized and advantage-seeking human beings. If one takes a comparative worldwide 
+view, however, the perspective can change. On this level, it is possible to progress 
+beyond the cross-cutting mosaics of localized human diversity to a different and much 
+greater scale, where both history and geography extend far beyond the boundaries of 
+particular ethnographic or archaeological communities. In such continental-scale situations, the irregularities of small-scale reality become "ironed out." Prehistory at this 
+scale is more than just the sum of an infinitude of archaeological and ethnographic 
+situations; it involves a different vista on humanity, one totally unimaginable from 
+the activities recorded in the shrinking and circumscribed world of ethnography. The 
+expansion, for instance, of the Austronesian language family cannot be explained 
+simply by invoking the interactive processes involving bilingualism and even language 
+shift that we witness between the members of adjacent ethnographic villages. Scale matters in interpreting prehistory. Archaeological and historical linguistic interpretations on continental scales are far more than just ethnographic observation written 
+large.
+
+Population dispersal has undoubtedly been a very important process in human affairs 
+at all times. It has occurred throughout prehistory and in the light of written history, 
+both into empty spaces and into previously occupied continents. It has been a fundamental driving force in the development of many cultures since humanity began, 
+going back into the primeval days of the first hominid exodus from Africa. It might 
+also have led, especially with landowning agricultural societies, to an intensification 
+of some of those concepts of social ranking and property around which many historical 
+societies have been built (Bellwood 1996d).
+
+Admittedly, population dispersal has always been a symptom of prior causes in the 
+long-term evolution of humanity, rather than an external cause or prime mover in its 
+own right. But that does not lessen its significance. Without it, humans would still be 
+living in some African Eden, or indeed might not exist at all.

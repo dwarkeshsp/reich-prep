@@ -1,0 +1,911 @@
+Chapter 11 - Genetics, Skeletal Anthropology, and the People Factor
+===================================================================
+
+First Farmers: The Origins of Agricultural Societies by Peter Bellwood
+    
+    
+    
+    
+    
+  
+
+  
+
+Chapter 11
+
+Genetics, Skeletal Anthropology, 
+
+and the People Factor
+
+Critics of the early farming dispersal hypothesis usually raise the crunch-time question: 
+never mind the languages and archaeology, what about the people? Did languages 
+and farming lifestyles spread through unmoving populations of hunter-gatherers simply by cultural diffusion (i.e., adoption, borrowing, acculturation), or did they spread 
+because of the demographic expansion (via demic diffusion) of populations whose 
+ancestors already possessed the relevant languages and farming lifestyles? For some 
+regions of the world, biological data are too few to inform usefully and directly on 
+such questions. For other regions, such as western Eurasia and Southeast Asia/ Oceania, 
+the debates are quite heated and schools of opinion can be discerned emerging from 
+the steam. This is because both kinds of movement are, of course, logically possible, 
+and can be eloquently argued for, even though the biological data do not clinch the 
+matter with the finality that some protagonists might hope for.
+
+The phenomenon of actual population spread is referred to in this chapter as 
+demic diffusion, following the terminology used in their classic study of Neolithic 
+Europe by archaeologist Albert Ammerman and geneticist Luca Cavalli-Sforza (1984:6). 
+Demic diffusion in prehistoric contexts would have occurred, at least in optimal 
+continental circumstances, via a wave of advance, in which continuous demographic 
+growth in non-circumscribed frontier situations would have prompted a population 
+boundary to expand outward by gradual or saltational means. The inward (or backward) direction would have been demographically "full," settled by populations that 
+had reached optimal size after the wave of advance had moved on beyond them. 
+Ammerman and Cavalli-Sforza calculated, using archaeological C14 dates, that a 
+Neolithic wave of advance spread from southeast to northwest through Mesolithic 
+Europe at an average rate of around 1 kilometer per year (see also Fort and Mendez 
+1999; and Fort 2003 for comparable calculations for the Pacific). They noted also that 
+actual rates of spread on the ground would have varied greatly because of environmental barriers and differing carrying capacities.
+
+Ammerman and Cavalli-Sforza most emphatically did not suggest that the Neolithic 
+farmers simply drove all the Mesolithic foragers in Europe into extinction - critics of 
+the wave of advance model sometimes jump unfairly to this conclusion without 
+good reason. Instead, they advocated continuing genetic admixture between the two 
+groups as the wave of advance progressed (1984:128-130), such that the ultimate 
+cultural and linguistic descendants of a "Middle Eastern" population commencing 
+with 100 percent "farmer" genes, upon reaching the Atlantic limits, could have found 
+themselves (had they noticed!) with almost 100 percent "native forager" genes, at 
+least in theory (Krantz 1988:93; Cavalli-Sforza 2003). Such a process would have 
+established what geneticists term a demic cline - a geographical gradient away from 
+an origin in the occurrence of one or more genes. The essence here is a continuous 
+watering-down of an expanding genetic configuration, away from its original state, 
+by inexorable local input from an ever-unfolding native genetic landscape (Renfrew 
+2001c, 2003). It need hardly be stressed that Neolithic farmers could not have spread 
+in the way 19th-century European colonists migrated to North America and Australasia, with constant back-up from source in the form of flotillas of ships carrying 
+thousands of people. Neolithic expansion was more of an insistent creep, with occasional jumps, than a sudden and overwhelming sonic boom.
+
+We return to genes and clines later, first making the point that this is not a chapter 
+on the technicalities of population genetics, biochemistry, and mathematical computation. Interest here is in the historical observations that paleoanthropologists 
+and geneticists can make about ancient human populations, rather than in the analyses and computations of the genetic data themselves. Archaeologists in search of 
+population history should at least attempt to understand the historical reasoning 
+processes of linguists and biologists, just as reverse accommodations should also 
+take place.
+
+First Farmers: The Origins of Agricultural Societies by Peter Bellwood
+    
+    
+    
+    
+    
+  
+
+  
+
+Are There Correlations between Human Biology and 
+
+Language Families?
+
+In 1774, on Cook's Second Voyage to discover the Great Southern Continent, Johann 
+Reinhold Forster mused "What occasions the inhabitants of O-Taheitee to be so 
+much distinguished from the Mallicolese?" (Thomas et al. 1996:175). He had noted 
+that the Tahitians of Polynesia and the Malekulans of Vanuatu (Melanesia) spoke 
+languages (now known as Austronesian) with many words in common, yet the people 
+were so different in physical appearance. Austronesians are physically very varied, 
+just as are speakers of Afroasiatic (e.g., Arabs and Ethiopians), Indo-European (e.g., 
+Bengalis and Norwegians), and Altaic languages (e.g., Turks and Mongolians), to 
+name just a few of the more obvious cases. The speakers within these language 
+families seem unlikely to have descended entirely from single founder biological 
+populations in the few millennia since the linguistic dispersals occurred, at least not 
+in terms of our current understanding of rates of biological change in humans. But 
+do these patterns reflect language movements through unmoving but already highly differentiated populations, or do they reflect population movements leading to a 
+kaleidoscope of admixture between incoming and indigenous groups?
+
+We might begin by asking if there are any demonstrable geographical correlations 
+today between patterns of linguistic and biological variation on a worldwide canvas. 
+If there are, then it stands to reason that such correlations could result from past 
+episodes of demic diffusion, when population expansions occurred that carried 
+both genes and languages. In 1988 and 1994, Luca Cavalli-Sforza and his colleagues 
+addressed this question from a worldwide perspective, utilizing genetic distance analyses of 42 modern populations in terms of their frequencies of 120 different classical 
+genetic markers. They claimed that the resulting genetic tree of populations resembled closely a tree of populations classified by language family membership, a claim 
+recently restated (with qualifications) by Daniel Nettle and Louise Harriss (2003), 
+using the same gene frequency data. Basically, genetic distances and languages correlate quite closely in Europe, East and Central Asia, but rather less well in West 
+Africa, Southwest and Southeast Asia. Nettle and Harriss rightly point out that strong 
+cases of correlation could result from situations of past demic diffusion, whereas 
+weaker situations allow for more population mixing. Furthermore, by controlling for 
+the influence of purely geographical factors in their analysis, they are able to refute 
+the complaint that such correlations simply reflect geographical proximity, rather 
+than factors of correlated genetic and linguistic origin.'
+
+First Farmers: The Origins of Agricultural Societies by Peter Bellwood
+    
+    
+    
+    
+    
+  
+
+  
+
+Do genes record history?
+
+Luca Cavalli-Sforza has asked, "can the history of humankind be reconstructed on 
+the basis of today's genetic situation?" (Cavalli-Sforza and Cavalli-Sforza 1995:106). 
+Well might we ask, given that identification of ancient DNA from bone is a technique still in its infancy, having so far yielded few data significant for the questions 
+addressed in this book (Paabo 1999). The question of whether genetic data drawn 
+from the blood, hair, or saliva of modem sample populations can be used as direct 
+witnesses for the histories of whole populations who lived many millennia ago is a 
+very fundamental one. A mind-modeling of what might have happened in a Neolithic 
+situation involving population growth will quickly show why.
+
+If we begin with a Neolithic source population, dependent upon farming and with 
+a healthy rate of demographic growth, then during every generation a few members 
+of the group will wish to seek new land, with their families, sometimes close to the 
+source region, sometimes further afield, depending on the varied realities of geography and environment, social competition, and desire for founder status. If allowed, as 
+for instance in situations where early farmers were surrounded by hunter-gatherers 
+rather than other equally territorial farmers, the wave of advance will spread out 
+gradually, yet continually, in theory involving interbreeding with surrounding huntergatherer populations, perhaps mainly via forager female/farmer male parenthood 
+if the ethnographic record is any guide. There will be a continuous watering-down 
+of the original farmer genetic profile as the frontier spreads away from the source 
+region.
+
+But now impose upon the foundation genetic edifice that has resulted from such a 
+farming dispersal several subsequent millennia of continuing mutation, natural selection, and genetic drift. Impose also cultural and natural events such as invasions, 
+massacres, epidemics, and natural disasters, and we might wonder how the source 
+genetic configuration could ever possibly survive at all to be still traceable into the 
+present. That such tracing can occur at all is quite remarkable, and in part due to 
+the careful attention paid by geneticists to both the clinal geography of multiple 
+genetic markers studied in combination (e.g., Ammerman and Cavalli-Sforza 1984), 
+and to the phylogenetic analysis of non-recombining mitochondria) DNA and Ychromosome lineages as they spread through space and mutate through time.'
+
+Currently, geneticists engage in considerable debate about the historical significances 
+of their data, especially of the trans-continental clines that are often visible in both 
+the nuclear and non-recombining genetic systems. To understand the genesis of 
+these clines, it is necessary also to be aware of the roles of natural selection (especially through climate and disease), and the factors of chance in reproductive strategies that can have a major effect on the survival of lineages.
+
+For instance, Ronan Loftus and Patrick Cunningham (2000) note, actually in this 
+instance discussing the mtDNA of African cattle:
+
+in a population where females leave on average one surviving daughter per generation, 
+any single mother has only a two percent chance of contributing her mtDNA to a 
+population one hundred generations later.
+
+Thus, some of the mitochondrial lineages that characterized a population at source 
+can disappear through genetic drift as the generations pass by, ultimately to be replaced 
+by other lineages that have either mutated or have become incorporated through 
+intermarriage. Such lineages need have no bearing on the ultimate origin of the core 
+population. These stochastic processes will be enhanced in small populations that 
+tend to undergo periodic isolation, as for instance in small islands or rugged terrain.
+
+In fact, mtDNA lineage distributions and mutation ages have to be handled with 
+extreme care when the history of a whole human population is at stake, rather than 
+just that of the lineage itself. Molecular clock forms of dating, whereby mtDNA and 
+Y-chromosome lineages are given mutation ages according to assumed rates of 
+nucleotide sequence mutation through time, can be particularly contentious. This 
+issue is far too complex for further discussion here, but many geneticists have misgivings about the accuracy of such dating methods (e.g., Bradley and Loftus 2000:248; 
+Cavalli-Sforza 2003:85). Perhaps it is not surprising that Erika Hagelberg (2000:5-6) 
+has recently stated that genetic data "cannot provide clear-cut evidence of historical 
+events ... We cannot simply look at DNA of so-called native peoples and expect to 
+reconstruct the past."
+
+Nevertheless, geneticists are currently making many grand claims for the histories 
+of populations, including those populations attached to language families, so we turn 
+now to relevant early farming situations where genetic or skeletal data can reflect 
+usefully upon issues of demic versus cultural diffusion. The focus is quite heavily on Neolithic Europe and Austronesia, because of the high intensities of debate and 
+publication in these regions.
+
+First Farmers: The Origins of Agricultural Societies by Peter Bellwood
+    
+    
+    
+    
+    
+  
+
+  
+
+Southwest Asia and Europe
+
+This is the classic area for debate over cultural versus demic diffusion models for the 
+spread of farming. The original demic diffusion model of Ammerman and CavalliSforza required active population growth along an expanding frontier, moving across 
+Europe from southeast to northwest at an average rate of one kilometer per annum 
+and incorporating indigenous hunter-gatherer populations along the way. Principal 
+components analysis of the genetic data suggested that this particular movement, the 
+major one of three identified in the data, accounted for about 30 percent of the 
+genetic variation in modern European populations (Figure 11.1 upper left).
+
+This model has spawned enormous debate over the past 20 years, most fairly 
+inconclusive until the eruption of mtDNA analysis during the mid-1990s. Alan Fix 
+(1999) has recently suggested that the major southeast-to-northwest dine identified 
+by Cavalli-Sforza and his colleagues, especially in terms of HLA genes, could reflect 
+the effects of selection caused by the farming economy itself, for instance through 
+the associated spread of diseases originating from domesticated animals (zoonotic 
+diseases), or the spread of malaria amongst relatively large and densely settled Neolithic 
+populations, even in temperate latitudes. He does not rule out demic diffusion as a 
+significant process in the genetic foundations of Neolithic Europe, but feels instead 
+that genetic data cannot really illuminate its significance. Cavalli-Sforza himself, supported strongly by Italian geneticist Guido Barbujani and other colleagues, feels conversely that the observed cline is so complex that it must result to a degree from 
+population movement rather than natural selection alone (Cavalli-Sforza and CavalliSforza 1995:149; Barbujani et al. 1998). Other critics, however, point out that the 
+cline is not in itself dateable to any particular period in time, and could just as well be 
+Paleolithic as Neolithic in origin.
+
+The debate has become more lively in recent years with the increasing emphasis 
+on the analysis of haploid markers in mitochondrial DNA and on the Y-chromosome. 
+Interpretations of the data have become complex and varied in the extreme, but two 
+schools of historical interpretation appear to be consolidating. One, basing its historical 
+reconstructions on the phylogenetic analysis of mtDNA and Y-chromosome lineages, 
+regards most modem Europeans as having essentially local Paleolithic ancestries, 
+with input of Southwest Asian genes during the Neolithic accounting for very little of 
+the modern patterning. This school favors cultural rather than demic diffusion, and its 
+views have most recently been summarized by Martin Richards (2003). The strongest 
+opposed viewpoint favoring demic diffusion derives from modeling the consequences 
+of admixture between postulated Paleolithic European and Neolithic Southwest Asian 
+gene pools, using both the non-recombining systems as well as nuclear DNA.
+
+In order to put this debate into perspective I will review some of the most significant recent opinions in chronological order, subsequent to the classic 1984 study by Ammerman and Cavalli-Sforza. In 1991, a genetic distance analysis of 26 polymorphic 
+genetic systems by Sokal, Oden, and Wilson resulted in the statement: "We conclude 
+that the spread of agriculture through Europe was not simply a case of cultural 
+diffusion, but involved significant differential reproduction of the new farmers whose 
+origins can be traced to the Near East." Full support was given to theories of linked 
+Neolithic and Indo-European spreads across Europe, and allowance was made for 
+"diffusive gene flow between the neolithic farmers and mesolithic groups."
+
+Figure 11.1 Upper left: The clinal distribution of markers in 91 nuclear genetic systems 
+from southwest to northwest across Europe, identified by principal components analysis. 
+This is the first principal component within the data and it accounts for about 30% of the 
+total variation. After Cavalli-Sforza and Minch 1997. Upper right: A plot of the most 
+probable Neolithic contribution to the modern Y chromosome genotype, as assessed by 
+Chihki et al. 2002 for European genetic samples against their geographic distance from the 
+Levant. After Bentley et al. 2003. Lower: A model for Mesolithic-Neolithic genetic 
+admixture in Europe based on demographic assumptions and the archaeological record. 
+After Lahr et al. 2000.
+
+Although Sokal and his team qualified their conclusions in the following year 
+(Sokal et al. 1992), the demic diffusion model for Neolithic and Indo-European spread 
+was soon given further support from a spatial autocorrelation analysis of genetic and 
+linguistic similarities among Eurasian populations by Guido Barbujani and colleagues 
+(1994). Alberto Piazza and colleagues (1995) then used synthetic genetic maps to 
+claim, in agreement with Luca Cavalli-Sforza, that a Neolithic spread through Europe 
+from Southwest Asia accounted for 26 percent of modern genetic variation.
+
+In 1995, Sokal teamed up with Barbujani to return to the issue of demic diffusion, 
+concluding from a computer simulation of five models of microevolution in European populations that: "The genetic structure of current populations speaking IndoEuropean languages seems therefore to largely reflect a Neolithic expansion ... 
+Allele-frequency gradients among Indo-European speakers may be due either to 
+incomplete admixture between dispersing farmers, who presumably spoke IndoEuropean, and pre-existing hunters and gatherers (as in the traditional demic diffusion 
+hypothesis), or to founder effects during the farmers' dispersal" (Barbujani et al. 
+1995:109). The demic diffusion model was becoming well established.
+
+Indeed, by 1996, an unbiased observer might have drawn the conclusion that 
+demic diffusion had won the day, at least for Neolithic Europe. However, the 
+cultural diffusion school was clearly not going to give in quietly. Martin Richards 
+and colleagues, basing their views on molecular clock calculations and patterns of 
+internal phylogenetic diversity in mtDNA lineages, concluded that "the major extant 
+[mtDNA] lineages throughout Europe predate the Neolithic expansion and ... the 
+spread of agriculture was a substantially indigenous development accompanied by 
+only a relatively minor component of contemporary Middle Eastern agriculturalists" 
+(Richards et al. 1996:185).
+
+Debate naturally ensued over this paper, and battle lines started to emerge (CavalliSforza and Minch 1997: Richards et al. 1997; Barbujani et al. 1998). The Richards 
+team restated the value of a phylogeographic approach focused on molecular ages 
+for MtDNA lineages, whereas the Barbujani team countered (1998:489): "We do not 
+think that the age of a group of [mtDNA] haplotypes can be mechanically equated to 
+the age of the population from which they came, especially if these haplotypes are 
+also found elsewhere ... inferences from population history must be based on measures of genetic diversity between populations, not between molecules."
+
+In 1998, Antonio Torroni and colleagues entered the debate on the side of the 
+cultural diffusionists, by suggesting that most European mtDNA lineages spread with 
+ancestral populations emerging from late glacial refugia, particularly from Iberia. 
+They claimed also that Southwest Asian mtDNA haplogroup H accounted for between 40 and 60 percent of mtDNA lineages in western Europe, but removed this from 
+Neolithic consideration by giving it an age of more than 25,000 years.
+
+Cultural (non-demic) diffusion received another boost when Bryan Sykes (1999a) 
+restated that the Southwest Asian contribution to the European mtDNA pool was 
+only between 20 and 30 percent, and further claimed that 70 percent of the European 
+mtDNA gene pool originated in the post-glacial re-peopling of Europe, between 
+11,000 and 14,000 years ago. Martin Richards and colleagues (2000) then restated 
+the case for a Paleolithic inheritance using what they termed "founder analysis," 
+reemphasizing that most European mtDNA lineages expanded after the last glaciation and that under 25 percent of the modem mtDNA pool in Europe was brought in 
+during the Neolithic. However, they remained open to debate on these issues, concurring that: "it is important to bear in mind that these values indicate the likely 
+contribution of each prehistoric expansion to the composition of the present-day 
+mtDNA pool. Extrapolating from this information to details of the demography at 
+the time of the migration, although of course highly desirable for the reconstruction of 
+archaeological processes, is unlikely to be straightforward" (Richards et al. 2000:1272).
+
+In 2000, Ornella Semino and colleagues brought Y-chromosome data into the fray, 
+suggesting that about 78 percent of European Y-chromosome variation related to 
+Paleolithic expansions from glacial refugia in Iberia and Ukraine. They attributed 
+about 22 percent of the modem variation to four haplotypes that spread during the 
+Neolithic from the Levant, thus supporting the claims by Richards and Sykes for only 
+a low Neolithic contribution based on mtDNA.
+
+Between 1996 and 2000, therefore, cultural diffusion was making a strong comeback, even though the percentages actually offered by each school for the Neolithic 
+contribution to the overall European gene pool overlapped considerably, generally 
+between 20 and 30 percent. However, the demic diffusion school was not slow to 
+reply. Lounes Chikhi and colleagues (1998a, 1998b) identified a cline across Europe in 
+molecular DNA markers that paralleled closely the original cline in classical protein 
+markers proposed by Cavalli-Sforza and Piazza. Their own molecular clock calculations placed the population expansion that led to this cline squarely in the Neolithic, 
+and they argued for younger dates for the so-called Paleolithic mtDNA lineages.
+
+Zoe Rosser and colleagues (2000) then indicated clines in two Y-chromosome 
+haplogroups that today account for 45 percent of European variation. These clines 
+were stated, slightly cautiously since they are also strongly influenced by geography, 
+to be good evidence for significant demic diffusion of Neolithic farmers from Southwest Asia. The authors suggested that much of the genetic patterning in Europe may 
+have developed with the spread of Indo-European languages (see also Simoni et al. 
+2000).
+
+By 2001, Y-chromosome data were sufficiently detailed for Peter Underhill and 
+colleagues (2001a; Underhill 2003) to summarize worldwide patterns, showing that 
+European and west/central Asian populations are closely related in terms of Y haplogroups, particularly when compared to sub-Saharan African and East Asian populations. 
+Two of the Y haplogroups concerned, III and part of VI, could have spread into 
+Europe by Neolithic expansion, and it was acknowledged that the Y-chromosome data support the model of demic diffusion with population admixture, from southeast to northwest across Neolithic Europe.
+
+In 2002, Lounes Chikhi and colleagues analyzed 22 binary markers on the Ychromosome in order to model situations of admixture, followed by genetic drift, 
+between two "ideal" populations, one using modern Near Eastern samples to represent a "Neolithic" mode, the other using Basque and Sardinian samples to represent 
+a "Paleolithic" mode. An essential assumption here is that the real genetic patterning 
+present in the Near East and western Europe 10,000 years ago is unknowable, so only 
+a modeling process of this type will lead to realistic conclusions. The authors concluded that the Neolithic contribution to modern European Y-chromosomes must 
+have been about 50 percent on average, far higher than either the original estimate 
+by Cavalli-Sforza or that from the mtDNA phylogeographic approach of Martin 
+Richards (both under 30 percent). There is geographical variation, however, with a 
+Near Eastern component of 85-100 percent in southeastern Europe, but only 15-30 
+percent in France (Figure 11.1 upper right).
+
+By 2002, the supporters of both cultural and demic diffusion had fired many salvos, 
+and the debate is far from over. In 2003, as I finalize this chapter, a compilation of 
+genetics papers on Europe has just been published by the McDonald Institute, as part 
+of a worldwide review of the farming/ language dispersal hypothesis (Bellwood and 
+Renfrew 2003). Guido Barbujani and Isabelle Dupanloup, together with Luca CavalliSforza, and Lounes Chikhi, restate the case for significant demic diffusion of a Southwest Asian Neolithic population into Europe. Barbujani and Dupanloup note how 
+the results of admixture between farmers and foragers will vary in terms of just when 
+in the historical sequence the interbreeding became significant; in other words, foragers would have had far greater genetic impact if they interbred early on with small 
+groups of expanding farmers, much greater than if they went into an early isolationist mode and only emerged much later on to face a farmer population increased by 
+several generations of rapid internal population growth. They conclude "At present, 
+we think there are good reasons to take sides with the earlier (Ammerman and 
+Cavalli-Sforza 1984) rather than with the later (Semino et al. 2000) studies by Cavalli- 
+Sforza's group, and to maintain that a large fraction of the European gene pool is 
+derived from the genes of ancestors who did not live in Europe, but in the Levant, 
+until the Neolithic" (Barbujani and Dupanloup 2003:430).
+
+From the cultural diffusion perspective, Martin Richards and colleagues in the 
+same volume restate the case for only a low proportion of Near Eastern genes across 
+Europe, in fact only about 20 percent, but they also suggest that when the small 
+numbers of Near Eastern farmers did move, they moved far and rapidly. They 
+(2003:464) conclude that "Farming dispersal models may yet have a role to play in 
+explaining language expansions. But grand syntheses based on demic diffusion and 
+the wave of advance, in which farming, languages and genes all expand together, 
+should become a thing of the past." I could not agree more, and sense from this 
+statement a desire for a middle ground.
+
+The middle ground will perhaps be found after more careful consideration of 
+the obvious fact that Europe cannot be considered a single "place" for purposes of Mesolithic to Neolithic transition models. Whatever overall percentage of genes the 
+Neolithic farmers brought into Europe, the actual results of farmer-forager interbreeding must have varied across the continent, with the Southwest Asian component 
+necessarily being largest in the south and east, and smallest in the west and north. 
+This has come more into focus with a paper by Roy King and Peter Underhill (2002), 
+in which it is claimed that there are very significant correlations between the distributions of painted pottery and anthropomorphic figurines in Neolithic archaeological 
+contexts in the Levant, Anatolia, and southeastern Europe, and the distribution of a 
+particular Y-chromosome haplogroup termed Eu9. This correlation supports a hypothesis of demic diffusion, at least of males, out of Southwest Asia to as far west as 
+southern France. In addition, analysis of ancient bone from LBK contexts in France 
+and Germany has indicated the presence of mtDNA lineages of Southwest Asian 
+origin - direct evidence for the movement of at least some females during the Neolithic 
+(Jones 2001:161).
+
+As in the earlier Archaeogenetics volume produced by the McDonald Institute 
+(Renfrew and Boyle 2000), the debate over demic vs. cultural diffusion for Neolithic 
+Europe still remains very lively. The dust has not settled yet and there is no obvious 
+neat and tidy genetic reconstruction for the whole of Europe that can be presented in 
+a nutshell. This being the case, can we extract any useful data, independently of the 
+genetics, from the results of skeletal analysis and observations of visible biological 
+characters?
+
+The most obvious example of the latter is the cline in hair and eye pigmentation 
+that runs from relatively dark in the Levant and along the Mediterranean, to light 
+(fair hair, blue eyes) around the North and Baltic Seas and in Scandinavia (Sidrys 
+1996). At first sight, this could indicate a relative isolation of northern Europeans 
+from any Levantine or Mediterranean influence, but the situation is not really so 
+simple. Natural selection for pale pigmentation via Vitamin D synthesis over a period 
+of 6,000 years, in cold climate circumstances where humans covered themselves with 
+clothing, together with assortative mating, could in theory also have produced the 
+observed cline.
+
+Paleodemographic data also have a contribution to make. An age-at-death analysis 
+of skeletons in European Neolithic cemeteries has recently allowed Jean-Pierre 
+Bocquet-Appel (2002) to suggest a rapid increase in birth rate immediately following 
+the adoption or spread of agriculture in Europe, followed much later by a rising 
+mortality rate. The earliest farmers were clearly fertile, and Bocquet-Appel draws the 
+conclusion: "With the data currently available, this [pan-European Mesolithic to 
+Neolithic] transition is characterized by a clear rupture with the previous stationary 
+regime of foragers over a period of some 500 years." However, farmer fecundity 
+need not automatically mean demic diffusion of pre-existing farmers, since foragers 
+can also adopt farming and lessen their birth intervals. Bocquet-Appel's results only 
+underpin the reality of rapid early farmer demographic growth.
+
+Another source of skeletal data involves metric and morphological analysis of 
+crania from ancient cemeteries and other archaeological contexts in order to determine 
+population affinities. Slovimil Vencl (1986) analyzed skeletal evidence from central Europe to suggest a tenfold increase in population numbers from the Mesolithic into 
+the Neolithic, and a complete population replacement across the transition, with 
+hunter-gatherers holding out only in areas sub-optimal for farming. A more recent 
+multivariate analysis of cranial data from Turkey and the Levant, plus southeastern 
+and Mediterranean Europe, suggests three conclusions (Pinhasi and Pluciennik in press):
+
+1. PPNB populations in the Levant and Anatolia were very varied.
+
+2. Southeastern European Neolithic peoples were probably drawn from a central 
+Anatolian Neolithic population represented by the burials from catalhoytik.
+
+3. Mediterranean populations originated from a greater degree of MesolithicNeolithic admixture than those in southeastern Europe.
+
+As the authors point out, these conclusions are more precise geographically than 
+those drawn from genetic analyses, the latter being "of insufficient resolution for 
+regional assessment." Their conclusions are rather similar to those drawn by Marta 
+Lahr and colleagues (2000), based on demographic modeling and the archaeological 
+record. These are shown in Figure 11.1 (lower), and indicate something a little similar 
+to the first principal component of Cavalli-Sforza, in that there is an obvious cline 
+from Anatolia, through Greece and the Balkans, into central and then Mediterranean 
+and western Europe. A recent strontium isotope analysis of female skeletons from 
+LBK contexts in the Rhineland perhaps tells us how such a cline might have originated, in this case via the in-marrying or capture of non-local (Mesolithic?) females 
+who grew up in, and thus acquired chemical signatures in their bones from, upland 
+areas away from the riverine landscape favored for LBK farming (Bentley et al. 2003).
+
+I have deliberately gone into the European situation in depth because of the vast 
+quantity of data available for that region. Clearly, and despite obvious disagreements, 
+the indications point consistently to a "common sense" scenario that requires a 
+Neolithic population to spread in from the southeast and to gradually "disappear" in 
+a genetic sense as the wave of advance spread toward the northwest. The disagreements relate to the strength of this wave of advance, not to its very existence. The 
+perspective I am offering in this book leads me to believe, with geneticists such as 
+Lounes Chikhi and Guido Barbujani, that the strength of this advance was considerable, and that Mesolithic populations, while contributing genes in a markedly clinal 
+fashion, did not contribute very much to the resulting patterns of archaeology and 
+language in Europe, except in situations where they survived temporarily in relative 
+isolation. For other regions of the world we do not have anywhere near such a 
+density of data, but we also have interesting debates.
+
+First Farmers: The Origins of Agricultural Societies by Peter Bellwood
+    
+    
+    
+    
+    
+  
+
+  
+
+South Asia
+
+The debate for this region is really only just starting, compared to Europe. In 1996, 
+Giuseppe Passarino and colleagues published evidence for a "dilution" of an ancient 
+mtDNA marker in northern India by Caucasoid populations coming in from western 
+Asia, thus supporting a demic spread of Indo-Europeans into India. In 2001, Lluis Quintana-Murci and colleagues carried this perspective further with an analysis of Ychromosomes, suggesting two episodes of demic diffusion from the northwest. The 
+first, represented by Y-chromosome haplogroup 9, accounts for 30 to 60 percent of 
+Southwest Asian lineages and -20 percent of those in Pakistan and northern India. 
+This haplogroup is stated to relate to Elamo-Dravidian movement from Iran. The 
+second, represented by Y-chromosome haplogroup 3, is common in central Asia and 
+northern India, and is stated to record the movement of Indo-European speakers. 
+The spread of haplogroup 9 occurred between 4,000 and 6,000 years ago, haplogroup 
+3 between 3,500 and 4,500. The authors conclude "The geographical distributions, 
+observed clines, and estimated ages of Hg-9 and Hg-3 chromosomes in southwestern 
+Asia all support a model of demic diffusion of early farmers from southwestern Iran 
+- and nomads from western and central Asia - into India, bringing the spread of 
+genes and cultures (including language)" (Quintana-Murci et al. 2001:541).
+
+Support for cultural diffusion models is not lacking in this region, however. Toomas 
+Kivisild and colleagues (2003) claim that the northern Indian Y-chromosome lineages 
+could be more ancient than Quintana-Murci and colleagues suggest, indeed much 
+older than the Neolithic. They allow an estimate of only -8 percent of "Neolithic" 
+lineages in South Asia, thus arguing for only a very small amount of population 
+movement from the west associated with early farmers and Indo-Aryans.
+
+This rather brief review indicates that the conclusions for Asia are no firmer than 
+those for Europe. Can we add more from skeletal anthropology? Brian Hemphill and 
+colleagues (1991) have summarized a great deal of data on Harappan and related 
+skeletal populations, noting a progressive decline in dental health since the early 
+Neolithic, and the possibility of a population change in terms of non-metric dental 
+characters between 6000 and 4500 BC. They also note that the population resident at 
+Mohenjo-Daro during the Harappan was morphologically different from other 
+Harappan populations. The Harappans as a whole resembled Iranian populations in 
+cranial terms, whereas the older Neolithic population at Mehrgarh resembled that 
+from Chalcolithic Inamgaon in Maharashtra. It is not clear if such observations can 
+be related usefully to questions of Indo-Aryan and Elamo-Dravidian origins, but they 
+certainly do not support any total isolation of the subcontinent since the Paleolithic.
+
+First Farmers: The Origins of Agricultural Societies by Peter Bellwood
+    
+    
+    
+    
+    
+  
+
+  
+
+Africa
+
+In 1987, Laurent Excoffier and colleagues noted close relationships between African 
+major linguistic populations and the genetic geography of the Rhesus blood group 
+system, protein systems, and DNA molecules. Bantu-speakers were stated to be fairly 
+homogeneous genetically, and distinct from Afroasiatic-speakers. Southern Bantu 
+populations revealed evidence for past admixture with Khoisan populations. In 1996, 
+Hirnla Soodyall and colleagues suggested that a distinctive mtDNA 9-base-pair deletion, 
+different in origin from a similar deletion found in many East Asian populations, spread 
+widely during Bantu expansion, also being found through admixture in Pygmy populations. The deletion, however, does not occur in other Niger-Congo speakers in West 
+Africa, and so probably originated after Bantu expansion had commenced.
+
+Genetic support for demic diffusion as part of the Bantu spread is thus quite firm. 
+In 1996, Elizabeth Watson and colleagues analyzed African mtDNA sequences to 
+indicate much greater nucleotide sequence variability amongst hunter-gatherer populations than amongst farmers and pastoralists. The results were interpreted to suggest that the farmers and pastoralists (including Bantu-speakers) have increased their 
+population sizes relatively recently, whereas the hunter-gatherers have had stable 
+population sizes. In 1997, Estella Poloni and colleagues showed that Y-chromosome 
+lineage variation is well correlated with language family distributions in Africa and 
+Eurasia. Their Y-chromosome molecular clock calculations suggested that speakers 
+of Niger-Congo languages began to spread around 4,000 years ago, Afroasiatic speakers 
+around 8,900 years ago, and Indo-European speakers around 7,400 years ago.
+
+Poloni et al. also showed that Afroasiatic-speakers in Ethiopia share Y-chromosome 
+haplotypes with people in Southwest Asia, but have essentially local mtDNA lineages. Some Khoisan populations in the south have admixtures of Niger-Congo Ychromosome lineages with Khoisan mtDNA. Both these situations suggest a tendency 
+for males to disperse further than females, and consequently to have a wider genetic 
+impact. This view was given further support in 2001, when Peter Underhill and 
+colleagues (2001 a) indicated that Bantu migration is strongly marked by the distribution 
+of Y-chromosome haplogroup III, but Bantu mtDNA haplogroups are more localized.
+
+The African genetic data thus seem to agree closely on the significance of Bantu 
+population expansion. For other populations, including Afroasiatic-speakers, the data 
+are not so clear (Barbujani et al. 1994), and research still has rather a long way to go.
+
+First Farmers: The Origins of Agricultural Societies by Peter Bellwood
+    
+    
+    
+    
+    
+  
+
+  
+
+East Asia
+
+The most recent worldwide population tree published by Luca Cavalli-Sforza and 
+Marcus Feldman (2003), based on analysis of polymorphisms in 120 protein systems 
+in 1915 human populations, groups Southeast Asians with Pacific Islanders (excluding 
+New Guinea), and then at a higher level with New Guineans and Australian Aborigines. 
+A completely separate extra-African group, comprising the rest of out-of-Africa mankind, includes Northeast Asians, American Indians, and Europeans. Such high-level 
+groupings do not inform greatly about the issues under debate here and probably 
+reflect mainly Pleistocene movements of modern humans, in two spread processes 
+into northern and southern East Asia respectively. Subsequent expansions of farming 
+populations have been essentially confined to within each of these two zones rather 
+than across both, the only exception in prehistoric times perhaps being the expansion 
+of Tibeto-Burman speakers into Southeast Asia. Much, of course, depends on where 
+one places the boundary between northern and southern East Asia - presumably in 
+terms of this analysis it falls somewhere in central China, north of the regions whence 
+the dispersals of Austroasiatic, Tai, Hmong-Mien, and Austronesian peoples are claimed 
+to have begun (Figure 10.8B). Tatiana Karafet and colleagues (2001) also underline 
+distinctions between Northeast and Southeast Asian populations in Y-chromosome 
+haplogroups, linking central Asian Turkic populations and Tibeto-Burman speakers 
+to Northeast Asians.'
+
+In contrast to the above, Peter Underhill and colleagues (2001 a) imply closer northsouth Asian relationships in terms of the spread of group VII Y-chromosome lineages, stating that that they probably originated in northern China and spread with 
+millet and rice agriculture on a large scale, analogous to the spread of group III 
+lineages by Bantu-speakers. Group VII lineages dominate all of the East Asian mainland, from northern China to Thailand.
+
+This observation of close relationships right through East Asia is supported very 
+strongly by analyses of ancient crania. Johan Kamminga and Richard Wright (1988) 
+have observed that Late Paleolithic crania from China, particularly from the Upper 
+Cave at Zhoukoudian, were not morphologically ancestral to the modern East Asian 
+population, raising the possibility that the latter spread from an unknown homeland 
+in Neolithic times. These Paleolithic people instead resembled the pre Japanese 
+Jomon population of Japan between about 12,000 and 2,000 years ago, prior to the 
+arrival there of Yayoi rice farmers. In China, fully Mongoloid cranial features first 
+appear in the early Neolithic, for instance at the site ofJiahu in the Huai valley (Chen 
+and Zhang 1998). Peter Brown (1998, 1999) extends these observations to the whole 
+of China, contending that Paleolithic skulls such as those from Liujiang and 
+Minatogawa, as well as Upper Cave, are not Mongoloid at all, whereas Neolithic 
+samples from sites such as Dawenkou, Jiangzhai (Yangshao culture), and Jiahu most 
+certainly are.
+
+Considerable population replacement during the Chinese Neolithic is therefore 
+indicated from the skeletal perspective, as likewise during the expansion of Yayoi rice 
+agriculturalists from Korea into Japan at about 300 BC (Hudson 1999, 2003). The 
+genetic perspective seems to differ, and debate will doubtless continue.
+
+First Farmers: The Origins of Agricultural Societies by Peter Bellwood
+    
+    
+    
+    
+    
+  
+
+  
+
+Southeast Asia and Oceania (mainly Austronesians)
+
+A great deal of the genetic and skeletal research in this region has been driven by a 
+scholarly obsession with the origins of the Polynesians. I have already summarized 
+elsewhere the results of much of this research (Bellwood 1978a, 1993, 1997a ), concluding that pre-Neolithic populations in Island Southeast Asia, especially Indonesia, 
+formed a westerly extension of the Australomelanesian population that had been 
+established in the western Pacific (including Australia) since at least 40,000 years ago. 
+Neolithic population movements, especially of Austronesian speakers into the islands 
+and of Austroasiatic speakers on the Southeast Asian mainland, then brought in Asian 
+(Southern Mongoloid) genotypes that mixed with those of the preceding populations, 
+being even absorbed by them in Island Melanesia and to a lesser extent in the Malay 
+Peninsula and eastern Indonesia. The result is that today one can see a cline from 
+Asian into Australomelanesian characteristics running from north to south and from 
+west to east, from Island Southeast Asia into Island Melanesia, and southward down 
+the Malay Peninsula. The cline from Melanesia into Polynesia trends in the opposite 
+direction, with Asian characters coming back in high proportion as one moves into 
+eastern Polynesia and eastern Micronesia.
+
+Figure 11.2 Diagram of relationships between Asian and Oceanic populations based on a 
+cluster analysis of 29 cranial measurements recorded on 53 male samples. The samples are 
+of various dates from possibly Neolithic and Bronze Age to relatively recent. From 
+Pietrusewsky and Chang 2003.
+
+The peoples of New Guinea, despite developing very early and independent 
+agriculture, cannot really be shown to have expanded very far in a geographical 
+sense, except in terms of genetic contribution to many present-day Austronesian 
+speakers in eastern Indonesia (especially Moluccas and eastern Lesser Sundas) and 
+Island Melanesia, eastward to Fiji. Recent mtDNA research does, however, indicate a 
+lack of lineage diversity in the New Guinea Highlands that could relate to agriculturally driven population dispersal (Hagelberg et al. 1999:149).
+
+The most complete analysis of East Asian and Oceanic cranial data is that by 
+Michael Pietrusewsky (1999), whose cluster analysis (shown in Figure 11.2) expresses 
+not just geographical but also phylogenetic relationships. In East Asia, this tree clearly 
+separates Jomon and Ainu populations from Japanese. It also indicates the fairly high 
+degree of diversity present in "Chinese" samples, and links all Southeast Asians with 
+these in a large Asian branch at the top of the diagram. Close to this Asian branch 
+come Polynesians and Micronesians, with Melanesians and Australians having very 
+different cranial characteristics and belonging in a separate branch of their own. 
+Perhaps most interestingly, in view of the discussion to follow, is Pietrusewsky's 
+recent conclusion (Pietrusewsky and Chang 2003:293) that "Connections between 
+Taiwan aboriginal groups and cranial series from Polynesia suggest that Taiwan's 
+aboriginal inhabitants may have been the ancestral source of these inhabitants of 
+remote Oceania." It is also worth noting that the deep divisions between East 
+and Southeast Asians favored by some geneticists (above) are not visible in these 
+cranial data.
+
+We now move to the genetics, beginning with the broad question of Austronesian 
+origins and dispersals and picking up the thread in 1995 when Alan Redd, Terry 
+Melton, and colleagues published their analyses of the distribution of a feature within 
+mtDNA known as the 9-base-pair deletion (Redd et al. 1995; Melton et al. 1995). This 
+deletion contains a number of lineages defined by specific nucleotide substitutions. 
+One, involving a substitution at position 16247, has become known as the "Polynesian 
+motif" because it dominates in most modern Polynesian populations. Redd and 
+colleagues suggested that this lineage spread from eastern Indonesia into Oceania at 
+about 5,500 years ago. The ultimate source of the Austronesians as a whole, and of 
+the substitution at position 16261 that occurred prior to 16247, was stated to be 
+Taiwan, a view reached independently at the same time by Bryan Sykes and colleagues 
+(1995), also using mtDNA data. Terry Melton and colleagues (1998) reemphasized 
+that the ancestral mtDNA substitutions (excluding 16247) within the 9-base-pair 
+deletion haplogroup had spread into Southeast Asia and Oceania through a Taiwan 
+bottleneck (see also Hagelberg et al. 1999; Hagelberg 2000).
+
+These conclusions are in accord with those of several other biochemists and 
+geneticists. Koji Lum and Rebecca Cann (1998) have noted that Polynesian mtDNA 
+very clearly links these people with Southeast Asians rather than Melanesians, a 
+conclusion also drawn by Andrew Merriwether and colleagues (1999), who stress 
+very firmly that Polynesian maternal ancestry cannot be derived to any major degree 
+from Melanesia. All authorities agree that the Polynesian mtDNA motif (with the 
+16247 substitution) originated in eastern Indonesia rather than in Taiwan, where only the antecedent mutations are present, a situation suggesting that the mutation 
+might have occurred during the dispersal process itself.
+
+By 1998, Koji Lum and colleagues (1998, 2002) were already noting that about 
+30 percent of Polynesian nuclear genes are probably Melanesian, and this they related 
+to extensive male gene flow from Papuan into Austronesian communities as the 
+Austronesian dispersal progressed eastward. In a sense, the mtDNA story was beginning to look like an "express train" from Southeast Asia into the Pacific, to use the 
+metaphor of Jared Diamond (1988), whereas the nuclear DNA and (later on) the 
+Y-chromosome stories would be seen to relate more to Darwin's "entangled bank" 
+metaphor as used by John Terrell (1988). Women traveled early and far with the 
+initial migrants, but their female descendants stayed essentially in place, whereas 
+males have always had a propensity to roam (Hage and Marck 2003 discuss these 
+observations from an anthropological perspective).
+
+The concept of considerable male-mediated gene flow from Papuan into Austronesian populations in Oceania was soon given further stimulus by Y-chromosome 
+research. Manfred Kayser and colleagues (2000) claimed that three Polynesian 
+Y-chromosome haplotypes found in a small sample of Cook Islanders could have 
+originated in Melanesia, even though they also occur in island Southeast Asia. Their 
+conclusions differed from those presented in another study by Bing Su and colleagues 
+(2000), who regarded all Polynesian Y-chromosomes as being derived from Southeast 
+Asia, with none at all from Melanesia. Such difficulties reflect in part an analysis of 
+different markers by the different research teams, and Kayser states that the results of 
+both analyses could be compatible.
+
+One such compatible conclusion was announced in 2001, when Cristian Capelli 
+and colleagues (2001) provided an overall Y-chromosome view of Pacific, Southeast 
+Asian, and southern Chinese relationships. Austronesian dispersal from southern 
+China and Taiwan into Island Southeast appears to be well recorded by their Y 
+haplogroups H and L (now more commonly termed 03: Cox 2004), the latter 
+having an apparent origin during the early Holocene and occurring widely and 
+frequently in South China, southern Taiwan, Island Southeast Asia, and Polynesia. 
+Eastern Indonesians and Melanesians have haplogroups that are mainly indigenous to the western Pacific region (Cox 2004). Polynesians reveal great variation 
+as a result of genetic drift, but basically they combine both the Melanesian and 
+the "Austronesian" haplogroups in proportions that differ from one island group 
+to another.
+
+All the Y-chromosome information on Austronesians presented so far fits quite 
+well with what we can read from the archaeology and linguistics. An expanding 
+population with Y-chromosome haplogroups that probably originated in southern 
+China/Taiwan mixed increasingly with indigenous populations as it moved southward and eastward, virtually disappearing eventually in a genetic sense in Island 
+Melanesia, but continuing eastward again through a series of founder bottlenecks 
+into Polynesia. Using a different set of Y-chromosome data, Peter Underhill and 
+colleagues (2001b) state: "The Y-chromosome results support a pattern of complex 
+interrelationships between Southeast Asia, Melanesia, and Polynesia, in contrast to mtDNA and linguistic data, which uphold a rapid and homogeneous Austronesian 
+expansion. The Y-chromosome data highlight a distinctive gender-modulated pattern 
+of differential gene flow in the history of Polynesia." Matthew Hurles and colleagues, 
+working with satellite markers within the Y-chromosome, provide the additional 
+conclusion: "[our] study, while not strongly supporting the hypothesis of a rapid 
+Austronesian expansion from Taiwan, is not necessarily incompatible with it. Biological and cultural origins can become uncoupled to varying degrees" (Hurles et al. 
+2002:301; Hurles 2003).
+
+So, can we relax now with a conclusion from genetics that Austronesian prehistory witnessed initial fairly clear-cut dispersal from southern China and Taiwan, via 
+Island Southeast Asia, into Oceania, accompanied by considerable intermixing with 
+indigenous populations, and eventually with a considerable quantity of male-focused 
+gene flow out of Melanesia? I certainly believe that we can, but a team of mtDNA 
+researchers comprising Martin Richards, Stephen Oppenheimer, and Bryan Sykes 
+have recently stated otherwise (Richards et al. 1998; Oppenheimer and Richards 
+2001a, 2001b, 2003). They claim that Polynesians are of separate biological origin 
+from other Austronesians, since the "Polynesian motif" can in their opinion be clocked 
+to a mutation in eastern Indonesia that occurred between 5,500 and 34,500 years ago. 
+Because this motif does not appear to occur in its "final" form with the mutation at 
+position 16247 in Taiwan, the Philippines, or much of Indonesia, and because their 
+calculated age range precedes any archaeological or linguistic evidence for Austronesian 
+dispersal, they claim that Polynesians are derived from Pleistocene populations located 
+in eastern Indonesia, perhaps somewhere east of the Wallace Line (Sulawesi, Moluccas, 
+or Lesser Sundas). They also suggest that the whole of the Austronesian dispersal in 
+the linguistic sense might have originated in eastern Indonesia, a hypothesis also 
+foreshadowed in Y chromosome research by Bing Su and colleagues (2000; but see 
+contrary arguments by Reid 2001).
+
+Linguistically and archaeologically, deriving all Austronesian-speaking populations 
+from Pleistocene forebears in eastern Indonesia is not a credible proposition. To 
+claim a biological dispersal of Austronesian-speaking peoples from eastern Indonesia 
+to Taiwan would involve movement in a direction completely opposed to that of the 
+archaeology and the languages. This is no doubt possible, but extremely unlikely 
+given any balanced worldwide comparative view of multidisciplinary human history. 
+But what of the Polynesians and the Polynesian mtDNA motif? There are problems 
+here, since firstly, this motif also occurs in Madagascar in high frequency, a situation 
+that recently led Bryan Sykes (1999b:109) to claim that Madagascar was settled by 
+Polynesians sailing south of Australia. However, not only do the Malagasy languages 
+derive in the main from southern Borneo, but Madagascar prehistory since settlement 
+occurred about AD 500 is fully ceramic, whereas Polynesians lost pottery making 
+about 2,000 years ago. There is absolutely nothing in the archaeological or linguistic 
+records that could possibly bring Malagasy settlers, with their Malay-mediated Sanskrit 
+loans (Adelaar 1995), from Polynesia.
+
+Instead, we seem to have three possibilities to explain the situation recognized by 
+Oppenheimer and Richards with the Polynesian motif:
+
+1. If populations with a Polynesian-like and Asian-derived morphology had spread 
+into eastern Indonesia long before the period of Austronesian dispersal, then the 
+haplotype could have been acquired from them much later by the Austronesian 
+populations ancestral to Polynesians. This is possible in theory, and would allow 
+for a greater level of accommodation between the two opposing reconstructions. 
+The main problem is that there is no skeletal evidence to indicate the presence of 
+such a Polynesian-like population in eastern Indonesia prior to the Holocene, 
+although this may simply reflect lack of data.
+
+2. The molecular clock calculation for the origin of the Polynesian motif may be 
+wrong, given that there is now a voluminous literature of debate and disagreement about this kind of chronological calculation. If wrong, then perhaps the 
+mutation could have occurred during Austronesian dispersal after 4,000 years 
+ago in eastern Indonesia. In other words, is the place of origin of the Polynesian 
+motif correct, but the calculated date of its mutation wrong?'
+
+3. Could early Austronesians have picked up the Polynesian motif from an indigenous source in eastern Indonesia, initially through only one or two female 
+individuals, whose descendants soon thereafter, as a result of considerable fecundity in bottleneck situations, raised the frequency of its occurrence in the ancestral Polynesian (Lapita) population? This option seems possible, but is only 
+necessary if a Pleistocene date for the origin of the Polynesian motif is supported 
+by future calculations.
+
+Oppenheimer and Richards also suggest that the alpha-globin genes of Polynesians 
+(which code for part of the hemoglobin molecule) most likely originated east of the 
+Wallace Line. This may be correct, but since abnormal hemoglobins are involved 
+throughout the tropical Old World in defenses against malaria it seems likely that 
+natural selection lies behind the situation, rather than population origin factors themselves. Eastern Indonesia and Melanesia, even today, still have very virulent forms of 
+malaria, and early Austronesians were probably initially without any genetic variants 
+that confer resistance (Serjeantson and Gao 1995; Fix 2002).
+
+This review of Austronesian genetic ancestry has gone into detail since this region, 
+like Europe, has one of the densest debates between archaeologists, linguists, and 
+biologists currently under way anywhere in the world. As it happens, just after this 
+chapter was drafted, I was asked to read a PhD thesis by Murray Cox (2003), a 
+biochemist from the University of Otago in New Zealand and now based in the 
+Leverhulme Centre for Human Evolutionary Studies in Cambridge. Cox has reviewed 
+the Y and mtDNA data for Austronesians in detail, and points out that, perhaps as 
+expected, modern Austronesians only reveal (so far) about 20 percent of the genes 
+likely to have been carried by their Neolithic Austronesian ancestors, an average 
+situation perhaps similar to that for Europe. But Cox also recalculates the age of the 
+Polynesian motif, bringing it much closer to overlap with the period of Austronesian 
+migration, and of similar Holocene age to Asian Y-chromosome haplogroup 03, as 
+discussed above. Cox clearly favors what he terms a "Modified Out of Taiwan Model" 
+for Austronesian dispersal, which is basically the model that I favor.
+
+Finally, one other region overlapping with Austronesia where there has recently 
+been debate over population history is the Malay Peninsula, with its marked population variations running from southern Thailand toward Singapore. My own view is 
+that three major population movements into the Peninsula are represented in present 
+patterns of diversity (Bellwood 1993, 1997a). The Semang Negritos are descendants 
+of early Hoabinhian foragers who spread widely through the Peninsula, probably 
+moving inland as postglacial sea levels rose in the early Holocene. According to 
+David Bulbeck (2003), they ultimately acquired shorter stature within the past few 
+millennia in the interior rain-forest environment. They were followed by ancestral 
+Senoi farmers who moved down from southern Thailand about 4,000 years ago, 
+bringing Neolithic artifacts and Austroasiatic ("Aslian") languages into the Peninsula, 
+the latter being eventually adopted by the Semang foragers, just as Negritos in the 
+Philippines have adopted Austronesian languages. The ancestors of the third major 
+group, the Austronesian-speaking Malays, arrived during the Iron Age, about 500 BC 
+or later, from western Borneo and/or Sumatra.
+
+This relatively simple series of cultural and biological successions, which in my 
+view still explains the situation best, has also been examined by anthropologist Geoffrey 
+Benjamin (1985). He favors the view that the two Aslian populations are of indigenous Peninsula origin and have basically differentiated their lifestyles, languages, 
+and phenotypes in situ as a result of social and economic factors (e.g., mobile hunting 
+vs. sedentary farming, group exogamy vs. endogamy, differential involvement in 
+trade). Benjamin's view has recently been upheld by David Bulbeck (2004) from a 
+skeletal perspective. Geneticist Alan Fix (1999, 2000, 2002) also favors Benjamin's 
+hypothesis of internal cultural and biological genesis, but concludes that modem 
+genetic data cannot really prove or disprove the occurrence of ancient migrations, 
+noting on several occasions that history may not be read simply from gene trees.
+
+For what it is worth, genetic research (Saba et al. 1995) suggests that the Semai 
+Senoi of Malaysia and the Khmers of Cambodia are fairly closely related in their 
+blood genetic markers (proteins and enzymes), and if this is an indication of shared 
+ancestry then it is much easier to locate it in prehistoric, perhaps Neolithic times, 
+than in historical times. The Khmer empire of Angkor certainly never stretched as far 
+as the jungled interior of Peninsular Malaysia, and we have no evidence that any 
+significant gene flow into the southern Malay Peninsula occurred as recently as this 
+(ca. 12th century AD). I can only conclude that the Malay Peninsula is still an enigmatic 
+region and simple answers to population history will not come easily.
+
+First Farmers: The Origins of Agricultural Societies by Peter Bellwood
+    
+    
+    
+    
+    
+  
+
+  
+
+The Americas
+
+The Americas do not offer very rich data on specific questions of farming population 
+and language family ancestry, and I must also confess to a lack of access to many of 
+the relevant sources. But a few observations are of great interest. For instance, Sloan 
+Williams and colleagues (2002) note that modem Yanomama village populations in 
+Venezuela and Brazil, with high levels of within-village endogamy, can be clearly 
+differentiated from each other in terms of nuclear genetic markers. The genetic distances between these village populations also correlate well with their recorded 
+histories of fission. In addition, Nelson Fagundes and colleagues (2002) have found 
+that mtDNA relationships follow linguistic relationships very clearly amongst Tupianspeakers in Brazil. This is very hopeful news for those interested in tracking the 
+populations associated with language families back through time.
+
+But when Williams et al. used mtDNA sequences as opposed to nuclear genetic 
+data for differentiating Yanomama village populations, they were found not to work 
+so well, apparently owing to sex-specific migration and sampling issues. In this regard, therefore, it is interesting that Ripan Malhi and colleagues (2003) suggest that 
+mtDNA haplotypes in Mexico and the US Southwest relate more to geography than 
+to language groupings. They state that early Uto-Aztecan languages were spread by 
+male rather than female migrations, the former perhaps being identifiable through 
+the wide distribution of a nuclear marker called Albumin*Mexico. The prospect of 
+females staying close to home and males migrating makes a degree of sense, but one 
+wonders how the claimed results reflect sampling and other factors.
+
+In addition, the Americas were settled so recently in time that the major degree of 
+biological differentiation that we see between populations of Old World origin has 
+never had time to develop. Most population movements in the past, especially incremental rather than long-distance ones, would probably have mingled people already 
+quite closely related in terms of genetic descent. If the Americas are to provide genetic 
+data useful for questions of farming dispersal, much more research will be needed.
+
+First Farmers: The Origins of Agricultural Societies by Peter Bellwood
+    
+    
+    
+    
+    
+  
+
+  
+
+Did Early Farmers Spread through Processes of Demic Diffusion?
+
+There is no single answer to this question, since local situations clearly differ. Demic 
+diffusion alone can never have been the source of any language family or agricultural 
+complex. But demic diffusion, with constant processes of population mixing, sexspecific differential migration, and successive bottlenecks, presents a much more likely 
+conclusion. Allowing for such a combination of processes means we are not forced 
+into having the Neolithic Britons genetically identical to the Neolithic Anatolians, or 
+the modern Solomon Islanders genetically identical to the modern Formosans.
+
+As the lengthy biological debates continue, for instance about the origins of the 
+Europeans or the Austronesians, such middle-of-the-road conclusions become increasingly self-evident. But this does not mean that the human past is just a formless 
+pattern of drift, with no foci of innovation or dispersal ever present. We cannot 
+regard the human archaeological, linguistic, and biological records as merely the 
+products of mutation and drift "in place" since humans in some sentient form first 
+spread across the earth. To give all ancient societies an equal role in the creation of a 
+formless and creolized past is just as unfair to those long dead and forgotten as is the 
+opposite polarization, represented by total domination and replacement of earlier 
+populations. We need a balance, so perhaps it is time to move toward a conclusion.

@@ -1,0 +1,248 @@
+Chapter 12 - The Nature of Early Agricultural Expansion
+=======================================================
+
+First Farmers: The Origins of Agricultural Societies by Peter Bellwood
+    
+    
+    
+    
+    
+  
+
+  
+
+Chapter 12
+
+The Nature of Early Agricultural 
+
+Expansion
+
+The spreads of early agricultural populations, through regions formerly occupied 
+by hunter-gatherers, created many basic patterns in the distributions of languages, 
+cultures, and genotypes that still survive today across large parts of the temperate 
+and tropical regions of the earth. However, dispersal did not occur out of all regions 
+of agricultural origin. Neither did languages, cultures, and genotypes always spread 
+in perfect unison. The totality of the human past has been very complex indeed.
+
+Are there any cross-cultural generalizations that can be made about how and why 
+the various agricultural "unfoldings" differed in spatial and temporal expression? Can 
+early farming spreads be classified in terms of observable and sometimes quantifiable 
+variables, such as rate of frontier movement, overall chronology, and degree of 
+isomorphism in linguistic, cultural, and biological patterns?
+
+In order to approach these questions we consider first of all two polar situations. 
+At one extreme, the replacement of population and culture is total, or close to it. At 
+the other extreme, languages and cultural configurations are adopted by indigenous 
+populations, with no expansion of externally derived population at all. As previous 
+chapters should have indicated, both these extremes are highly unlikely ever to have 
+occurred in reality, at least not in previously occupied landscapes. But we can, for 
+heuristic purposes, still list ideal expectations for them.
+
+In the first situation, of complete ethnolinguistic and population replacement, there 
+will be no significant substratum survival (and none at all in landscapes previously 
+unoccupied). Barring subsequent population expansions, which of course start the 
+process all over again, the linguistic pattern will reveal no isolates, no traces of pidginization or interference through language shift, and there should be fairly even rates 
+of lexical change across subgroups. The archaeological pattern will be widespread 
+and stylistically homogeneous to begin with, breaking down gradually into regional 
+expressions with the passage of time. Stylistic patterns should lose homogeneity fairly evenly, reflecting time and geography rather than hybridization. Genetic and 
+skeletal evidence should indicate population replacement.
+
+In the second situation, of cultural and linguistic dispersal through adoption/shift 
+only, with no population movement, substratum survival will be complete. The 
+linguistic pattern will probably reveal lots of isolates where shift did not occur, strong 
+evidence for interference through language shift, and great variation in rates of lexical change according to the varying structures of the indigenous adopting societies. 
+The archaeological pattern will show stylistic diversity continuing from prior time 
+periods, but with addition of the new technological and economic elements driving 
+the cultural dispersal (e.g., agriculture, ground stone, pottery). Genetic and skeletal 
+evidence should indicate population continuity.
+
+Possible situations which fall between these two extremes are of course almost 
+infinite in variation. They will be revealed most clearly by any disequilibrium between 
+the archaeological, linguistic, and biological sources of data. For instance, language 
+can often show evidence of "strong" spread, with no interstitial isolates and few 
+substratum traces, while patterning in human biology can be more diverse. This is 
+the case in eastern Indonesia and Island Melanesia, where it can perhaps be explained 
+by a hypothesis of powerful Austronesian linguistic dispersal through both nativespeaker movement and language shift, but with a relatively much greater degree of 
+mixing between Asian and Melanesian biological populations. Material culture falls 
+somewhere in-between - the components are not so locked together as are the 
+structural elements of a language, but not so free to recombine attributes as are 
+chromosomes.
+
+First Farmers: The Origins of Agricultural Societies by Peter Bellwood
+    
+    
+    
+    
+    
+  
+
+  
+
+Homeland, Spread, and Friction Zones, plus Overshoot
+
+In a recent review of the many issues surrounding early farming dispersal (Bellwood 
+2001b), I found it useful to visualize four different zonal concepts as involved in 
+processes of agricultural origin and spread.
+
+i. Homeland or starburst zones reveal upwelling patterns with radial spread, high 
+suitability for agriculture, and of course considerable hunter-to-farmer continuity 
+across the agricultural transitions. Examples include the major regions of agricultural and language family origin discussed in previous chapters.
+
+2. Spread zones (following earlier usage of this term, with a slightly different 
+meaning, by linguist Johanna Nichols) fall close to the replacement extreme 
+described above, with widespread levels of homogeneity and strong indications 
+of temporal discontinuity in cultural trajectory. Rates of spread tend to be high, 
+until environmental or demographic limitations intervene. Some examples of 
+Neolithic or Formative spread zones are illustrated in Figure 1.3.
+
+3. Friction zones are characterized by genetic admixture and cultural reticulation 
+between hunters and farmers. Some friction zones lie at the end of the road for 
+agriculture, for instance in northern and western Europe, where climatic factors or high hunter-gatherer densities backed by coastlines imposed barriers to further spread. In these cases, rates of farming spread slowed down markedly. But 
+in other cases, for instance lowland New Guinea with respect to Austronesian 
+spread, the friction zone was not at the end of the line, but rather a salient in its 
+middle. In the case of the Lapita settlement of western Oceania, the rate of 
+spread was extremely rapid because rich resources continued beyond western 
+Melanesia, in previously uninhabited Oceanic islands. On the other hand, 
+Austronesian dispersal was very slow to penetrate New Guinea itself from relatively nearby Lapita sources (Table 12.1). Thus, the friction zone concept refers 
+essentially to a relatively high degree of reticulation, but not necessarily to a fast 
+or slow rate of foundation spread.
+
+4. Finally, we have those zones of overshoot where farmers found themselves, 
+for varying reasons, in adverse environments and so modified their economies 
+accordingly. The southern Maoris, the Punan of Borneo, and the Numic speakers 
+of the Great Basin would appear to be excellent examples of this.
+
+Looking at a sample of spread and friction zones on a worldwide basis, combined 
+with issues of tempo, one comes up with some interesting observations (Table 12.1). 
+Jared Diamond (1994) is quite correct to point out that early farmers tended to move 
+more rapidly along latitudes than across them, mainly because environments remain 
+similar along latitudes, and the crucial factor of day length that triggers germination 
+in cereals and legumes changes little. But we do have cases of rapid cross-latitudinal 
+spread - Iron Age farmers in eastern and southern Africa, for instance. We also have 
+converse cases of very slow spread along latitudes, for instance from the Indus into 
+India. The reason for this was essentially the latitudinal switch in this region from a 
+winter to a summer rainfall regime. Fundamental shifts in rainfall seasonality stopped 
+agriculturalists (as opposed to pastoralists) from spreading into southwestern Africa, 
+also California, they slowed down the spread into northern India, and rendered the 
+spread of the southwest Asian farming system that entered Egypt a very difficult 
+matter in terms of the rest of Africa. Although wheat and other winter crops eventually made their way to the Ethiopian Highlands, they never spread further.
+
+So one conclusion I would draw from Table 12.1 is that changes in rainfall 
+seasonality formed much greater barriers to early farmers than changes in temperature (except when the growing season shrank below length requirements for the 
+available crops). But there are exceptions, and one of these is southern China. The 
+longitudinal spread through southern China into Southeast Asia was much slower 
+than that into southern Africa, at least until Austronesian maritime technology lifted 
+the lid and allowed the rapid sea-borne colonization of Island Southeast Asia and 
+Oceania. The climates of southern China and southeastern Africa were not sufficiently different from the relevant homeland climates, in my view, to be the sole 
+causes of the differences in dispersal rate. Instead, technological development was 
+often as important as environmental suitability in the lubrication or hindrance of 
+agricultural spread. In southern China the technology was purely Neolithic at the time 
+of farming dispersal, and here the population densities of preexisting hunter-gatherer populations, especially in rugged or coastal terrain, were evidently significant. In Africa, 
+spreading Bantu farmers had access to iron tools, a major technological advantage.
+
+The carrying capacities of agricultural landscapes, and the negative impacts wrought 
+upon them by climate change and human overexploitation, are also of course 
+extremely relevant as determinants of rates of spread of pioneer farmers. So too are 
+the production levels of the agricultural and pastoral systems themselves. David 
+Harris (2003), for instance, regards cereal systems as more expansive than tuber 
+systems, an opinion amply substantiated by the archaeological record.
+
+Some of the above might seem rather obvious when it is spelt out in this way. Yet 
+there is an immense amount of detail and understanding to be squeezed out of 
+comparative data such as this. Table 12.1, for instance, shows some of the variations 
+in rates of spread that we can expect under spread zone and friction zone conditions. 
+It will be noted how maritime and Iron Age spreads can be very fast indeed. My 
+suspicion is that the rate of spread of farming increased very rapidly as the degree of 
+environmental difficulty declined and as technological capacity increased. Without a 
+need for any adjustment to differing environmental circumstances, cereal-based cultures in spread mode could generate sufficient demographic impetus to snowball 
+along very far and very fast indeed.
+
+First Farmers: The Origins of Agricultural Societies by Peter Bellwood
+    
+    
+    
+    
+    
+  
+
+  
+
+The Stages within a Process of Agricultural Genesis 
+
+and Dispersal
+
+The above discussion has been concerned mainly with patterns of dispersal. Let us 
+now turn to patterns of development through time. It can be hypothesized that 
+agricultural systems have developed fundamentally through the following very generalized stages.
+
+1. Pre farming. During terminal phases of hunting and gathering we can expect deep 
+cultural heterogeneity if populations had already been in place for many millennia. 
+This would be so even in cases of high latitude or and zone repopulation consequent upon terminal Pleistocene environmental change, since most agricultural dispersals took place many millennia after the final amelioration that 
+occurred, prior to the onset of the Younger Dryas, even in the Middle East.
+
+2. Transition to fanning. With trends toward agricultural production during the 
+Holocene we can expect increasing sedentism, population density, and social 
+complexity to have developed. With the establishment of farming, larger communities allowed village-endogamous mating networks to operate, even though 
+the archaeological record reveals widening spheres of interaction for the movement of raw materials, concepts, and aspects of style. In such circumstances, 
+certain languages could have been used for communication across wide areas, 
+perhaps normally through stable bilingualism rather than language replacement. 
+Specific loan words for cultural items could have spread over very large distances 
+within such networks. In Neolithic/ Formative circumstances such languages were most probably natural languages, with genetic relatives, rather than pidgins of the 
+types formed during the process of European colonial expansion and population 
+relocation. Did such languages form the roots for subsequent language families?
+
+3. Ensuing dependence upon farming, and dispersal. With increasing population growth, 
+environmental impact, inter-group conflict, and demand for increased agricultural production, expansion from homeland/starburst regions began, centrifugal 
+in pattern and derived mainly from peripheries rather than inner core regions. 
+Expanding populations on peripheries would have shared many features of 
+language and style due to previous interaction. Such sharing need not always 
+indicate genetic relationship, although it may well do so in cases where two 
+groups spread in different directions from a common homeland region. The 
+resulting outward dispersals would thus contain many aspects of both genetic 
+and prior borrowing relationship, in practice ambiguously intertwined. Meanwhile, the core regions, being circumscribed, would have had opportunities to 
+intensify production in the direction of "civilization," even though in reality only 
+a small number of regions were ever able to take this course. Others simply 
+stabilized, some declined.
+
+In general, we may expect the greatest degrees of correlation between patterns of 
+material culture, language, and biology to occur in this third phase, at the cusp of an 
+expansion as it progresses or hops through new territory. Such episodes will sometimes produce more homogeneous cultural patterns than existed in the agricultural 
+homeland itself, since they will have predominantly phylogenetic (dispersal-based) 
+rather than interactive foundations, consequent upon population and language spread, 
+not upwelling. With settling-in comes reticulation, mixing with native populations, 
+and assimilation. The intensity of reticulation will depend on local circumstances, 
+including the relative demographic balance between newcomers and natives, the 
+chronology and tempo of the mixing, technological differences, assortative mating 
+patterns, and so forth. Newcomers can also bring in disease and warfare, but in 
+pre-state early farmer circumstances we should expect native hunter-gatherer 
+populations to survive genetically, even if not through language or material lifestyle 
+in the long term.
+
+The overall shape of the past is here regarded as one of dispersal-based pulsation at 
+intervals, with reticulation in the periods (often extremely long periods) between. 
+We cannot expect that the results of all past dispersals will be unambiguously obvious 
+in present-day linguistic and biological patterns. But the major ones should be.
+
+Perhaps the final conclusion should be that language families and early agricultural 
+economies spread through hunter-gatherer landscapes in prehistory essentially through 
+population growth and dispersal, but with admixture. Hunter-gatherer adoption was 
+not the sole or main mechanism of spread, although it was of increasing importance 
+as the prime conditions for demic diffusion of farmers became attenuated. Being 
+indigenous is always a matter of degree.
+
+For me, the excitement of research into the early farming dispersal hypothesis 
+comes from its immense significance for the world as we know it today, or at least in its pre-colonial form prior to AD 1500. Our language families, our agricultural systems, 
+even our races (whatever animosities one might harbor toward this concept) reflect 
+the impacts of early agricultural dispersal very visibly indeed, even millennia after the 
+events of concern passed from memory. Archaeology is of little value unless we can 
+relate it to the here and now, and this is one arena in which it can broadcast its 
+significance very lucidly indeed.
+
+Another aspect of excitement for me is the fact that all populations in the world 
+have somehow been involved in these early farming dispersals in some way or another, 
+whether as initiators or receivers. Our world needs a story to bring peoples together, 
+not to isolate their ancestors as archaeologically impressive but parochial one-off 
+experiments. The human ability to migrate and successfully populate new environments was one of the greatest assets of the ancestors of all peoples in the world, at all 
+levels from hunters through ancient farmers to early states. I hope that the future 
+world order will harness this energy, which to me shows no signs of dissipation, in a 
+humane and civilized way.
