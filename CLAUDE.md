@@ -30,6 +30,19 @@ Prepping for a podcast interview with David Reich (Harvard geneticist, ancient D
 - `coop-et-al-2009-geography-human-adaptation.pdf` — Coop et al., PLoS Genetics 2009 (geography & adaptation)
 - `kong-et-al-2017-selection-against-variants-in-the-genome-associated-with-educational-attainment.pdf` — Kong et al., PNAS 2017
 
+### Papers from Gusev's "50,000 years" Post & Prep Call (newly downloaded)
+- `colbran-et-al-2025-global-patterns-natural-selection-ancient-dna.pdf` — Colbran et al. 2025 preprint (Mathieson last author). Extends Akbari-style analysis globally; finds loci under selection in Europe also enriched for selection in East Asia/South Asia. **Key new paper flagged by Gusev in prep call.**
+- `souilmi-et-al-2022-admixture-obscured-hard-sweeps.pdf` — Souilmi et al., Nature Ecol & Evol 2022. 57 hard sweeps in ancient Eurasia, almost all masked in modern genomes by admixture.
+- `palamara-et-al-2018-coalescence-times-selection.pdf` — Palamara et al., Nature Genetics 2018. Coalescent-based selection in 113k modern British samples; 12 genome-wide significant loci (past 20kya).
+- `le-et-al-2022-1000-ancient-genomes-selection-europe.pdf` — Le et al. 2022 preprint (Reich lab). 1,291 ancient genomes, 25 loci across Neolithic/Bronze Age/Historical periods.
+- `mallick-et-al-2016-simons-genome-diversity-project.pdf` — Mallick et al., Nature 2016. 300 genomes from 142 populations; zero species-wide sweeps in past 50kya.
+- `speidel-et-al-2019-genome-wide-genealogy-relate.pdf` — Speidel et al., Nature Genetics 2019. Introduces "Relate" method; ~35 selection loci across 20 global populations.
+- `field-et-al-2016-singleton-density-score-recent-selection.pdf` — Field et al., Science 2016. Singleton Density Score (SDS) for detecting selection in past ~2,000 years.
+- `pritchard-pickrell-coop-2010-genetics-human-adaptation.pdf` — Pritchard, Pickrell & Coop, Current Biology 2010. Review arguing polygenic adaptation (not hard sweeps) is the dominant mode of human adaptation.
+
+### Prep Call Notes
+- `gusev-call-notes.md` — Notes from Feb 21, 2026 prep call with Sasha Gusev
+
 ### Books
 - `first-farmers-chapters/` — First Farmers by Peter Bellwood (chapters as text files)
 - `pritchard-textbook/` — Pritchard textbook chapters (all downloaded locally):
@@ -67,13 +80,23 @@ Prepping for a podcast interview with David Reich (Harvard geneticist, ancient D
 ### Phase 3 — The Big Picture Papers
 7. `hernandez-et-al-2011-classic-selective-sweeps-rare.pdf` — The original "sweeps are rare" result
 8. `coop-et-al-2009-geography-human-adaptation.pdf` — Geography vs. selection
-9. `irving-pease-et-al-2024-selection-landscape-ancient-eurasians.pdf` — Best current ancient DNA picture
-10. `akbari-et-al-2024-directional-selection-ancient-dna-reich.pdf` — Reich's own controversial paper (must read before interview)
-11. `kong-et-al-2017-selection-against-variants-in-the-genome-associated-with-educational-attainment.pdf` — Selection against intelligence alleles
+9. `pritchard-pickrell-coop-2010-genetics-human-adaptation.pdf` — Polygenic adaptation as dominant mode (companion to #8)
+10. `irving-pease-et-al-2024-selection-landscape-ancient-eurasians.pdf` — Best current ancient DNA picture
+11. `akbari-et-al-2024-directional-selection-ancient-dna-reich.pdf` — Reich's own controversial paper (must read before interview)
+12. `kong-et-al-2017-selection-against-variants-in-the-genome-associated-with-educational-attainment.pdf` — Selection against intelligence alleles
 
-### Phase 4 — Background / Context
-12. `first-farmers-chapters/` — Especially chapters 1, 2, 3, 11 (genetics chapter)
-13. Pritchard textbook (online) — dip in as needed for concepts
+### Phase 5 — The 50,000-Year Picture (from Gusev's post & call)
+13. `souilmi-et-al-2022-admixture-obscured-hard-sweeps.pdf` — Masked sweeps: 57 ancient sweeps erased by admixture
+14. `palamara-et-al-2018-coalescence-times-selection.pdf` — Coalescent-based, modern data, 12 loci
+15. `le-et-al-2022-1000-ancient-genomes-selection-europe.pdf` — 25 loci from 1,291 ancient genomes (Reich lab)
+16. `field-et-al-2016-singleton-density-score-recent-selection.pdf` — SDS method for very recent selection
+17. `mallick-et-al-2016-simons-genome-diversity-project.pdf` — Zero species-wide sweeps in 50kya
+18. `speidel-et-al-2019-genome-wide-genealogy-relate.pdf` — Relate method, 35 loci across global populations
+19. `colbran-et-al-2025-global-patterns-natural-selection-ancient-dna.pdf` — **NEW: convergent selection across continents** (Gusev's top recommendation)
+
+### Phase 6 — Background / Context
+20. `first-farmers-chapters/` — Especially chapters 1, 2, 3, 11 (genetics chapter)
+21. Pritchard textbook (online) — dip in as needed for concepts
 
 ---
 
@@ -84,3 +107,11 @@ Prepping for a podcast interview with David Reich (Harvard geneticist, ancient D
 - Cognitive traits specifically: "not enriched for selection" — is this a methodological limit or real?
 - What does selection on immune/diet traits tell us about human history?
 - Effective population size ~10,000: what are the implications?
+
+### From Gusev Prep Call (Feb 21, 2026)
+- **Lactase timing puzzle:** Selection on LCT is temporally out of sync with archaeological evidence of domestication/milk use, and the selection *accelerated* for unknown reasons (Mathieson & Terhorst 2022).
+- **Large-effect variants NOT under selection:** FTO (BMI), menopause variant (~5-10 year effect), lipid GWAS loci, some autoimmune variants outside HLA — none show selection. Why?
+- **Slave trade paradox:** Reich's own work found no detectable selection in African Americans over ~200 years of extreme environmental pressure. If that leaves no trace, how can we see "seething selection" in Eurasia?
+- **Convergent selection (Colbran et al. 2025):** Same loci under selection in Europe AND East Asia AND South Asia. Either convergent selection in different environments, or all pre-split (African) selection being misattributed to more recent periods.
+- **The two explanations for no fixed differences (Coop 2009):** Either (1) selection is genuinely negligible — environmental pressures too ephemeral to matter; or (2) selection IS strong but so polygenic (100k variants each shifting by 1/100,000th) that it's invisible at individual loci.
+- **Gusev is not adversarial toward Reich** — critical of Akbari methodology because it's cutting edge, but they've discussed it directly and are on good terms. Reich used Gusev's blog post as intro to a recent ASHG talk.
