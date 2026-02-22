@@ -8,9 +8,14 @@ Genetics can tell us two things about human history: (1) **topography/demography
 ### What's Clear
 A handful of loci are clearly under strong selection: **lactase (LCT), pigmentation/eye color (SLC45A2, HERC2), HLA/autoimmunity loci**. For these, we can track allele frequency changes across ancient and modern populations. But even these are puzzling:
 
-- **Lactase** — The selection on LCT is temporally out of sync with the archaeological record of domestication and milk use. People were drinking milk well before the allele started sweeping. And the selection *accelerated* over time (per Mathieson & Terhorst 2022) for reasons we don't understand.
+- **Lactase** — The selection on LCT is temporally out of sync with the archaeological record of domestication and milk use. People were drinking milk well before the allele started sweeping. And the selection *accelerated* over time (per Mathieson & Terhorst 2022) for reasons we don't understand. Additionally, Patterson et al. (2022) showed selection started in Britain about a century prior to the rest of European samples, for unknown reasons.
 - **Eye color** — Pigmentation variants appear in multiple parts of the world but are only selected in one. Why eye color — which changes aesthetics but has no obvious fitness impact — is one of the most differentiated loci remains a mystery.
-- **Large-effect variants that *aren't* selected** — FTO (largest effect on BMI), a variant that decreases menopause by 5-10 years, highly protective lipid GWAS loci, some large-effect autoimmune variants outside HLA — none show evidence of selection. If these don't show selection, what does that tell us about the forces shaping human evolution?
+- **Large-effect variants that *aren't* selected** (from Gusev's follow-up email citing his blog post):
+  - **APOE** — key Alzheimer's and longevity gene, no strong selection
+  - **FTO** — one of the largest common effects on obesity and diabetes, no selection
+  - **Menopause/fertility genes** — variants that substantially reduce age of menopause, no selection
+  - **IL23R** — one of the largest known protective effects for autoimmune disease, selection either weak or neutral depending on admixture modeling
+  - Gusev's summary: "recent evolution seems to be picking winners and losers fairly arbitrarily"
 
 ### The Akbari Puzzle
 Gusev sees the Akbari result as genuinely interesting but unresolved:
@@ -37,11 +42,14 @@ Gusev flagged **Colbran et al. (Jan 2025 preprint, Mathieson as last author)** �
 
 **What they did:** Replicated the Akbari-style analysis but included ancient DNA from East Asia, South Asia, and Africa (not just Europe).
 
-**Key finding:** Loci under selection in Europe are also enriched for being under selection in East Asia and South Asia. Same genetic variants appear evolutionarily important across populations in different environments.
+**Key finding (from Gusev's follow-up email):** "Variants passing FDR<0.05 (N=215) in Europe, where we had the highest power, are significantly enriched in the lower tail of the p-value distribution for all other non-African regions (P = 9.0×10⁻⁸, 1.5×10⁻⁵, 9.2×10⁻¹¹ and 0.45 for East Asia, the Americas, South Asia, and Africa, respectively)."
 
-**Two interpretations:**
-1. **Convergent selection** — The same variants are independently under selection in different populations in different environments. This would be remarkable.
-2. **Pre-split selection** — The selection actually happened before the populations diverged (in Africa), and the models are misinterpreting the timing, attributing ancient selection to more recent periods.
+Note: NOT significant for Africa (p=0.45), which is interesting — consistent with either post-split selection or different selective pressures in Africa.
+
+**Three interpretations (per paper):**
+1. **Parallel selection on standing variation** — same alleles independently selected in different environments
+2. **Selection on recurrent mutations at the same loci**
+3. **Selection prior to the most recent shared ancestry** — i.e., it happened before populations split
 
 Gusev noted they can't yet determine the direction of selection or put precise timing on it — just that the overlap is greater than chance.
 
@@ -54,7 +62,13 @@ He acknowledged there isn't a good comprehensive paper that synthesizes "here's 
 - Reich used Gusev's "where are the selective sweeps" blog post as the intro to a recent ASHG invited talk in Boston (may be recorded — worth checking).
 
 ## Action Items
-- [ ] Download Colbran et al. 2025 preprint
-- [ ] Look up the specific large-effect variants Gusev mentioned that aren't under selection (FTO/BMI, menopause variant, lipid loci) — Gusev will send notes
-- [ ] Check if Reich's ASHG talk was recorded
-- [ ] Look up Pritchard, Pickrell & Coop paper on reconciling polygenic selection with Coop et al. findings
+- [x] Download Colbran et al. 2025 preprint — DONE
+- [x] Look up the specific large-effect variants Gusev mentioned — DONE (APOE, FTO, menopause genes, IL23R; see his blog post)
+- [ ] Check if Reich's ASHG presidential symposium talk was recorded — **email ASHG directly** (flier: https://www.ashg.org/wp-content/uploads/2025/04/ASHG2025-Presidential-Symposium-Biographies.pdf; prior year example on YouTube: https://www.youtube.com/watch?v=qQLWPeKUROM)
+- [x] Look up Pritchard, Pickrell & Coop paper — DONE (downloaded)
+
+## Follow-up Email from Gusev (Feb 21, 2026)
+- Provided exact Colbran et al. quote with p-values for cross-population enrichment
+- Provided Coop et al. / Pritchard-Coop quote on sweep patterns mimicking neutral structure
+- Listed specific non-selected loci from his blog: APOE, FTO, menopause genes, IL23R
+- ASHG presidential symposium video may be available — contact ASHG directly
