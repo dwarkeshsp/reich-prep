@@ -23,12 +23,23 @@ Prepping for a podcast interview with David Reich (Harvard geneticist, ancient D
 ### Gusev Monograph
 - `gusev-2024-molecular-genetics-heritability-group-differences.pdf` — Sasha Gusev, "A molecular genetics perspective on the heritability of human behavior and group differences" — comprehensive treatment of heritability (h²g), direct vs. indirect effects, EA/IQ genetics, group differences, and natural selection on behavioral traits
 
+### Reich's Copenhagen Talk (Feb 20, 2026)
+- `2_20_2026 Globe Institute Copenhagen - Realizing the promise of ancient DNA to elucidate human adaptation.pptx` — **KEY FILE:** Reich's most recent presentation on ancient DNA and human adaptation. Read this carefully before the interview.
+
+### Akbari et al. 2026 (Updated Paper + Full Materials) — **MOST IMPORTANT DOCUMENT IN REPO**
+- `Akbari 2026 February 2026 paper for sharing/` — Full folder with the latest version of the Akbari et al. paper (Reich lab), including:
+  - `Selection-manuscript.docx` — **THE key paper. Read this first and thoroughly.** Main manuscript
+  - `Figure1.pdf` through `Figure4.pdf` — Main figures
+  - `ExtendedDataFigure1.pdf` through `ExtendedDataFigure17.pdf` — All extended data figures
+  - `Supplementary-Information-10-1-25-final.pdf` — Supplementary information
+  - `selection-online-tables-1-14-26-for-publication.xlsx` — Online tables
+
 ### Other Key Papers
-- `akbari-et-al-2024-directional-selection-ancient-dna-reich.pdf` — Akbari et al. 2024 (Reich lab) — the controversial 279-loci paper using 8,433 ancient genomes
 - `irving-pease-et-al-2024-selection-landscape-ancient-eurasians.pdf` — Irving-Pease et al., Nature 2024 (21 loci)
 - `hernandez-et-al-2011-classic-selective-sweeps-rare.pdf` — Hernandez et al., Science 2011 (classic sweeps were rare)
 - `coop-et-al-2009-geography-human-adaptation.pdf` — Coop et al., PLoS Genetics 2009 (geography & adaptation)
 - `kong-et-al-2017-selection-against-variants-in-the-genome-associated-with-educational-attainment.pdf` — Kong et al., PNAS 2017
+- `greenfield-2010-secondary-products-revolution.pdf` — Greenfield 2010, "The Secondary Products Revolution: the past, the present and the future." Review of Andrew Sherratt's SPR thesis — the shift from primary animal products (meat) to secondary products (milk, wool, traction) ~4th millennium BCE. Relevant to Reich's Bronze Age intensification of selection and the lactase timing puzzle.
 
 ### Papers from Gusev's "50,000 years" Post & Prep Call (newly downloaded)
 - `colbran-et-al-2025-global-patterns-natural-selection-ancient-dna.pdf` — Colbran et al. 2025 preprint (Mathieson last author). Extends Akbari-style analysis globally; finds loci under selection in Europe also enriched for selection in East Asia/South Asia. **Key new paper flagged by Gusev in prep call.**
@@ -42,6 +53,7 @@ Prepping for a podcast interview with David Reich (Harvard geneticist, ancient D
 
 ### Prep Call Notes
 - `gusev-call-notes.md` — Notes from Feb 21, 2026 prep call with Sasha Gusev
+- `reich-powerpoint-and-review-call-transcript.md` — **KEY:** Full transcript of Feb 22, 2026 call where Reich walks through the Copenhagen PowerPoint slide by slide. Covers: why 479 loci (up from 279), the heritability enrichment pattern (immune oligogenic vs. behavioral polygenic), fluctuating/reversing selection, Bronze Age intensification, East Asian replication, cognitive traits (~1 SD over 10kya), and the secondary products revolution
 
 ### Books
 - `first-farmers-chapters/` — First Farmers by Peter Bellwood (chapters as text files)
@@ -82,7 +94,8 @@ Prepping for a podcast interview with David Reich (Harvard geneticist, ancient D
 8. `coop-et-al-2009-geography-human-adaptation.pdf` — Geography vs. selection
 9. `pritchard-pickrell-coop-2010-genetics-human-adaptation.pdf` — Polygenic adaptation as dominant mode (companion to #8)
 10. `irving-pease-et-al-2024-selection-landscape-ancient-eurasians.pdf` — Best current ancient DNA picture
-11. `akbari-et-al-2024-directional-selection-ancient-dna-reich.pdf` — Reich's own controversial paper (must read before interview)
+11. `Akbari 2026 February 2026 paper for sharing/Selection-manuscript.docx` — Reich's updated Akbari et al. paper (must read before interview)
+11b. `2_20_2026 Globe Institute Copenhagen - Realizing the promise of ancient DNA to elucidate human adaptation.pptx` — **Reich's Copenhagen talk — start here**
 12. `kong-et-al-2017-selection-against-variants-in-the-genome-associated-with-educational-attainment.pdf` — Selection against intelligence alleles
 
 ### Phase 5 — The 50,000-Year Picture (from Gusev's post & call)
